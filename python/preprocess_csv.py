@@ -7,7 +7,8 @@ def fix_commas_before_author(row_string):
     if match:
         title_part = match.group(1)
         author_date_url_part = match.group(3)
-        modified_title = title_part.replace(",", "|") # here we need to replace the commas in the title otherwise pandas won't be able to open the file in CSV format
+        modified_title = title_part.replace(",", "|").replace("/", "~") # here we need to replace the commas in the title otherwise pandas won't be able to open the file in CSV format
+        # modified_title = title_part.replace("/", "}")
         return modified_title + "," + author_date_url_part
     else:
         return row_string
@@ -37,5 +38,4 @@ if __name__ == "__main__":
     output_csv = "fixed_arxiv_links.csv"
     process_csv(input_csv, output_csv)
     print(f"Fixed CSV file saved to: {output_csv}")
-    
 # EOF

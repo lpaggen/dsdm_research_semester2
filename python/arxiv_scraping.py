@@ -1,22 +1,35 @@
 import requests
 import time
+import os
 
 def download_page(title, authors, year, url, output_dir = None):
 	headers = {
         "User-Agent": "Script to download quantum computing arxiv papers (example@student.maastrichtuniversity.nl)" # replace with own email, this isn't mandatory but it's nice to let the server admin know who you are
     }
-	
-	try:
-		# get PDF, handle the longer links with bs4 -- mostly Gemini logic here
-		response = requests.get(url, headers=headers, stream=True)  # Fetch the HTML
-		response.raise_for_status() # Raise an exception for bad status codes (4xx or 5xx)
-		
-		fixed_title = title.replace("|", ",")  # replace | with commas
-		
-		filepath = os.path.join(output_dir, fixed_title + ".pdf")
 
+	# Default flag to False
+	file_already_exists = False
+	
+	try:		
+		if output_dir and not os.path.exists(output_dir):
+			os.makedirs(output_dir)
+
+		# Sanitize filename
+		fixed_title = title.replace("|", ",")
+		fixed_title = fixed_title.replace("}", "-")
+		filepath = os.path.join(output_dir, fixed_title + ".pdf")
+		
 		if not os.path.exists(output_dir):
-			os.makedirs(output_dir) 
+			os.makedirs(output_dir)
+
+		file_already_exists = os.path.exists(filepath)
+
+		if file_already_exists:
+			print(f"File {filepath} already exists. Skipping download.")
+			return
+		else: # handle the request only if the file isn't downloaded already -> don't overload server
+			response = requests.get(url, headers=headers, stream=True)  # Fetch the HTML
+			response.raise_for_status() # Raise an exception for bad status codes (4xx or 5xx)
 
 		print(f"Downloading {url} to {filepath}...")
 		response = requests.get(url, stream=True)
@@ -31,27 +44,11 @@ def download_page(title, authors, year, url, output_dir = None):
 
 	except requests.exceptions.RequestException as e:
 		print(f"Error downloading {url}: {e}")
+		return
 	except Exception as e:
 		print(f"An unexpected error occurred: {e}")
+		return
 	finally:
-		time.sleep(15)  # change this at own risk, this is basically the time between requests to the server as per robots.txt guidelines
-		
-def process_csv(csv_filepath):
-	"""Processes a CSV file containing arXiv URLs.
-
-	Args:
-		csv_filepath: The path to the CSV file.
-	"""
-	try:
-		df = pd.read_csv(csv_filepath)
-		for row in df.itertuples():
-			title, authors, date, url = row[1], row[2], row[3], row[4]
-			download_page(title, authors, date, url, output_dir="papers/")
-	except Exception as e:
-		print(f"An unexpected error occurred: {e}")
-
-if __name__ == "__main__":
-    csv_file = "fixed_arxiv_links.csv"  # replace with own csv path
-    process_csv(csv_file)
-
+		if not file_already_exists:
+			time.sleep(15)  # change this at own risk, this is basically the time between requests to the server as per robots.txt guidelines
 # EOF
