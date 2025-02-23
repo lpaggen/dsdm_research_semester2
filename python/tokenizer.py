@@ -15,7 +15,11 @@ def tokenize_text(dir):
 		if os.path.exists(txt_path):
 			print(f"skipping {pdf_path}, text file already exists / pdf already tokenized.")
 			continue
-		text = extract_text(pdf_path)
+		try:
+			text = extract_text(pdf_path)
+		except Exception as e:
+			print(f"Error extracting text from {pdf_path}: {e}")
+			continue
 		text = re.sub(r'[^a-zA-Z]', ' ', text) # remove non-alphabetic characters
 		text = re.sub(r'<.*?>', '', text) # remove angled brackets
 		text = re.sub(r'[^\w\s]', '', text)
