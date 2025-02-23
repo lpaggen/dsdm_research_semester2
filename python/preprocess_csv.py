@@ -23,9 +23,9 @@ def process_csv(input_filepath, output_filepath):
             writer = csv.writer(outfile)
 
             for row in reader:
-                row_string = ",".join(row)  # Convert row (list) to string
+                row_string = ",".join(row)  # convert row to string
                 modified_row_string = fix_commas_before_author(row_string)
-                modified_row = modified_row_string.split(",") # Convert string back to list
+                modified_row = modified_row_string.split(",") # convert string back to row
                 writer.writerow(modified_row)
 
     except FileNotFoundError:

@@ -7,8 +7,7 @@ def download_page(title, authors, year, url, output_dir = None):
         "User-Agent": "Script to download quantum computing arxiv papers (example@student.maastrichtuniversity.nl)" # replace with own email, this isn't mandatory but it's nice to let the server admin know who you are
     }
 
-	# Default flag to False
-	file_already_exists = False
+	file_already_exists = False # setting this outside the try-except block avoids errors
 	
 	try:		
 		if output_dir and not os.path.exists(output_dir):

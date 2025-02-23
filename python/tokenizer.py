@@ -11,6 +11,10 @@ def tokenize_text(dir):
 	pdf_files = [f for f in os.listdir(dir) if f.endswith(".pdf")]
 	for pdf_file in pdf_files:
 		pdf_path = os.path.join(dir, pdf_file)
+		txt_path = pdf_path.replace(".pdf", ".txt")
+		if os.path.exists(txt_path):
+			print(f"skipping {pdf_path}, text file already exists / pdf already tokenized.")
+			continue
 		text = extract_text(pdf_path)
 		text = re.sub(r'[^a-zA-Z]', ' ', text) # remove non-alphabetic characters
 		text = re.sub(r'<.*?>', '', text) # remove angled brackets
@@ -26,3 +30,4 @@ def tokenize_text(dir):
 		
 		with open (pdf_path.replace(".pdf", ".txt"), "w") as f:
 			f.write(text)
+		print(f"tokenized {pdf_path} to {txt_path}")
