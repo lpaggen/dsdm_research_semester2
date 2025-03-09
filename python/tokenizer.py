@@ -31,7 +31,13 @@ def tokenize_text(dir):
 		stop_words = {"the", "is", "a", "an", "of", "in", "on", "at", "to", "and", "or", "it"}
 		text = " ".join([word for word in text.split() if word.lower() not in stop_words])
 		text = text.lower()
-		
+
 		with open (pdf_path.replace(".pdf", ".txt"), "w") as f:
 			f.write(text)
 		print(f"tokenized {pdf_path} to {txt_path}")
+
+if __name__ == "__main__":
+	for year in os.listdir("/Users/lpaggen/Documents/DACS_COURSES/dsdm_research_sem2/papers/"):
+		if year != ".DS_Store":
+			tokenize_text(f"/Users/lpaggen/Documents/DACS_COURSES/dsdm_research_sem2/papers/{year}")
+# EOF 
