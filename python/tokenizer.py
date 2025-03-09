@@ -28,7 +28,8 @@ def tokenize_text(dir):
 		text = re.sub(r'[\|#-]', '', text) # remove special characters
 		text = re.sub(r'\b[a-zA-Z]\b', '', text) # remove single characters
 		text = re.sub(r'\s+', ' ', text).strip() # remove extra whitespaces
-		stop_words = {"the", "is", "a", "an", "of", "in", "on", "at", "to", "and", "or", "it"}
+		stop_words = {"the", "is", "a", "an", "of", "in", "on", "at", "to", "and", "or", "it", "can be", "is a", "of the",
+    				  "in the", "to the", "it is", "that is", "with the", "for the", "on the", "and the", "be the", "cid", "cuj"}
 		text = " ".join([word for word in text.split() if word.lower() not in stop_words])
 		text = text.lower()
 
@@ -36,8 +37,7 @@ def tokenize_text(dir):
 			f.write(text)
 		print(f"tokenized {pdf_path} to {txt_path}")
 
-if __name__ == "__main__":
+if __name__ == "__main__": # change to the correct directory
 	for year in os.listdir("/Users/lpaggen/Documents/DACS_COURSES/dsdm_research_sem2/papers/"):
 		if year != ".DS_Store":
 			tokenize_text(f"/Users/lpaggen/Documents/DACS_COURSES/dsdm_research_sem2/papers/{year}")
-# EOF 
