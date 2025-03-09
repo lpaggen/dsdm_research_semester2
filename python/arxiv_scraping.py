@@ -7,7 +7,7 @@ import socket
 
 # fyi i used a proxy to avoid getting banned by the server
 # you can use your own proxy or remove this part if you don't need it
-socks.set_default_proxy(socks.SOCKS5, "IP", PORT, username="USR", password="PWD")
+socks.set_default_proxy(socks.SOCKS5, "host", port, username="user", password="pwd")
 socket.socket = socks.socksocket
 
 def download_page(title, url, output_dir = None):
@@ -55,7 +55,7 @@ def download_page(title, url, output_dir = None):
 		return
 	finally:
 		if not file_already_exists:
-			time.sleep(1) # sleep for 1 second to avoid overloading the server !! no proxy = 15s
+			time.sleep(0) # sleep for 15 second to avoid overloading the server !! no proxy = 15s
 			
 def process_csv(csv_filepath): # this helper function just reads the csv and calls the download_page function
 	"""Processes a CSV file containing arXiv URLs.
