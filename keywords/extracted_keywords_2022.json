@@ -27,7 +27,7 @@
         "quantum measurement",
         "scalable simulation",
         "qubit models",
-        "Schr\u00f6dinger cat states",
+        "Schrodinger cat states",
         "quantum circuits",
         "single-photon detection",
         "spin measurement",
@@ -35,8 +35,8 @@
         "variational quantum circuit",
         "quantum-to-classical boundary"
     ],
-    "Generation of Schr\u00f6dinger cat states with Wigner negativity using continuous-wave low-loss waveguide optical parametric amplifier.txt": [
-        "Schr\u00f6dinger cat states",
+    "Generation of Schrodinger cat states with Wigner negativity using continuous-wave low-loss waveguide optical parametric amplifier.txt": [
+        "Schrodinger cat states",
         "Wigner negativity",
         "continuous-wave squeezed light",
         "waveguide optical parametric amplifier",
@@ -246,7 +246,7 @@
         "quantum entanglement",
         "qubits",
         "optimization problems",
-        "Shor\u2019s algorithm",
+        "Shor's algorithm",
         "post-quantum cryptography",
         "quantum error correction"
     ],
@@ -518,7 +518,7 @@
         "braid representation",
         "quantum groups",
         "fusion category",
-        "in\ufb01nitesimal braids",
+        "infinitesimal braids",
         "diagrammatical calculus",
         "semisimple ribbon categories",
         "anyonic computation",
@@ -585,7 +585,7 @@
         "scalability",
         "quantum logical operators",
         "quantum computational logic",
-        "Arrow\u2019s Impossibility Theorem",
+        "Arrow's Impossibility Theorem",
         "quantum ballots",
         "second quantum revolution"
     ],
@@ -1248,8 +1248,8 @@
         "superconductor/ferromagnet heterostructures",
         "superconducting spintronics",
         "spin-triplet superconductivity",
-        "\u03c0 Josephson junction",
-        "\u03c0 qubit",
+        "pi Josephson junction",
+        "pi qubit",
         "Majorana states",
         "Bogoliubov quasiparticles",
         "superconducting vortex",
@@ -1286,7 +1286,7 @@
         "quantum computing",
         "Qiskit",
         "program generator",
-        "quantum-speci\ufb01c transformations",
+        "quantum-specific transformations",
         "oracle problem",
         "quantum software engineering",
         "bug detection",
@@ -1380,7 +1380,7 @@
         "quantum arithmetic",
         "interleaving modules"
     ],
-    "A general framework for the composition of quantum homomorphic encryption \\& quantum error correction.txt": [
+    "A general framework for the composition of quantum homomorphic encryption and quantum error correction.txt": [
         "quantum homomorphic encryption",
         "quantum error correction",
         "cloud-based quantum computation",
@@ -1525,7 +1525,7 @@
         "superposition",
         "quantum registers",
         "recursion",
-        "Grover\u2019s algorithm",
+        "Grover's algorithm",
         "quantum assembly language",
         "algorithm archetypes"
     ],
@@ -1549,7 +1549,7 @@
         "Measurement-based model",
         "Circuit-based model",
         "Quantum privacy",
-        "Veri\ufb01able techniques",
+        "Verifiable techniques",
         "Quantum entanglement",
         "Delegated quantum computing"
     ],
@@ -2265,7 +2265,7 @@
         "quantum circuits",
         "automated pictorial computing",
         "qubit",
-        "Cli\ufb00ord+T",
+        "Clifford T",
         "diagrammatic reasoning."
     ],
     "Fundamental limits of superconducting quantum computers.txt": [
@@ -2442,7 +2442,7 @@
         "symmetry breaking",
         "symmetry restoration",
         "many-body systems",
-        "quantum ans\u00e4tze",
+        "quantum ansatze",
         "symmetry-preserving states",
         "linear combination of unitaries (LCU)",
         "quantum phase estimation (QPE)",
@@ -2704,7 +2704,7 @@
         "multiconstellation representation",
         "rotational symmetries",
         "quantum information",
-        "spin-\ud835\udc60 systems"
+        "spin systems"
     ],
     "Measurement-based quantum computation using two-component BECs.txt": [
         "Measurement-based quantum computation",
@@ -2794,7 +2794,7 @@
         "Universal Blind Quantum Computation",
         "Quantum Fully Homomorphic Encryption",
         "Measurement Based Quantum Computing",
-        "LIQUi|\u27e9",
+        "LIQUi",
         "IBM Quantum chip",
         "Qubit Couplings",
         "Decoherence",
@@ -3039,7 +3039,7 @@
         "entanglement",
         "noise",
         "quantum hardware",
-        "stochastic Schr\u00f6dinger equation",
+        "stochastic Schrodinger equation",
         "numerical weather prediction",
         "quantum advantage",
         "decoherence",

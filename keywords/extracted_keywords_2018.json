@@ -23,7 +23,7 @@
         "entanglement",
         "quantum algorithms"
     ],
-    "A Classical Algorithm for Quantum $\uf05ctextsf{SU-(2)$ Schur Sampling.txt": [
+    "A Classical Algorithm for Quantum: Schur Sampling.txt": [
         "Quantum SU(2)",
         "Schur Transform",
         "classical sampling",
@@ -133,17 +133,17 @@
     ],
     "Blind quantum computing can always be made verifiable.txt": [
         "blind quantum computing",
-        "veri\ufb01ability",
+        "verifibility",
         "Feynman-Kitaev history states",
         "measurement-based quantum computing",
         "trap technique",
         "stabilizer test",
         "local Hamiltonians",
         "quantum error correction",
-        "post hoc veri\ufb01cation",
+        "post hoc verification",
         "universal blind quantum computing"
     ],
-    "Boson Sampling with Gaussian input states\uf03a toward efficient scaling and certification.txt": [
+    "Boson Sampling with Gaussian input states: toward efficient scaling and certification.txt": [
         "Boson Sampling",
         "Gaussian input states",
         "continuous-variable quantum information",
@@ -179,11 +179,11 @@
         "fermionic operators",
         "dimensional reduction techniques"
     ],
-    "Circuit optimization for IBM processors\uf03a A way to get higher fidelity and higher values of nonclassicality witnesses.txt": [
+    "Circuit optimization for IBM processors: A way to get higher fidelity and higher values of nonclassicality witnesses.txt": [
         "quantum circuits",
         "circuit optimization",
         "IBM quantum computers",
-        "Cli\ufb00ord+T gates",
+        "Clifford+T gates",
         "quantum supremacy",
         "Mermin inequalities",
         "gate fidelity",
@@ -325,7 +325,7 @@
     ],
     "Expected Optimal Time for the NMR Implementation of Shor's Algorithm for Factorising 15.txt": [
         "quantum computing",
-        "Shor\u2019s algorithm",
+        "Shor's algorithm",
         "NMR implementation",
         "quantum brachistochrone",
         "Monte Carlo simulation",
@@ -347,7 +347,7 @@
         "quantum algorithms",
         "quadratic residue code"
     ],
-    "Experimental quantum mechanics in the class room\uf03a Testing basic ideas of quantum mechanics and quantum computing using IBM quantum computer.txt": [
+    "Experimental quantum mechanics in the class room: Testing basic ideas of quantum mechanics and quantum computing using IBM quantum computer.txt": [
         "quantum computing",
         "IBM quantum computer",
         "quantum mechanics",
@@ -395,7 +395,7 @@
         "hardware advancements",
         "algorithmic innovations"
     ],
-    "Hamiltonian engineering for adiabatic quantum computation\uf03a Lessons from shortcuts to adiabaticity.txt": [
+    "Hamiltonian engineering for adiabatic quantum computation: Lessons from shortcuts to adiabaticity.txt": [
         "shortcuts to adiabaticity",
         "adiabatic quantum computation",
         "Grover's problem",
@@ -443,7 +443,7 @@
         "quantum assembly code",
         "quantum framework"
     ],
-    "Interaction of light and semiconductor can generate quantum states required for solid state quantum computing\uf03a Entangled, steered and other nonclassical states.txt": [
+    "Interaction of light and semiconductor can generate quantum states required for solid state quantum computing: Entangled, steered and other nonclassical states.txt": [
         "nonclassical states",
         "solid state quantum computing",
         "light-semiconductor interaction",
@@ -636,14 +636,14 @@
         "quantum evolution"
     ],
     "On Clifford groups in quantum computing.txt": [
-        "Cli\ufb00ord group",
+        "Clifford group",
         "quantum error-correcting codes",
         "Hadamard gate",
         "Weyl-Heisenberg group",
         "quantum kinematics",
         "Pauli matrices",
         "symmetries",
-        "Cli\ufb00ord quotient group",
+        "Clifford quotient group",
         "unitary operators",
         "Ad-actions"
     ],
@@ -767,7 +767,7 @@
         "circuit depth",
         "quantum algorithm"
     ],
-    "Q#\uf03a Enabling scalable quantum computing and development with a high-level domain-specific language.txt": [
+    "Q#: Enabling scalable quantum computing and development with a high-level domain-specific language.txt": [
         "Q#",
         "quantum programming",
         "domain-specific language",
@@ -854,7 +854,7 @@
     "Quantum Computation Based on Quantum Adiabatic Bifurcations of Kerr-Nonlinear Parametric Oscillators.txt": [
         "Kerr-nonlinear parametric oscillators",
         "quantum bifurcation machines",
-        "Schr\u00f6dinger cat states",
+        "Schrodinger cat states",
         "quantum adiabatic optimization",
         "superconducting circuits",
         "Josephson parametric oscillators",
@@ -959,7 +959,7 @@
         "quantum algorithms",
         "fault tolerance"
     ],
-    "Quantum computing from a mathematical perspective\uf03a a description of the quantum circuit model.txt": [
+    "Quantum computing from a mathematical perspective: a description of the quantum circuit model.txt": [
         "quantum computing",
         "quantum circuit model",
         "quantum Turing machines",
@@ -1088,7 +1088,7 @@
         "geometric phases",
         "entangling gates",
         "auxiliary qubit",
-        "double \u039b structure",
+        "double structure",
         "decoherence-free subspaces"
     ],
     "Self-consistent tomography of temporally correlated errors.txt": [
@@ -1115,7 +1115,7 @@
         "hyperentangled states",
         "robust fidelity"
     ],
-    "Simulating 0+1 Dimensional Quantum Gravity on Quantum Computers\uf03a Mini-Superspace Quantum Cosmology and the World Line Approach in Quantum Field Theory.txt": [
+    "Simulating 0+1 Dimensional Quantum Gravity on Quantum Computers: Mini-Superspace Quantum Cosmology and the World Line Approach in Quantum Field Theory.txt": [
         "quantum computing",
         "quantum cosmology",
         "Wheeler-DeWitt equation",
@@ -1131,7 +1131,7 @@
         "hybrid quantum-classical algorithm",
         "nonequilibrium dynamics",
         "density matrix",
-        "E\u03c1OQ algorithm",
+        "EOQ algorithm",
         "thermal states",
         "Heisenberg model",
         "quantum Monte Carlo",
@@ -1223,7 +1223,7 @@
         "boson sampling",
         "quantum metrology"
     ],
-    "The Travelling Salesman Problem and Adiabatic Quantum Computation\uf03a An Algorithm.txt": [
+    "The Travelling Salesman Problem and Adiabatic Quantum Computation: An Algorithm.txt": [
         "adiabatic quantum computation",
         "travelling salesman problem",
         "Hamiltonian",
@@ -1235,7 +1235,7 @@
         "NP-hard problems",
         "optimization techniques"
     ],
-    "Three-dimensional surface codes\uf03a Transversal gates and fault-tolerant architectures.txt": [
+    "Three-dimensional surface codes: Transversal gates and fault-tolerant architectures.txt": [
         "three-dimensional surface codes",
         "transversal gates",
         "fault-tolerant architectures",
@@ -1281,7 +1281,7 @@
         "continuous variables",
         "squeezed vacuum states",
         "quantum teleportation",
-        "Knill\u2019s C4/C6 code"
+        "Knill's C4/C6 code"
     ],
     "Universal fault-tolerant measurement-based quantum computation.txt": [
         "universal quantum computation",

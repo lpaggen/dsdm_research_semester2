@@ -27,7 +27,7 @@
         "quantum circuits",
         "multivariate polynomials",
         "finite field Z2",
-        "Gr\u00f6bner basis",
+        "Grubner basis",
         "algorithmic tool",
         "Hadamard gate",
         "Toffoli gate",
@@ -35,7 +35,7 @@
         "polynomial equations",
         "computational power"
     ],
-    "A Theory of Physical Quantum Computation\uf03a The Quantum Computer Condition.txt": [
+    "A Theory of Physical Quantum Computation The Quantum Computer Condition.txt": [
         "Quantum Computer Condition",
         "Encoding No-Go Theorem",
         "operator quantum error correction",
@@ -50,7 +50,7 @@
     "Accounting Principles are Simulated on Quantum Computers.txt": [
         "quantum computing",
         "accounting simulation",
-        "quantum Gau\u00df-Jordan elimination",
+        "quantum Gauss-Jordan elimination",
         "linear algebra model",
         "economic modeling",
         "qubits",
@@ -107,7 +107,7 @@
         "quantum error correction",
         "capacitance matrix"
     ],
-    "Can quantum computing solve classically unsolvable problems\uf03f.txt": [
+    "Can quantum computing solve classically unsolvable problems.txt": [
         "quantum computing",
         "hypercomputation",
         "adiabatic cooling",
@@ -119,7 +119,7 @@
         "Hamiltonian dynamics",
         "stochastic decision-making"
     ],
-    "Cavity QED and Quantum Computation in the Weak Coupling Regime II \uf03a Complete Construction of the Controlled-Controlled NOT Gate.txt": [
+    "Cavity QED and Quantum Computation in the Weak Coupling Regime II Complete Construction of the Controlled-Controlled NOT Gate.txt": [
         "Cavity QED",
         "Quantum Computation",
         "Controlled NOT Gate",
@@ -167,7 +167,7 @@
         "quantum gates",
         "phosphorus donors"
     ],
-    "Comment on \uf022Operator Quantum Error Correction\uf022.txt": [
+    "Comment on Operator Quantum Error Correction.txt": [
         "quantum error correction",
         "operator quantum error correction",
         "encoded ersatz quantum computer condition",
@@ -359,7 +359,7 @@
         "control parameters",
         "boundary value problem"
     ],
-    "Linear Optics Quantum Computation\uf03a an Overview.txt": [
+    "Linear Optics Quantum Computation an Overview.txt": [
         "Linear Optics",
         "Quantum Computation",
         "Quantum Error Correction",
@@ -372,7 +372,7 @@
         "Cavity Quantum Electrodynamics"
     ],
     "Many-particle confinement by constructed disorder and quantum computing.txt": [
-        "many-particle con\ufb01nement",
+        "many-particle confinement",
         "quantum computing",
         "localization",
         "qubit coupling",
@@ -383,7 +383,7 @@
         "resonant scattering",
         "theoretical framework"
     ],
-    "Meltdown in quantum computers needs not occur\uf03a Nuclear experiments show a way out.txt": [
+    "Meltdown in quantum computers needs not occur, Nuclear experiments show a way out.txt": [
         "phase memory",
         "Hilbert space",
         "quantum protocol",
@@ -457,7 +457,7 @@
     ],
     "On the Complexity of Searching Maximum of a Function on a Quantum Computer.txt": [
         "quantum computing",
-        "H\u00a8older class",
+        "Holder class",
         "complexity bounds",
         "algorithm construction",
         "quadratic speed-up",
@@ -500,10 +500,10 @@
         "in-plane arrays",
         "vertical stacked arrays",
         "scalability",
-        "F\u00f6rster effect",
+        "Foerster effect",
         "energy selective addressing"
     ],
-    "Quantum Computation Beyond the \uf022Standard Circuit Model\uf022.txt": [
+    "Quantum Computation Beyond the Standard Circuit Model.txt": [
         "Quantum Gates",
         "Quantum Computation",
         "Quantum Control Theory",
@@ -515,7 +515,7 @@
         "Non-Orthogonal Hamiltonians",
         "SU(2N)"
     ],
-    "Quantum computation using weak nonlinearities\uf03a robustness against decoherence.txt": [
+    "Quantum computation using weak nonlinearities robustness against decoherence.txt": [
         "weak nonlinearities",
         "decoherence",
         "quantum computation",
@@ -575,7 +575,7 @@
         "non-separable states",
         "transbosonic states"
     ],
-    "Quantum Computation\uf03a A Computer Science Perspective.txt": [
+    "Quantum Computation A Computer Science Perspective.txt": [
         "quantum computation",
         "quantum algorithms",
         "quantum Turing machine",
@@ -587,7 +587,7 @@
         "complexity theory",
         "probabilistic Turing machines"
     ],
-    "Quantum Computer Condition\uf03a Stability, Classical Computation and Norms.txt": [
+    "Quantum Computer Condition Stability, Classical Computation and Norms.txt": [
         "Quantum Computer Condition",
         "fault-tolerance",
         "superoperator norm",
@@ -731,7 +731,7 @@
         "atom-photon coupling",
         "quantum networking"
     ],
-    "Scalable Quantum Computing with \uf022Enhancement\uf022 Quantum Dots.txt": [
+    "Scalable Quantum Computing with Enhancement Quantum Dots.txt": [
         "enhancement mode",
         "quantum dots",
         "single-electron transistors",
@@ -755,7 +755,7 @@
         "Clebsch-Gordan coefficients",
         "quantum parallelism"
     ],
-    "Simulation of Quantum Computation\uf03a A deterministic event-based approach.txt": [
+    "Simulation of Quantum Computation A deterministic event-based approach.txt": [
         "deterministic simulation",
         "event-based approach",
         "deterministic learning machine",
@@ -815,7 +815,7 @@
         "quantum cellular automaton",
         "adiabatic computing"
     ],
-    "Structuring quantum effects\uf03a superoperators as arrows.txt": [
+    "Structuring quantum effects superoperators as arrows.txt": [
         "density matrices",
         "superoperators",
         "arrows",
@@ -869,7 +869,7 @@
         "Hadamard spread",
         "Exponential parallelism",
         "Measurement dilemma",
-        "Grover\u2019s algorithm",
+        "Grover's algorithm",
         "Interferometer",
         "Error correction",
         "Digital robustness",
@@ -882,7 +882,7 @@
         "noise sensitivity",
         "majority function",
         "quantum operations",
-        "in\ufb01nitesimally local noise",
+        "infinitesimally local noise",
         "multi-Pauli operators",
         "classical computation",
         "entanglement"
@@ -923,7 +923,7 @@
         "quantum logic gates",
         "Rydberg atoms"
     ],
-    "Towards Universal Topological Quantum Computation in the $\u03bd=5~2$ Fractional Quantum Hall State.txt": [
+    "Towards Universal Topological Quantum Computation in the Fractional Quantum Hall State.txt": [
         "topological quantum computation",
         "Pfaffian state",
         "fractional quantum Hall effect",
@@ -978,7 +978,7 @@
         "coherent evolution",
         "geometric phase gates",
         "Deutsch-Jozsa algorithm",
-        "Grover\u2019s search algorithm",
+        "Grover's search algorithm",
         "selective excitation",
         "two-qubit system",
         "quantum information processing"

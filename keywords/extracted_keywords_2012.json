@@ -47,7 +47,7 @@
         "entangling operations",
         "cloud quantum computing"
     ],
-    "Back to the Future\uf03a A roadmap for quantum simulation from vintage quantum chemistry.txt": [
+    "Back to the Future: A roadmap for quantum simulation from vintage quantum chemistry.txt": [
         "quantum simulation",
         "quantum chemistry",
         "ground state energy",
@@ -179,7 +179,7 @@
         "cat state preparation",
         "topological codes"
     ],
-    "Functional Quantum Computing\uf03a An Optical Approach.txt": [
+    "Functional Quantum Computing: An Optical Approach.txt": [
         "functional quantum computing",
         "N-switch operation",
         "coherent operator permutation",
@@ -227,7 +227,7 @@
         "Quantum Phase Transitions",
         "Numerical Simulations"
     ],
-    "Hypercomputation\uf03a Towards an extension of the classical notion of Computability\uf03f.txt": [
+    "Hypercomputation: Towards an extension of the classical notion of Computability.txt": [
         "hypercomputation",
         "quantum computing",
         "adiabatic quantum computing",
@@ -479,7 +479,7 @@
         "computational basis",
         "precision requirements"
     ],
-    "Simulating the Transverse Ising Model on a Quantum Computer\uf03a Error Correction with the Surface Code.txt": [
+    "Simulating the Transverse Ising Model on a Quantum Computer: Error Correction with the Surface Code.txt": [
         "surface code",
         "quantum simulation",
         "transverse Ising model",
@@ -503,7 +503,7 @@
         "Bell States",
         "Quantum Logic Gates"
     ],
-    "Spin Glass\uf03a A Bridge between quantum computation and statistical mechanics.txt": [
+    "Spin Glass: A Bridge between quantum computation and statistical mechanics.txt": [
         "quantum annealing",
         "surface code",
         "spin glass",
@@ -539,7 +539,7 @@
         "accuracy threshold",
         "many-body correlations"
     ],
-    "Surface codes\uf03a Towards practical large-scale quantum computation.txt": [
+    "Surface codes: Towards practical large-scale quantum computation.txt": [
         "surface codes",
         "logical qubits",
         "stabilizer codes",
@@ -603,7 +603,7 @@
         "magic state distillation",
         "quantum error correction",
         "fault-tolerant quantum computation",
-        "Cli\ufb00ord gates",
+        "Clifford gates",
         "noise robustness",
         "Bloch sphere",
         "depolarizing noise model",

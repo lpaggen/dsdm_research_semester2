@@ -71,7 +71,7 @@
         "quantum logic gates",
         "error correction techniques"
     ],
-    "Comment on \uf022Resilient Quantum Computation in Correlated Environments\uf03a A Quantum Phase Transition Perspective\uf022 and \uf022Fault-tolerant Quantum Computation with Longe-range Correlated Noise\uf022.txt": [
+    "Comment on Resilient Quantum Computation in Correlated Environments A Quantum Phase Transition Perspective and Fault-tolerant Quantum Computation with Longe-range Correlated Noise.txt": [
         "quantum error correction",
         "fault-tolerant computation",
         "quantum phase transition",
@@ -199,7 +199,7 @@
         "photonic system",
         "quantum algorithms",
         "measurement-based protocol",
-        "Prisoner\u2019s Dilemma",
+        "Prisoner's Dilemma",
         "cluster states",
         "quantum information processing"
     ],
@@ -443,7 +443,7 @@
         "geometric phase",
         "solid-state quantum computing"
     ],
-    "Quantum Computations\uf03a Fundamentals And Algorithms.txt": [
+    "Quantum Computations Fundamentals And Algorithms.txt": [
         "quantum computing",
         "quantum algorithms",
         "Shor's algorithm",
@@ -529,7 +529,7 @@
     ],
     "Security Notions for Quantum Public-Key Cryptography.txt": [
         "quantum public-key cryptography",
-        "Shor\u2019s algorithm",
+        "Shor's algorithm",
         "lattice-based cryptosystems",
         "security notions",
         "quantum key distribution",
@@ -539,7 +539,7 @@
         "quantum adversary model",
         "computational indistinguishability"
     ],
-    "Silicon in the Quantum Limit\uf03a Quantum Computing and Decoherence in Silicon Architectures.txt": [
+    "Silicon in the Quantum Limit Quantum Computing and Decoherence in Silicon Architectures.txt": [
         "silicon",
         "quantum computing",
         "spintronics",
@@ -559,7 +559,7 @@
         "fidelity decay",
         "non-resonant transitions",
         "Hadamard gates",
-        "2\u03c0k-method",
+        "2k-method",
         "quantum gates",
         "numerical simulations"
     ],
@@ -683,7 +683,7 @@
         "logic-controlled phase gate",
         "Bang-Bang pulses"
     ],
-    "Why should anyone care about computing with anyons\uf03f.txt": [
+    "Why should anyone care about computing with anyons.txt": [
         "topological quantum computation",
         "anyons",
         "exotic statistics",

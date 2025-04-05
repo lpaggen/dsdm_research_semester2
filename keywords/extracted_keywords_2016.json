@@ -35,7 +35,7 @@
         "classical/quantum synchronization",
         "quantum state manipulation"
     ],
-    "A Transmon Quantum Annealer\uf03a Decomposing Many-Body Ising Constraints Into Pair Interactions.txt": [
+    "A Transmon Quantum Annealer: Decomposing Many-Body Ising Constraints Into Pair Interactions.txt": [
         "Transmon",
         "Quantum Annealer",
         "Adiabatic Quantum Computing",
@@ -251,7 +251,7 @@
         "quantum complexity theory",
         "polynomial hierarchy"
     ],
-    "Flow Ambiguity\uf03a A Path Towards Classically Driven Blind Quantum Computation.txt": [
+    "Flow Ambiguity: A Path Towards Classically Driven Blind Quantum Computation.txt": [
         "Blind quantum computation",
         "classical client",
         "measurement-based quantum computing",
@@ -359,7 +359,7 @@
         "Superconducting Qubits",
         "Quantum Machine Learning"
     ],
-    "How can the green sulfur bacteria use quantum computing for light harvesting\uf03f.txt": [
+    "How can the green sulfur bacteria use quantum computing for light harvesting.txt": [
         "long-living coherence",
         "quantum biology",
         "green sulfur bacteria",
@@ -515,7 +515,7 @@
         "programmable quantum circuits",
         "local complementarity"
     ],
-    "Power of photonic states\uf03a from quantum computation to cosmology.txt": [
+    "Power of photonic states: from quantum computation to cosmology.txt": [
         "squeezed states",
         "quantum computation",
         "multi-parameter estimation",
@@ -527,7 +527,7 @@
         "quantum algorithms",
         "process tomography"
     ],
-    "Private quantum computation\uf03a An introduction to blind quantum computing and related protocols.txt": [
+    "Private quantum computation: An introduction to blind quantum computing and related protocols.txt": [
         "blind quantum computation",
         "quantum cryptography",
         "delegated quantum computation",
@@ -587,7 +587,7 @@
         "measurement-based model",
         "adiabatic quantum computing"
     ],
-    "Quantum computing with atomic qubits and Rydberg interactions\uf03a Progress and challenges.txt": [
+    "Quantum computing with atomic qubits and Rydberg interactions: Progress and challenges.txt": [
         "Rydberg interactions",
         "atomic qubits",
         "quantum gates",
@@ -623,7 +623,7 @@
         "higher-symmetry generalizations",
         "computational properties"
     ],
-    "QuDot Nets\uf03a Quantum Computers and Bayesian Networks.txt": [
+    "QuDot Nets: Quantum Computers and Bayesian Networks.txt": [
         "QuDot Nets",
         "Bayesian Networks",
         "quantum gates",

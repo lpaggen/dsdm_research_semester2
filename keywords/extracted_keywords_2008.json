@@ -35,7 +35,7 @@
         "one-way quantum computing",
         "entanglement operations"
     ],
-    "A Survey of Quantum Programming Languages\uf03a History, Methods, and Tools.txt": [
+    "A Survey of Quantum Programming Languages History, Methods, and Tools.txt": [
         "quantum programming",
         "quantum algorithms",
         "linear logic",
@@ -71,7 +71,7 @@
         "cluster state quantum computing",
         "no cloning principle"
     ],
-    "Are random pure states useful for quantum computation\uf03f.txt": [
+    "Are random pure states useful for quantum computation.txt": [
         "random pure states",
         "measurement-based quantum computation",
         "classical control algorithms",
@@ -253,7 +253,7 @@
     ],
     "Efficient quantum circuits for one-way quantum computing.txt": [
         "iSWAP gate",
-        "\u221aSWAP gate",
+        "SWAP gate",
         "cluster states",
         "one-way quantum computing",
         "solid-state qubits",

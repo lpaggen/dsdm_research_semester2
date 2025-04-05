@@ -275,7 +275,7 @@
         "topological measurement",
         "quantum phase transitions"
     ],
-    "How to test the \uf022quantumness\uf022 of a quantum computer\uf03f.txt": [
+    "How to test the quantumness of a quantum computer.txt": [
         "quantum annealing",
         "D-Wave",
         "qubits",
@@ -383,7 +383,7 @@
         "quantum algorithms",
         "decoherence."
     ],
-    "Prospects for quantum computing\uf03a extremely doubtful.txt": [
+    "Prospects for quantum computing extremely doubtful.txt": [
         "quantum computing",
         "qubits",
         "threshold theorem",
@@ -467,7 +467,7 @@
         "honeycomb lattice",
         "adaptive measurements"
     ],
-    "Superconducting Quantum Computing Without Entanglement\uf03f.txt": [
+    "Superconducting Quantum Computing Without Entanglement.txt": [
         "Superconducting quantum computing",
         "Josephson junctions",
         "flux qubit",
@@ -589,7 +589,7 @@
     ],
     "Using Quantum Computers to Learn Physics.txt": [
         "quantum computing",
-        "Schr\u00f6dinger equation",
+        "Schrodinger equation",
         "quantum simulation",
         "computational complexity",
         "quantum error correction",

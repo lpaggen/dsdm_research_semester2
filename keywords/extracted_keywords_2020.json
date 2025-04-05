@@ -1,6 +1,6 @@
 {
-    "A Classical $\u03c0$ Machine and Grover's Algorithm.txt": [
-        "\u03c0 machine",
+    "A Classical pi Machine and Grover's Algorithm.txt": [
+        "pi machine",
         "Grover's algorithm",
         "quantum computing",
         "computational basis",
@@ -61,7 +61,7 @@
     ],
     "A Gentle Introduction to Quantum Computing Algorithms with Applications to Universal Prediction.txt": [
         "quantum computing",
-        "Solomono\ufb00 Induction",
+        "Solomono Induction",
         "quantum algorithms",
         "AIXI",
         "speed prior",
@@ -335,7 +335,7 @@
         "quantum RAM",
         "algorithmic reduction"
     ],
-    "CMOS Quantum Computing\uf03a Toward A Quantum Computer System-on-Chip.txt": [
+    "CMOS Quantum Computing: Toward A Quantum Computer System-on-Chip.txt": [
         "CMOS quantum computing",
         "semiconductor qubits",
         "quantum error correction",
@@ -391,7 +391,7 @@
         "mesonic bound states",
         "NISQ devices",
         "randomized measurement protocols",
-        "second order R\u00e9nyi entropy",
+        "second order Renyi entropy",
         "quantum many-body effects",
         "non-perturbative phenomena"
     ],
@@ -431,7 +431,7 @@
         "atom missing",
         "universal quantum computation"
     ],
-    "Creative Quantum Computing\uf03a Inverse FFT, Sound Synthesis, Adaptive Sequencing and Musical Composition.txt": [
+    "Creative Quantum Computing: Inverse FFT, Sound Synthesis, Adaptive Sequencing and Musical Composition.txt": [
         "Quantum computing",
         "Inverse FFT",
         "Sound synthesis",
@@ -443,7 +443,7 @@
         "Transition matrices",
         "Musical composition"
     ],
-    "CutQC\uf03a Using Small Quantum Computers for Large Quantum Circuit Evaluations.txt": [
+    "CutQC: Using Small Quantum Computers for Large Quantum Circuit Evaluations.txt": [
         "Quantum Computing",
         "CutQC",
         "Hybrid Computing",
@@ -707,7 +707,7 @@
         "postselection",
         "optical hybrid states"
     ],
-    "How Does Adiabatic Quantum Computation Fit into Quantum Automata Theory\uf03f.txt": [
+    "How Does Adiabatic Quantum Computation Fit into Quantum Automata Theory.txt": [
         "adiabatic quantum computation",
         "quantum finite automata",
         "Hamiltonian",
@@ -731,7 +731,7 @@
         "computational efficiency",
         "representation relation"
     ],
-    "How will quantum computers provide an industrially relevant computational advantage in quantum chemistry\uf03f.txt": [
+    "How will quantum computers provide an industrially relevant computational advantage in quantum chemistry.txt": [
         "quantum advantage",
         "quantum chemistry",
         "quantum simulations",
@@ -743,7 +743,7 @@
         "non-dynamic correlation",
         "quantum algorithms"
     ],
-    "Hybrid Quantum Computing -- Tabu Search Algorithm for Partitioning Problems\uf03a preliminary study on the Traveling Salesman Problem.txt": [
+    "Hybrid Quantum Computing -- Tabu Search Algorithm for Partitioning Problems: preliminary study on the Traveling Salesman Problem.txt": [
         "Hybrid Quantum Computing",
         "Tabu Search Algorithm",
         "Traveling Salesman Problem",
@@ -827,7 +827,7 @@
         "Jozsa protocol",
         "quantum information science"
     ],
-    "It's anyon's game\uf03a the race to quantum computation.txt": [
+    "It's anyon's game: the race to quantum computation.txt": [
         "anyon",
         "fractional statistics",
         "topological quantum computation",
@@ -839,7 +839,7 @@
         "quantum coherence",
         "fault-tolerant quantum computation"
     ],
-    "Just Like the Real Thing\uf03a Fast Weak Simulation of Quantum Computation.txt": [
+    "Just Like the Real Thing: Fast Weak Simulation of Quantum Computation.txt": [
         "quantum computing",
         "weak simulation",
         "decision diagrams",
@@ -923,7 +923,7 @@
         "entangling gates",
         "error correction"
     ],
-    "Multimodal Container Planning\uf03a a QUBO Formulation and Implementation on a Quantum Annealer.txt": [
+    "Multimodal Container Planning: a QUBO Formulation and Implementation on a Quantum Annealer.txt": [
         "QUBO",
         "Quantum Annealing",
         "Quantum Computing",
@@ -1007,7 +1007,7 @@
         "sparse Hamiltonians",
         "eigenmodes analysis"
     ],
-    "On Interfacing the Brain with Quantum Computers\uf03a An Approach to Listen to the Logic of the Mind.txt": [
+    "On Interfacing the Brain with Quantum Computers: An Approach to Listen to the Logic of the Mind.txt": [
         "quantum computing",
         "brain-computer interface",
         "EEG analysis",
@@ -1055,7 +1055,7 @@
         "direct rotations",
         "quantum optimal control"
     ],
-    "Optimizing the Optimizer\uf03a Decomposition Techniques for Quantum Annealing.txt": [
+    "Optimizing the Optimizer: Decomposition Techniques for Quantum Annealing.txt": [
         "optimization",
         "quantum annealing",
         "heterogeneous computing",
@@ -1067,7 +1067,7 @@
         "Iterative Centrality Halo",
         "NISQ-era"
     ],
-    "Polylog-overhead highly fault-tolerant measurement-based quantum computation\uf03a all-Gaussian implementation with Gottesman-Kitaev-Preskill code.txt": [
+    "Polylog-overhead highly fault-tolerant measurement-based quantum computation: all-Gaussian implementation with Gottesman-Kitaev-Preskill code.txt": [
         "photonic quantum systems",
         "measurement-based quantum computation",
         "Gottesman-Kitaev-Preskill code",
@@ -1086,7 +1086,7 @@
         "variational quantum eigensolver",
         "quantum phase estimation",
         "electronic structure problem",
-        "many-body Schr\u00f6dinger equation",
+        "many-body Schrodinger equation",
         "fermion-to-qubit mapping",
         "cloud computing",
         "noisy intermediate-scale quantum (NISQ)"
@@ -1199,7 +1199,7 @@
         "Hamiltonian simulation",
         "NISQ era"
     ],
-    "Quantum Annealing-Based Software Components\uf03a An Experimental Case Study with SAT Solving.txt": [
+    "Quantum Annealing-Based Software Components: An Experimental Case Study with SAT Solving.txt": [
         "Quantum Computing",
         "Quantum Annealing",
         "Boolean Satisfiability",
@@ -1263,7 +1263,7 @@
         "quantum computed moments",
         "variational principle",
         "Hamiltonian moments",
-        "in\ufb01mum theorem",
+        "infinum theorem",
         "Lanczos expansion",
         "quantum circuit depth",
         "hybrid quantum algorithms",
@@ -1271,7 +1271,7 @@
         "tensor product basis",
         "quantum advantage"
     ],
-    "Quantum Computer\uf03a Hello, Music!.txt": [
+    "Quantum Computer: Hello, Music!.txt": [
         "quantum computing",
         "quantum music",
         "algorithmic music",
@@ -1283,7 +1283,7 @@
         "quantum algorithms",
         "quantum hardware"
     ],
-    "Quantum Computing @ MIT\uf03a The Past, Present, and Future of the Second Revolution in Computing.txt": [
+    "Quantum Computing at MIT: The Past, Present, and Future of the Second Revolution in Computing.txt": [
         "quantum computing",
         "superconducting qubits",
         "quantum algorithms",
@@ -1307,7 +1307,7 @@
         "resource estimates",
         "dynamic electron correlation"
     ],
-    "Quantum computing for energy systems optimization\uf03a Challenges and opportunities.txt": [
+    "Quantum computing for energy systems optimization: Challenges and opportunities.txt": [
         "quantum computing",
         "energy systems optimization",
         "quantum algorithms",
@@ -1319,7 +1319,7 @@
         "heat exchanger network synthesis",
         "hybrid quantum-classical methods"
     ],
-    "Quantum Computing for Finance\uf03a State of the Art and Future Prospects.txt": [
+    "Quantum Computing for Finance: State of the Art and Future Prospects.txt": [
         "quantum computing",
         "quantum algorithms",
         "quantum advantage",
@@ -1367,7 +1367,7 @@
         "hybrid quantum-classical computing",
         "quantum hardware"
     ],
-    "Quantum Computing without Quantum Computers\uf03a Database Search and Data Processing Using Classical Wave Superposition.txt": [
+    "Quantum Computing without Quantum Computers: Database Search and Data Processing Using Classical Wave Superposition.txt": [
         "quantum computing",
         "classical wave superposition",
         "database search",
@@ -1379,7 +1379,7 @@
         "spin wave superposition",
         "algorithmic innovations"
     ],
-    "Quantum Computing\uf03a A Taxonomy, Systematic Review and Future Directions.txt": [
+    "Quantum Computing: A Taxonomy, Systematic Review and Future Directions.txt": [
         "quantum computing",
         "quantum supremacy",
         "Noisy Intermediate Scale Quantum (NISQ)",
@@ -1403,7 +1403,7 @@
         "controlled unitary operations",
         "quantum efficiency"
     ],
-    "Quantum in the Cloud\uf03a Application Potentials and Research Opportunities.txt": [
+    "Quantum in the Cloud: Application Potentials and Research Opportunities.txt": [
         "quantum computing",
         "hybrid applications",
         "cloud computing",
@@ -1427,7 +1427,7 @@
         "diagram simplification",
         "quantum circuits"
     ],
-    "Quantum Optical Convolutional Neural Network\uf03a A Novel Image Recognition Framework for Quantum Computing.txt": [
+    "Quantum Optical Convolutional Neural Network: A Novel Image Recognition Framework for Quantum Computing.txt": [
         "Quantum Optical Convolutional Neural Network",
         "Quantum computing",
         "Optical Neural Networks",
@@ -1439,7 +1439,7 @@
         "MNIST dataset",
         "Quantum photonics"
     ],
-    "Quantum optimal control with quantum computers\uf03a an hybrid algorithm featuring machine learning optimization.txt": [
+    "Quantum optimal control with quantum computers: an hybrid algorithm featuring machine learning optimization.txt": [
         "quantum optimal control",
         "hybrid algorithm",
         "machine learning optimization",
@@ -1484,7 +1484,7 @@
         "variational quantum eigensolvers",
         "spin-defects",
         "near-term quantum computers",
-        "e\ufb00ective Hamiltonian",
+        "effective Hamiltonian",
         "dielectric screening"
     ],
     "Quantum State Optimization and Computational Pathway Evaluation for Gate-Model Quantum Computers.txt": [
@@ -1631,7 +1631,7 @@
         "Noisy Intermediate-Scale Quantum (NISQ)",
         "state fidelity"
     ],
-    "Scaling silicon-based quantum computing using CMOS technology\uf03a State-of-the-art, Challenges and Perspectives.txt": [
+    "Scaling silicon-based quantum computing using CMOS technology: State-of-the-art, Challenges and Perspectives.txt": [
         "silicon-based quantum computing",
         "CMOS technology",
         "quantum-classical interface",
@@ -1751,7 +1751,7 @@
         "quantum RAM",
         "variational quantum algorithms"
     ],
-    "Software tools for quantum control\uf03a Improving quantum computer performance through noise and error suppression.txt": [
+    "Software tools for quantum control: Improving quantum computer performance through noise and error suppression.txt": [
         "quantum control",
         "noise suppression",
         "error robustness",
@@ -1814,7 +1814,7 @@
     "Supercomputer simulations of transmon quantum computers.txt": [
         "transmon qubits",
         "quantum simulation",
-        "time-dependent Schr\u00f6dinger equation",
+        "time-dependent Schrodinger equation",
         "crosstalk",
         "quantum error correction",
         "fault tolerance",
@@ -1823,7 +1823,7 @@
         "NISQ processors",
         "superconducting circuits"
     ],
-    "Superconducting Quantum Computing\uf03a A Review.txt": [
+    "Superconducting Quantum Computing: A Review.txt": [
         "superconducting qubits",
         "quantum supremacy",
         "NISQ era",
@@ -1835,7 +1835,7 @@
         "Transmon qubit",
         "hybrid qubit"
     ],
-    "Teaching Quantum Computing through a Practical Software-driven Approach\uf03a Experience Report.txt": [
+    "Teaching Quantum Computing through a Practical Software-driven Approach: Experience Report.txt": [
         "quantum computing",
         "quantum programming",
         "Quantum Katas",
@@ -1943,7 +1943,7 @@
         "quantum error correction",
         "computational biology"
     ],
-    "The quest and hope of Majorana zero modes in topological superconductor for fault-tolerant quantum computing\uf03a an introductory overview.txt": [
+    "The quest and hope of Majorana zero modes in topological superconductor for fault-tolerant quantum computing: an introductory overview.txt": [
         "Majorana fermions",
         "topological superconductors",
         "fault-tolerant quantum computing",
@@ -1955,7 +1955,7 @@
         "topological qubits",
         "quantum machine learning"
     ],
-    "Threats and Opportunities\uf03a Blockchain Meets Quantum Computation.txt": [
+    "Threats and Opportunities: Blockchain Meets Quantum Computation.txt": [
         "quantum key distribution",
         "Grover's algorithm",
         "detectable Byzantine agreement",
@@ -1979,7 +1979,7 @@
         "deployment decision problem",
         "quantum inspired algorithms"
     ],
-    "Toward Quantum Simulations of $\uf05cmathbb{Z-_2$ Gauge Theory Without State Preparation.txt": [
+    "Toward Quantum Simulations of Z2 Gauge Theory Without State Preparation.txt": [
         "quantum simulations",
         "Z2 gauge theory",
         "state preparation",
@@ -2027,7 +2027,7 @@
         "atomically-thin materials",
         "quantum circuits"
     ],
-    "Tutorial\uf03a Gate-based superconducting quantum computing.txt": [
+    "Tutorial: Gate-based superconducting quantum computing.txt": [
         "superconducting qubit",
         "quantum gate",
         "quantum error correction",
@@ -2051,7 +2051,7 @@
         "dimensional conversion",
         "quantum error correction"
     ],
-    "What limits the simulation of quantum computers\uf03f.txt": [
+    "What limits the simulation of quantum computers.txt": [
         "quantum supremacy",
         "matrix product states",
         "entanglement",

@@ -11,7 +11,7 @@
         "logical error threshold",
         "planar code."
     ],
-    "A NASA Perspective on Quantum Computing\uf03a Opportunities and Challenges.txt": [
+    "A NASA Perspective on Quantum Computing: Opportunities and Challenges.txt": [
         "quantum annealing",
         "heuristic algorithms",
         "QUBO",
@@ -127,11 +127,11 @@
         "polynomial time",
         "quantum algorithms",
         "Hadamard test",
-        "\u03c64 theory",
+        "4 theory",
         "decision problem",
         "adiabatic passage"
     ],
-    "Combinatorial Optimization on Gate Model Quantum Computers\uf03a A Survey.txt": [
+    "Combinatorial Optimization on Gate Model Quantum Computers: A Survey.txt": [
         "quantum computing",
         "combinatorial optimization",
         "quadratic unconstrained binary optimization (QUBO)",
@@ -143,7 +143,7 @@
         "quantum annealing",
         "global optimization algorithms"
     ],
-    "Combining Topological Hardware and Topological Software\uf03a Color Code Quantum Computing with Topological Superconductor Networks.txt": [
+    "Combining Topological Hardware and Topological Software: Color Code Quantum Computing with Topological Superconductor Networks.txt": [
         "Topological quantum computing",
         "Majorana Cooper pair boxes",
         "color codes",
@@ -239,7 +239,7 @@
         "classical simulation",
         "computational run"
     ],
-    "Entanglement Monotones and Measures\uf03a an overview.txt": [
+    "Entanglement Monotones and Measures: an overview.txt": [
         "Entanglement",
         "Quantum Information",
         "Entanglement Measures",
@@ -467,7 +467,7 @@
         "error mitigation",
         "quantum information."
     ],
-    "NMRCloudQ\uf03a A Quantum Cloud Experience on a Nuclear Magnetic Resonance Quantum Computer.txt": [
+    "NMRCloudQ: A Quantum Cloud Experience on a Nuclear Magnetic Resonance Quantum Computer.txt": [
         "NMRCloudQ",
         "quantum cloud computing",
         "nuclear magnetic resonance",
@@ -506,7 +506,7 @@
     "Nondeterministic quantum computation via ground state cooling and ultrafast Grover algorithm.txt": [
         "nondeterministic quantum computation",
         "ground state cooling",
-        "Grover\u2019s algorithm",
+        "Grover's algorithm",
         "adiabatic quantum computation",
         "selective projection measurements",
         "ancilla system",
@@ -563,7 +563,7 @@
         "Resource Optimization",
         "Fault Tolerance"
     ],
-    "PhD thesis\uf03a Multipartite entanglement and quantum algorithms.txt": [
+    "PhD thesis: Multipartite entanglement and quantum algorithms.txt": [
         "multipartite entanglement",
         "quantum algorithms",
         "absolutely maximally entangled states",
@@ -719,7 +719,7 @@
         "geometric phases",
         "high-fidelity quantum computation"
     ],
-    "Someone shouts, \uf022,01000\uf03e!\uf022 Who is Excited\uf03f.txt": [
+    "Someone shouts, 01000! Who is Excited?.txt": [
         "qubit",
         "wavefunction",
         "operator matrices",
@@ -801,7 +801,7 @@
         "Quantum error correction",
         "Clifford operations",
         "Controlled-phase gate",
-        "\u03c0/8 rotation"
+        "rotation"
     ],
     "Universal measurement-based quantum computation in two-dimensional SPT phases.txt": [
         "universal quantum computation",
@@ -827,7 +827,7 @@
         "single-mode Gaussian gates",
         "cubic phase gate"
     ],
-    "Verification of quantum computation\uf03a An overview of existing approaches.txt": [
+    "Verification of quantum computation: An overview of existing approaches.txt": [
         "quantum verification",
         "quantum computation",
         "complexity theory",
@@ -849,6 +849,6 @@
         "stabilizer test",
         "quantum cryptography",
         "adaptive measurements",
-        "non-Cli\ufb00ord basis measurements"
+        "non-Clifford basis measurements"
     ]
 }

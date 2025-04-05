@@ -35,7 +35,7 @@
         "Experimental techniques",
         "Decoherence suppression"
     ],
-    "Atom-Photon Interactions with Respect to Quantum Computation\uf03a Three-Level Atom in Two-Mode Field.txt": [
+    "Atom-Photon Interactions with Respect to Quantum Computation Three-Level Atom in Two-Mode Field.txt": [
         "three-level atom",
         "quantum electromagnetic field",
         "evolution operators",
@@ -71,7 +71,7 @@
         "quantum adiabatic theorem",
         "interpolating Hamiltonians"
     ],
-    "Cartoon Computation\uf03a Quantum-like computing without quantum mechanics.txt": [
+    "Cartoon Computation Quantum-like computing without quantum mechanics.txt": [
         "geometric structures",
         "quantum-like algorithms",
         "geometric algebras",
@@ -359,7 +359,7 @@
         "high-fidelity communication",
         "scalable quantum networks"
     ],
-    "Is Fault-Tolerant Quantum Computation Really Possible\uf03f.txt": [
+    "Is Fault-Tolerant Quantum Computation Really Possible.txt": [
         "threshold theorem",
         "quantum error correction",
         "fault-tolerant computation",
@@ -563,7 +563,7 @@
         "two-qubit gates",
         "decoherence"
     ],
-    "Quantum computing with superconductors I\uf03a Architectures.txt": [
+    "Quantum computing with superconductors I Architectures.txt": [
         "Josephson junctions",
         "qubits",
         "superconducting circuits",
@@ -575,7 +575,7 @@
         "resonator coupling",
         "quantum information processing"
     ],
-    "Quantum Memory Hierarchies\uf03a Efficient Designs to Match Available Parallelism in Quantum Computing.txt": [
+    "Quantum Memory Hierarchies Efficient Designs to Match Available Parallelism in Quantum Computing.txt": [
         "quantum memory hierarchy",
         "scalable quantum architecture",
         "compressed quantum logic array",

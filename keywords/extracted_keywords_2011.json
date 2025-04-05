@@ -71,7 +71,7 @@
         "QMA-completeness",
         "heuristic algorithms"
     ],
-    "BF-theory in graphene\uf03a a route toward topological quantum computing\uf03f.txt": [
+    "BF-theory in graphene: a route toward topological quantum computing.txt": [
         "graphene",
         "topological quantum computing",
         "BF-theory",
@@ -121,7 +121,7 @@
     ],
     "Constraints on measurement-based quantum computation in effective cluster states.txt": [
         "measurement-based quantum computation",
-        "e\ufb00ective cluster state",
+        "effective cluster state",
         "perturbative framework",
         "multi-site interactions",
         "Hamiltonian",
@@ -251,7 +251,7 @@
         "spin-based quantum memory",
         "tunable coupler"
     ],
-    "How Quantum Computers Fail\uf03a Quantum Codes, Correlations in Physical Systems, and Noise Accumulation.txt": [
+    "How Quantum Computers Fail: Quantum Codes, Correlations in Physical Systems, and Noise Accumulation.txt": [
         "quantum error correction",
         "fault-tolerant quantum computation",
         "decoherence",
@@ -278,7 +278,7 @@
     "Integrable Quantum Computation.txt": [
         "Integrable Quantum Computation",
         "Bethe Ansatz",
-        "Yang\u2013Baxter Equation",
+        "Yang-Baxter Equation",
         "Quantum Circuit Model",
         "Two-Qubit Gates",
         "Scattering Operators",
@@ -339,7 +339,7 @@
         "non-adiabatic holonomic quantum computation",
         "geometric phases",
         "universal quantum gates",
-        "three-level \u039b configuration",
+        "three-level configuration",
         "optical transitions",
         "coherence time",
         "robust gates",
@@ -419,7 +419,7 @@
         "theoretical frameworks",
         "algorithmic innovations"
     ],
-    "QIS-XML\uf03a An Extensible Markup Language for Quantum Information Science.txt": [
+    "QIS-XML: An Extensible Markup Language for Quantum Information Science.txt": [
         "QIS-XML",
         "quantum gates",
         "quantum circuits",
@@ -455,7 +455,7 @@
         "quantum operations",
         "gate fidelity"
     ],
-    "Quantum Computation\uf03a Particle and Wave Aspects of Algorithms.txt": [
+    "Quantum Computation: Particle and Wave Aspects of Algorithms.txt": [
         "quantum algorithms",
         "superposition",
         "factorisation",
@@ -508,7 +508,7 @@
         "Bethe ansatz",
         "factorisable scattering model",
         "quantum many-body system",
-        "quantum Yang\u2013Baxter equation",
+        "Yang-Baxter equation",
         "two-body quantum gate",
         "integrable quantum computing",
         "topological quantum computing",
@@ -539,7 +539,7 @@
         "cloning-based architecture",
         "computational complexity"
     ],
-    "Quantum Computing Without Wavefunctions\uf03a Time-Dependent Density Functional Theory for Universal Quantum Computation.txt": [
+    "Quantum Computing Without Wavefunctions: Time-Dependent Density Functional Theory for Universal Quantum Computation.txt": [
         "density functional theory",
         "time-dependent density functional theory",
         "qubit Hamiltonians",
@@ -551,7 +551,7 @@
         "auxiliary Hamiltonians",
         "entanglement functionals"
     ],
-    "Quantum Computing\uf03a Theoretical versus Practical Possibility.txt": [
+    "Quantum Computing: Theoretical versus Practical Possibility.txt": [
         "quantum computing",
         "qubits",
         "strong emergence",
@@ -631,8 +631,8 @@
         "entangled spin state",
         "two-level spin system",
         "quantum feedback control",
-        "Schr\u00f6dinger\u2019s equation",
-        "Langevin\u2019s stochastic differential equation",
+        "Schrodinger's equation",
+        "Langevin's stochastic differential equation",
         "flatness-based control"
     ],
     "The universal quantum driving force to speed up a quantum computation -- The unitary quantum dynamics.txt": [

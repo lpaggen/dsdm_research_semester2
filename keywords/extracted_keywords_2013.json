@@ -85,7 +85,7 @@
         "categorical constructions",
         "operational semantics"
     ],
-    "Categorical models of computation\uf03a partially traced categories and presheaf models of quantum computation.txt": [
+    "Categorical models of computation: partially traced categories and presheaf models of quantum computation.txt": [
         "partially traced categories",
         "quantum lambda calculus",
         "categorical models",
@@ -97,7 +97,7 @@
         "convolution theory",
         "semantic models"
     ],
-    "Comment on \uf022Towards universal quantum computation through relativistic motion\uf022.txt": [
+    "Comment on 'Towards universal quantum computation through relativistic motion'.txt": [
         "continuous-variable cluster states",
         "relativistic motion",
         "two-mode squeezing",
@@ -241,7 +241,7 @@
         "quantum advantage",
         "DQC1 circuit"
     ],
-    "Error suppression and error correction in adiabatic quantum computation I\uf03a techniques and challenges.txt": [
+    "Error suppression and error correction in adiabatic quantum computation I techniques and challenges.txt": [
         "adiabatic quantum computation",
         "error suppression",
         "error correction",
@@ -349,7 +349,7 @@
         "quantum Key Distribution",
         "quantum Fourier transform"
     ],
-    "How Fast Can Quantum Annealers Count\uf03f.txt": [
+    "How Fast Can Quantum Annealers Count.txt": [
         "Adiabatic Quantum Computation",
         "Quantum Counting",
         "Local Adiabatic Evolution",
@@ -448,7 +448,7 @@
     "Measures of quantum computing speedup.txt": [
         "strong quantum speedup",
         "ground state energy",
-        "time-independent Schr\u00f6dinger equation",
+        "time-independent Schrodinger equation",
         "exponential quantum speedup",
         "computational complexity",
         "oracle calls",
@@ -517,7 +517,7 @@
         "quantum error correction",
         "algorithmic performance"
     ],
-    "Presheaf models of quantum computation\uf03a an outline.txt": [
+    "Presheaf models of quantum computation: an outline.txt": [
         "quantum lambda calculus",
         "presheaf models",
         "higher-order quantum computation",
@@ -581,16 +581,16 @@
     "Quantum Computing's Classical Problem, Classical Computing's Quantum Problem.txt": [
         "quantum computing",
         "classical computing",
-        "Shor\u2019s algorithm",
+        "Shor's algorithm",
         "quantum error correction",
         "reversible logic",
-        "Moore\u2019s Law",
+        "Moore's Law",
         "computational complexity",
         "algorithmic innovations",
         "semiconductor technology",
         "quantum algorithms"
     ],
-    "Quantum Computing\uf03a a Quantum Group Approach.txt": [
+    "Quantum Computing: a Quantum Group Approach.txt": [
         "quantum group",
         "non-abelian anyons",
         "unitary modular categories",
@@ -614,7 +614,7 @@
         "non-classical correlations",
         "quantum advantage"
     ],
-    "Quantum Gravity on a Quantum Computer\uf03f.txt": [
+    "Quantum Gravity on a Quantum Computer.txt": [
         "quantum gravity",
         "entanglement",
         "spacetime curvature",
@@ -703,7 +703,7 @@
         "secure cloud computing",
         "measurement-based quantum computation",
         "photonic qubits",
-        "veri\ufb01able protocols",
+        "verifiable protocols",
         "blind quantum computation",
         "quantum error correcting code",
         "trap qubits",
@@ -765,7 +765,7 @@
         "fidelity",
         "geometric phases",
         "Rabi flopping",
-        "three-level \u039b system",
+        "three-level system",
         "pulse shapes",
         "error minimization",
         "non-Abelian gates"

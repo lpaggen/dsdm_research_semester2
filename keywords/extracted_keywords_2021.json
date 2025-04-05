@@ -495,7 +495,7 @@
         "Wigner function",
         "contextuality",
         "Pauli measurements",
-        "Cli\ufb00ord group",
+        "Clifford group",
         "quantum error correction",
         "measurement-based quantum computation",
         "quasiprobability functions"
@@ -680,7 +680,7 @@
         "microwave signal processing",
         "quantum information science"
     ],
-    "Full-Dimensional Schr\u00f6dinger Wavefunction Calculations using Tensors and Quantum Computers: the Cartesian component-separated approach.txt": [
+    "Full-Dimensional Schrodinger Wavefunction Calculations using Tensors and Quantum Computers: the Cartesian component-separated approach.txt": [
         "Cartesian component-separation",
         "first-quantized quantum computing",
         "quantum computational chemistry",
@@ -699,7 +699,7 @@
         "unitary coupled cluster",
         "excited-state properties",
         "strong light-matter interactions",
-        "electronic Schr\u00f6dinger equation",
+        "electronic Schrodinger equation",
         "quantum computing",
         "ab initio methods",
         "electronic correlations."
@@ -870,7 +870,7 @@
         "quantum measurements"
     ],
     "Effective Matrix Model for Gauge Theories at Finite Temperature and Density using Quantum Computing.txt": [
-        "E\ufb00ective Matrix Model",
+        "Effective Matrix Model",
         "Variational Quantum Eigensolver",
         "SU(2)",
         "SU(3)",
@@ -1252,7 +1252,7 @@
         "compiler optimizations",
         "error models",
         "heavy output probability",
-        "con\ufb01dence intervals",
+        "confidence intervals",
         "scalable estimation",
         "quantum error correction",
         "circuit fidelity",
@@ -1337,7 +1337,7 @@
         "dynamical decoupling",
         "Cardioid gates"
     ],
-    "Classical Computer, Quantum Computer, and the G\u00f6del's theorem.txt": [
+    "Classical Computer, Quantum Computer, and the Godel's theorem.txt": [
         "cloneability",
         "quantum computer",
         "classical computer",
@@ -1426,7 +1426,7 @@
         "trapped-ion quantum computer",
         "parallel operations",
         "quantum circuit implementations",
-        "n-qubit Cli\ufb00ord circuit",
+        "n-qubit Clifford circuit",
         "multiply-controlled NOT gate",
         "quantum chemistry simulations",
         "GMS gate",
@@ -1447,7 +1447,7 @@
     ],
     "Refrigeration with Indefinite Causal Orders on a Cloud Quantum Computer.txt": [
         "quantum refrigeration",
-        "inde\ufb01nite causal order",
+        "indefinite causal order",
         "quantum SWITCH",
         "cloud quantum computing",
         "superconducting qubits",
@@ -1809,7 +1809,7 @@
         "discrete variable representation (DVR)",
         "low-energy subspace expansion",
         "variational quantum algorithms (VQAs)",
-        "McLachlan\u2019s principle",
+        "McLachlan's principle",
         "polynomial complexity",
         "Hamiltonian encoding",
         "quantum measurement cost",
@@ -1818,7 +1818,7 @@
     "Distributed Quantum Computing and Network Control for Accelerated VQE.txt": [
         "distributed quantum computing",
         "accelerated variational quantum eigensolver",
-        "\u03b1-VQE",
+        "alpha-VQE",
         "quantum phase estimation",
         "Ansatz distribution",
         "entanglement generation",
@@ -1845,7 +1845,7 @@
         "grid scheduling",
         "quantum cloud interface",
         "qubits",
-        "Shor\u2019s Algorithm",
+        "Shor's Algorithm",
         "quantum cryptography",
         "middleware",
         "quantum agnostic intermediate language",
@@ -1925,7 +1925,7 @@
     "Adiabatic Quantum Feature Selection for Sparse Linear Regression.txt": [
         "adiabatic quantum computing",
         "sparse linear regression",
-        "\u21130 norm",
+        "0 norm",
         "Quadratic Unconstrained Binary Optimization (QUBO)",
         "feature selection",
         "optimization problems",
@@ -2347,7 +2347,7 @@
     "Categorical computation.txt": [
         "quantum computing",
         "higher functors",
-        "categori\ufb01cation",
+        "categorification",
         "topological orders",
         "second quantization",
         "n-categorical computation",
@@ -2397,7 +2397,7 @@
         "ion trap",
         "optical qubits",
         "entanglement",
-        "M\u00f8lmer-S\u00f8rensen gate",
+        "Molmer-Sorensen gate",
         "scalability",
         "hardware integration",
         "quantum error correction",
@@ -2488,8 +2488,8 @@
         "quantum interference",
         "entangled qubits",
         "unitary operations",
-        "Schr\u00f6dinger-like equation",
-        "nonlinear Schr\u00f6dinger equation",
+        "Schrodinger-like equation",
+        "nonlinear Schrodinger equation",
         "polarization coding",
         "optical quantum computing"
     ],
@@ -2505,8 +2505,8 @@
         "chemical design",
         "quantum algorithms"
     ],
-    "On the extremal points of the $\u039b$-polytopes and classical simulation of quantum computation with magic states.txt": [
-        "\u039b-polytopes",
+    "On the extremal points of the lambda-polytopes and classical simulation of quantum computation with magic states.txt": [
+        "lambda-polytopes",
         "classical simulation",
         "quantum computation",
         "magic states",

@@ -35,11 +35,11 @@
         "computational complexity",
         "quantum algorithms"
     ],
-    "Bifurcation-based adiabatic quantum computation with a nonlinear oscillator network\uf03a Toward quantum soft computing.txt": [
+    "Bifurcation-based adiabatic quantum computation with a nonlinear oscillator network: Toward quantum soft computing.txt": [
         "bifurcation",
         "adiabatic quantum computation",
         "nonlinear oscillator",
-        "Schr\u00f6dinger cat state",
+        "Schrodinger cat state",
         "quantum superposition",
         "combinatorial optimization",
         "quantum adiabatic evolution",
@@ -117,7 +117,7 @@
         "compression",
         "witnesses",
         "quantum search",
-        "M\u00f6bius function"
+        "Mobius function"
     ],
     "Contextuality and Wigner function negativity in qubit quantum computation.txt": [
         "contextuality",
@@ -236,7 +236,7 @@
         "many-body entanglement",
         "quantum many-body simulation",
         "interaction gadgets",
-        "non-Cli\ufb00ord gates",
+        "non-Clifford gates",
         "computational complexity"
     ],
     "Hybrid quantum-classical approach to correlated materials.txt": [
@@ -419,7 +419,7 @@
         "noise insensitivity",
         "entangling operations"
     ],
-    "Quantum Computation with Topological Codes\uf03a from qubit to topological fault-tolerance.txt": [
+    "Quantum Computation with Topological Codes: from qubit to topological fault-tolerance.txt": [
         "topological codes",
         "fault-tolerance",
         "surface codes",
@@ -554,8 +554,8 @@
     "Teleportation-Based Quantum Computation, Extended Temperley-Lieb Diagrammatical Approach and Yang--Baxter Equation.txt": [
         "Teleportation",
         "Quantum Computation",
-        "Extended Temperley\u2013Lieb",
-        "Yang\u2013Baxter Equation",
+        "Extended Temperley-Lieb",
+        "Yang-Baxter Equation",
         "Fault-Tolerant Construction",
         "Topological Features",
         "Quantum Gates",
@@ -577,7 +577,7 @@
     ],
     "The Power of Quantum Fourier Sampling.txt": [
         "Quantum Fourier Sampling",
-        "Ef\ufb01ciently Speci\ufb01able polynomial",
+        "Efficiently Specifiable polynomial",
         "Quantum computation",
         "Approximate sampling",
         "Polynomial hierarchy",
@@ -587,7 +587,7 @@
         "Anti-Concentration conjecture",
         "Quantum complexity theory."
     ],
-    "Time Independent Universal Computing with Spin Chains\uf03a Quantum Plinko Machine.txt": [
+    "Time Independent Universal Computing with Spin Chains: Quantum Plinko Machine.txt": [
         "universal quantum computing",
         "Heisenberg spin chains",
         "quantum Plinko machine",

@@ -1,8 +1,8 @@
 {
-    "A Contextual $\u03c8$-Epistemic Model of the $n$-Qubit Stabilizer Formalism.txt": [
+    "A Contextual Psi-Epistemic Model of the $n$-Qubit Stabilizer Formalism.txt": [
         "contextuality",
         "n-qubit stabilizer formalism",
-        "\u03c8-epistemic model",
+        "psi-epistemic model",
         "quantum computation",
         "quantum speed-up",
         "measurement update rules",
@@ -131,7 +131,7 @@
         "Gaussian covariance matrix",
         "variational circuits"
     ],
-    "Are all Gaussian states also cluster states\uf03f Essential diagnostic tools for continuous-variable one-way quantum computing.txt": [
+    "Are all Gaussian states also cluster states: Essential diagnostic tools for continuous-variable one-way quantum computing.txt": [
         "Gaussian states",
         "cluster states",
         "continuous-variable quantum computing",
@@ -167,9 +167,9 @@
         "quantum key distribution",
         "qubit entanglements"
     ],
-    "Calculation of $\u03c0$ on the IBM quantum computer and the accuracy of one-qubit operations.txt": [
+    "Calculation of pi on the IBM quantum computer and the accuracy of one-qubit operations.txt": [
         "quantum algorithm",
-        "\u03c0 calculation",
+        "pi calculation",
         "superconducting qubits",
         "one-qubit operations",
         "error estimation",
@@ -215,7 +215,7 @@
         "quantum singular value transformation",
         "quantum machine learning"
     ],
-    "Computational Chemistry on Quantum Computers\uf03a Ground state estimation.txt": [
+    "Computational Chemistry on Quantum Computers: Ground state estimation.txt": [
         "Quantum Computing",
         "Unitary Coupled Cluster",
         "Variational Quantum Eigensolver",
@@ -251,7 +251,7 @@
         "computational complexity",
         "parameter learning"
     ],
-    "Cost-Reduced All-Gaussian Universality with the Gottesman-Kitaev-Preskill Code\uf03a Resource-Theoretic Approach to Cost Analysis.txt": [
+    "Cost-Reduced All-Gaussian Universality with the Gottesman-Kitaev-Preskill Code: Resource-Theoretic Approach to Cost Analysis.txt": [
         "Gottesman-Kitaev-Preskill code",
         "quantum error correction",
         "photonic systems",
@@ -323,7 +323,7 @@
         "analog quantum simulation",
         "quantum supremacy"
     ],
-    "Driven-dissipative quantum mechanics on a lattice\uf03a Simulating a fermionic reservoir on a quantum computer.txt": [
+    "Driven-dissipative quantum mechanics on a lattice: Simulating a fermionic reservoir on a quantum computer.txt": [
         "driven-dissipative systems",
         "quantum circuits",
         "fermionic reservoir",
@@ -373,7 +373,7 @@
         "hybrid quantum-classical algorithm",
         "molecular ground-state energy"
     ],
-    "Every Action in Every Code is Fault Tolerant\uf03a Fault Tolerance Quantum Computation in Quotient Algebra Partition.txt": [
+    "Every Action in Every Code is Fault Tolerant: Fault Tolerance Quantum Computation in Quotient Algebra Partition.txt": [
         "fault tolerance",
         "quantum computation",
         "quotient algebra partition",
@@ -397,7 +397,7 @@
         "complementarity principle",
         "NISQ computing"
     ],
-    "Experimental Evidence about \uf022A factorisation algorithm in adiabatic quantum computation\uf022 by T. D. Kieu.txt": [
+    "Experimental Evidence about A factorisation algorithm in adiabatic quantum computation by T. D. Kieu.txt": [
         "quantum factoring",
         "adiabatic quantum computing",
         "quantum annealing",
@@ -445,7 +445,7 @@
         "classical simulation",
         "quantum circuits"
     ],
-    "Flying Unicorn\uf03a Developing a Game for a Quantum Computer.txt": [
+    "Flying Unicorn: Developing a Game for a Quantum Computer.txt": [
         "quantum computing",
         "qubit",
         "superposition",
@@ -469,7 +469,7 @@
         "Geometrical Intuition",
         "Oracle Implementation"
     ],
-    "From Ans\u00e4tze to Z-gates\uf03a a NASA View of Quantum Computing.txt": [
+    "From Ansatze to Z-gates: a NASA View of Quantum Computing.txt": [
         "quantum computing",
         "quantum algorithms",
         "quantum annealing",
@@ -539,7 +539,7 @@
         "error-corrected quantum computers",
         "measurement statistics",
         "graph theory",
-        "Lov\u00e1sz theta number"
+        "Lovasz theta number"
     ],
     "Local Dimension Invariant Qudit Stabilizer Codes.txt": [
         "qudit quantum computers",
@@ -565,7 +565,7 @@
         "dimensionality reduction",
         "quantum classification"
     ],
-    "Making Quantum Computing Open\uf03a Lessons from Open-Source Projects.txt": [
+    "Making Quantum Computing Open: Lessons from Open-Source Projects.txt": [
         "quantum computing",
         "open-source projects",
         "NISQ hardware",
@@ -601,7 +601,7 @@
         "computational algebra",
         "optimization algorithms"
     ],
-    "Multiple multi-control unitary operations\uf03a implementation and applications.txt": [
+    "Multiple multi-control unitary operations: implementation and applications.txt": [
         "multi-control unitary operations",
         "cross phase modulation",
         "c-path gate",
@@ -613,7 +613,7 @@
         "resource efficiency",
         "large scale quantum computation"
     ],
-    "Nash embedding\uf03a a road map to realizing quantum hardware.txt": [
+    "Nash embedding: a road map to realizing quantum hardware.txt": [
         "Nash embedding",
         "quantum circuits",
         "reversible computing",
@@ -661,7 +661,7 @@
         "quantum circuit mapping",
         "empirical results"
     ],
-    "OpticalGAN \uf03a Generative Adversarial Networks for Continuous Variable Quantum Computation.txt": [
+    "OpticalGAN: Generative Adversarial Networks for Continuous Variable Quantum Computation.txt": [
         "OpticalGAN",
         "continuous-variable quantum computation",
         "quantum generative adversarial networks",
@@ -697,7 +697,7 @@
         "quantum computation",
         "error propagation"
     ],
-    "Perspective\uf03a Toward large-scale fault-tolerant universal photonic quantum computing.txt": [
+    "Perspective Toward large-scale fault-tolerant universal photonic quantum computing.txt": [
         "photonic quantum computing",
         "hybrid qubit-continuous variable approach",
         "deterministic universal gate set",
@@ -709,7 +709,7 @@
         "quantum teleportation",
         "continuous-variable cluster states"
     ],
-    "Photonic quantum information processing\uf03a a concise review.txt": [
+    "Photonic quantum information processing a concise review.txt": [
         "photonic quantum computing",
         "quantum entanglement",
         "integrated quantum photonics",
@@ -733,7 +733,7 @@
         "Many-body systems",
         "Hamiltonian matrix elements"
     ],
-    "QCOR\uf03a A Language Extension Specification for the Heterogeneous Quantum-Classical Model of Computation.txt": [
+    "QCOR: A Language Extension Specification for the Heterogeneous Quantum-Classical Model of Computation.txt": [
         "QCOR",
         "hybrid quantum-classical computation",
         "variational quantum eigensolver",
@@ -745,7 +745,7 @@
         "objective function",
         "optimization techniques"
     ],
-    "Quantum Bridge Analytics II\uf03a Network Optimization and Combinatorial Chaining for Asset Exchange.txt": [
+    "Quantum Bridge Analytics II: Network Optimization and Combinatorial Chaining for Asset Exchange.txt": [
         "Quantum Bridge Analytics",
         "Combinatorial Chaining",
         "Network Optimization",
@@ -925,7 +925,7 @@
         "minimal informationally complete",
         "qudit magic state"
     ],
-    "Quantum Computing\uf03a An Overview Across the System Stack.txt": [
+    "Quantum Computing: An Overview Across the System Stack.txt": [
         "quantum computing",
         "quantum algorithms",
         "quantum error correction",
@@ -937,7 +937,7 @@
         "quantum compilers",
         "noisy intermediate-scale quantum (NISQ)"
     ],
-    "Quantum Probability\uf03a a reliable tool for an agent or a reliable source of reality\uf03f.txt": [
+    "Quantum Probability: a reliable tool for an agent or a reliable source of reality.txt": [
         "quantum probability",
         "objectivist interpretation",
         "Born rule",
@@ -1105,7 +1105,7 @@
         "eigenvalue equation",
         "real Hamiltonians"
     ],
-    "The impact of quantum computing on real-world security\uf03a A 5G case study.txt": [
+    "The impact of quantum computing on real-world security: A 5G case study.txt": [
         "quantum computing",
         "5G security",
         "cryptography",
@@ -1141,7 +1141,7 @@
         "POVM strategy",
         "quantum entanglement"
     ],
-    "Time-Domain Multiplexed 2-Dimensional Cluster State\uf03a Universal Quantum Computing Platform.txt": [
+    "Time-Domain Multiplexed 2-Dimensional Cluster State: Universal Quantum Computing Platform.txt": [
         "Time-domain multiplexing",
         "2-dimensional cluster state",
         "measurement-based quantum computation",
@@ -1218,14 +1218,14 @@
         "objective functions",
         "quantum state preparation",
         "quantum circuit simulation",
-        "non-Cli\ufb00ord gates",
+        "non-Clifford gates",
         "classical-to-quantum optimization",
         "Hamiltonian dynamics",
         "NISQ technology",
         "quantum approximate optimization algorithm (QAOA)",
         "universal quantum computation"
     ],
-    "When will we have a quantum computer\uf03f.txt": [
+    "When will we have a quantum computer.txt": [
         "quantum computing",
         "qubits",
         "quantum gates",

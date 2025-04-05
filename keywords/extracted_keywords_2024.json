@@ -1,5 +1,5 @@
 {
-    "$Classi,Q\uf05crangle$ Towards a Translation Framework To Bridge The Classical-Quantum Programming Gap.txt": [
+    "ClassiQrangle Towards a Translation Framework To Bridge The Classical-Quantum Programming Gap.txt": [
         "Quantum Assembly",
         "Translation Framework",
         "Quantum Programming Language Patterns",
@@ -40,7 +40,7 @@
         "QALUs",
         "near-term quantum computers",
         "quantum binary adders",
-        "two\u2019s complement",
+        "two's complement",
         "quantum circuits",
         "Pauli-X gates",
         "CNOT gates",
@@ -167,7 +167,7 @@
         "graph representation",
         "Higgs boson"
     ],
-    "A Photonic Parameter-shift Rule\uf03a Enabling Gradient Computation for Photonic Quantum Computers.txt": [
+    "A Photonic Parameter-shift Rule: Enabling Gradient Computation for Photonic Quantum Computers.txt": [
         "photonic parameter-shift rule",
         "gradient computation",
         "linear optical quantum computing",
@@ -359,7 +359,7 @@
         "quantum supremacy",
         "NP-hard problems"
     ],
-    "AQM\uf03a A Refresh of the Abstract Qubit Model for Quantum Computing Co-design.txt": [
+    "AQM: A Refresh of the Abstract Qubit Model for Quantum Computing Co-design.txt": [
         "AQM",
         "abstract qubit model",
         "quantum algorithm-device co-design",
@@ -371,7 +371,7 @@
         "qubit state manipulation",
         "coherence time."
     ],
-    "Architecting a reliable quantum operating system\uf03a microkernel, message passing and supercomputing.txt": [
+    "Architecting a reliable quantum operating system: microkernel, message passing and supercomputing.txt": [
         "quantum operating system",
         "microkernel",
         "fault-tolerant",
@@ -407,7 +407,7 @@
         "quantum processes",
         "quantum operations"
     ],
-    "Autonomous Quantum Processing Unit\uf03a What does it take to construct a self-contained model for quantum computation\uf03f.txt": [
+    "Autonomous Quantum Processing Unit: What does it take to construct a self-contained model for quantum computation.txt": [
         "autonomous quantum processing unit",
         "quantum computation",
         "thermodynamic resources",
@@ -443,7 +443,7 @@
         "Global Optimization",
         "Circuit Observations"
     ],
-    "Bee-yond the Plateau\uf03a Training QNNs with Swarm Algorithms.txt": [
+    "Bee-yond the Plateau: Training QNNs with Swarm Algorithms.txt": [
         "quantum neural networks",
         "Bees Algorithm",
         "barren plateaus",
@@ -455,7 +455,7 @@
         "computational efficiency",
         "machine learning algorithms"
     ],
-    "Benchmarking Quantum Computer Simulation Software Packages\uf03a State Vector Simulators.txt": [
+    "Benchmarking Quantum Computer Simulation Software Packages: State Vector Simulators.txt": [
         "quantum computing",
         "software simulators",
         "HPC capabilities",
@@ -503,7 +503,7 @@
         "bidding strategies",
         "social welfare"
     ],
-    "Bridging Quantum Computing and Differential Privacy\uf03a Insights into Quantum Computing Privacy.txt": [
+    "Bridging Quantum Computing and Differential Privacy: Insights into Quantum Computing Privacy.txt": [
         "quantum differential privacy",
         "noisy intermediate-scale quantum",
         "quantum algorithms",
@@ -547,11 +547,11 @@
         "qubit transport model",
         "randomized measurement protocol",
         "swap-based many-body interference",
-        "R\u00b4enyi entropy",
+        "Renyi entropy",
         "quantum error mitigation",
         "scrambling dynamics"
     ],
-    "Character Complexity\uf03a A Novel Measure for Quantum Circuit Analysis.txt": [
+    "Character Complexity: A Novel Measure for Quantum Circuit Analysis.txt": [
         "character complexity",
         "quantum circuits",
         "group representation theory",
@@ -563,8 +563,8 @@
         "entanglement",
         "computational complexity"
     ],
-    "Characteristics and Implementation of B$^\u03b1$ Gates.txt": [
-        "B\u03b1 gates",
+    "Characteristics and Implementation of B Gates.txt": [
+        "B gates",
         "two-qubit gates",
         "ion-trap system",
         "entangling basis gate",
@@ -627,7 +627,7 @@
         "classical simulation",
         "measurement-based quantum computation",
         "multipartite Bell scenarios",
-        "local \u039b polytope",
+        "local lambda polytope",
         "quantum speedup",
         "non-signaling polytopes",
         "single-qubit Pauli measurements",
@@ -695,7 +695,7 @@
         "oracle construction",
         "quantum circuit design."
     ],
-    "Computable and noncomputable in the quantum domain\uf03a statements and conjectures.txt": [
+    "Computable and noncomputable in the quantum domain: statements and conjectures.txt": [
         "quantum computational advantage",
         "complexity",
         "quantum states",
@@ -791,7 +791,7 @@
         "Optimal Overhead",
         "Modular Quantum Systems"
     ],
-    "Cyber Protection Applications of Quantum Computing\uf03a A Review.txt": [
+    "Cyber Protection Applications of Quantum Computing: A Review.txt": [
         "Quantum Computing",
         "Cyber Security",
         "Quantum Algorithms",
@@ -854,7 +854,7 @@
     "Differential Privacy Preserving Distributed Quantum Computing.txt": [
         "Quantum distributed computing",
         "Quantum differential privacy",
-        "Quantum R\u00e9nyi differential privacy",
+        "Quantum Renyi differential privacy",
         "Privacy budget",
         "Quantum noise mechanisms",
         "Quantum error correction",
@@ -947,7 +947,7 @@
         "Mixed-Species Entangling Gates",
         "Quantum Repeaters"
     ],
-    "Distributed Quantum Computing\uf03a Applications and Challenges.txt": [
+    "Distributed Quantum Computing: Applications and Challenges.txt": [
         "distributed quantum computing",
         "quantum communication",
         "quantum algorithms",
@@ -959,7 +959,7 @@
         "quantum hardware",
         "quantum networking"
     ],
-    "Does True Randomness Exist\uf03f Efficacy Testing IBM Quantum Computers via Statistical Randomness.txt": [
+    "Does True Randomness Exist: Efficacy Testing IBM Quantum Computers via Statistical Randomness.txt": [
         "quantum computing",
         "quantum random number generator",
         "efficacy testing",
@@ -1091,7 +1091,7 @@
         "adaptive breeding protocol",
         "non-Gaussian states"
     ],
-    "Enhanced Fault-tolerance in Photonic Quantum Computing\uf03a Floquet Code Outperforms Surface Code in Tailored Architecture.txt": [
+    "Enhanced Fault-tolerance in Photonic Quantum Computing: Floquet Code Outperforms Surface Code in Tailored Architecture.txt": [
         "honeycomb Floquet code",
         "surface code",
         "fault-tolerant quantum computing",
@@ -1149,7 +1149,7 @@
         "quantum error correction",
         "dynamical symmetry breaking",
         "continuous-variable quantum computing",
-        "Wess\u2013Zumino model"
+        "Wess-Zumino model"
     ],
     "Exposing the hidden layers and interplay in the quantum software stack.txt": [
         "quantum software stack",
@@ -1223,7 +1223,7 @@
         "lattice geometry",
         "topological error-correction codes"
     ],
-    "First Hitting Times on a Quantum Computer\uf03a Tracking vs. Local Monitoring, Topological Effects, and Dark States.txt": [
+    "First Hitting Times on a Quantum Computer: Tracking vs. Local Monitoring, Topological Effects, and Dark States.txt": [
         "quantum walk",
         "first hitting time",
         "midcircuit readout",
@@ -1235,7 +1235,7 @@
         "detection probability",
         "quantum algorithms"
     ],
-    "Five Starter Problems\uf03a Solving Quadratic Unconstrained Binary Optimization Models on Quantum Computers.txt": [
+    "Five Starter Problems: Solving Quadratic Unconstrained Binary Optimization Models on Quantum Computers.txt": [
         "QUBO",
         "quantum annealing",
         "Quantum Approximate Optimization Algorithm",
@@ -1247,7 +1247,7 @@
         "quantum speedup",
         "cancer genomics"
     ],
-    "From Computing to Quantum Mechanics\uf03a Accessible and Hands-On Quantum Computing Education for High School Students.txt": [
+    "From Computing to Quantum Mechanics: Accessible and Hands-On Quantum Computing Education for High School Students.txt": [
         "quantum computing",
         "quantum mechanics",
         "educational approach",
@@ -1259,7 +1259,7 @@
         "student engagement",
         "quantum algorithms"
     ],
-    "From Entanglement to Universality\uf03a A Multiparticle Spacetime Algebra Approach to Quantum Computational Gates Revisited.txt": [
+    "From Entanglement to Universality: A Multiparticle Spacetime Algebra Approach to Quantum Computational Gates Revisited.txt": [
         "entanglement",
         "multiparticle spacetime algebra",
         "geometric algebra",
@@ -1271,7 +1271,7 @@
         "rotor group",
         "quantum algorithms"
     ],
-    "From Quantum Mechanics to Quantum Software Engineering\uf03a A Historical Review.txt": [
+    "From Quantum Mechanics to Quantum Software Engineering: A Historical Review.txt": [
         "Quantum Software Engineering",
         "Noisy Intermediate-Scale Quantum (NISQ)",
         "Quantum algorithms",
@@ -1381,7 +1381,7 @@
     ],
     "Grover's algorithm on two-way quantum computer.txt": [
         "two-way quantum computing",
-        "Grover\u2019s algorithm",
+        "Grover's algorithm",
         "CPT symmetry",
         "state preparation",
         "noise resilience",
@@ -1475,7 +1475,7 @@
         "error correction",
         "user-friendly toolbox"
     ],
-    "IBM Quantum Computers\uf03a Evolution, Performance, and Future Directions.txt": [
+    "IBM Quantum Computers: Evolution, Performance, and Future Directions.txt": [
         "quantum computing",
         "IBM Quantum",
         "superconducting qubits",
@@ -1583,7 +1583,7 @@
         "NISQ era",
         "intuitive interfaces"
     ],
-    "Interface-Driven Peptide Folding\uf03a Quantum Computations on Simulated Membrane Surfaces.txt": [
+    "Interface-Driven Peptide Folding: Quantum Computations on Simulated Membrane Surfaces.txt": [
         "quantum computing",
         "antimicrobial peptides",
         "peptide folding",
@@ -1595,7 +1595,7 @@
         "computational efficiency",
         "qubit optimization"
     ],
-    "Intro to Quantum Harmony\uf03a Chords in Superposition.txt": [
+    "Intro to Quantum Harmony: Chords in Superposition.txt": [
         "Quantum Harmony",
         "Superposition",
         "Quantum Decision Making",
@@ -1619,12 +1619,12 @@
         "quantum technologies",
         "participant engagement"
     ],
-    "Introducing UNIQuE\uf03a The Unconventional Noiseless Intermediate Quantum Emulator.txt": [
+    "Introducing UNIQuE: The Unconventional Noiseless Intermediate Quantum Emulator.txt": [
         "UNIQuE",
         "quantum emulation",
         "quantum Fourier transform",
         "quantum phase estimation",
-        "Shor\u2019s algorithm",
+        "Shor's algorithm",
         "arithmetic operations",
         "computational advantage",
         "sparse operations",
@@ -1643,10 +1643,10 @@
         "quantum algorithms",
         "interdisciplinary education"
     ],
-    "Ion-Based Quantum Computing Hardware\uf03a Performance and End-User Perspective.txt": [
+    "Ion-Based Quantum Computing Hardware: Performance and End-User Perspective.txt": [
         "trapped-ion quantum computing",
         "qubit scalability",
-        "M\u00f8lmer-S\u00f8rensen gate",
+        "Molmer-Sorensen gate",
         "quantum error correction",
         "fault-tolerant quantum computing",
         "ion shuttling",
@@ -1655,7 +1655,7 @@
         "quantum machine learning",
         "photonic interconnects"
     ],
-    "LatentQGAN\uf03a A Hybrid QGAN with Classical Convolutional Autoencoder.txt": [
+    "LatentQGAN: A Hybrid QGAN with Classical Convolutional Autoencoder.txt": [
         "LatentQGAN",
         "Quantum Generative Adversarial Networks",
         "Hybrid quantum-classical model",
@@ -1667,7 +1667,7 @@
         "Noisy intermediate scale quantum computers",
         "Quantum resources overhead"
     ],
-    "Machine Learning Applications of Quantum Computing\uf03a A Review.txt": [
+    "Machine Learning Applications of Quantum Computing: A Review.txt": [
         "Quantum Machine Learning",
         "Quantum Neural Networks",
         "Quantum Support Vector Machines",
@@ -1799,7 +1799,7 @@
         "error mitigation",
         "hybrid quantum-classical algorithms"
     ],
-    "Navigating Quantum Security Risks in Networked Environments\uf03a A Comprehensive Study of Quantum-Safe Network Protocols.txt": [
+    "Navigating Quantum Security Risks in Networked Environments: A Comprehensive Study of Quantum-Safe Network Protocols.txt": [
         "quantum entanglement",
         "quantum supremacy",
         "quantum algorithms",
@@ -1823,7 +1823,7 @@
         "high-fidelity gates",
         "multiqubit systems"
     ],
-    "NN-AE-VQE\uf03a Neural network parameter prediction on autoencoded variational quantum eigensolvers.txt": [
+    "NN-AE-VQE: Neural network parameter prediction on autoencoded variational quantum eigensolvers.txt": [
         "NN-AE-VQE",
         "quantum autoencoder",
         "variational quantum eigensolver",
@@ -1847,7 +1847,7 @@
         "cubic nonlinearity",
         "experimental resources"
     ],
-    "NordIQuEst\uf03a the Nordic-Estonian Quantum Computing e-Infrastructure Quest.txt": [
+    "NordIQuEst: the Nordic-Estonian Quantum Computing e-Infrastructure Quest.txt": [
         "Quantum Computing",
         "Hybrid Computing",
         "High-Performance Computing",
@@ -1943,7 +1943,7 @@
         "measurement patterns",
         "fault-tolerant quantum computing"
     ],
-    "Opinion\uf03a The simplest quantum computer.txt": [
+    "Opinion: The simplest quantum computer.txt": [
         "quantum computing",
         "qubits",
         "entanglement",
@@ -1967,7 +1967,7 @@
         "Rydberg blockade",
         "circuit compilation"
     ],
-    "Optimization of Postselection in Quantum Algorithms\uf03a A Two-Way Quantum Computing Approach.txt": [
+    "Optimization of Postselection in Quantum Algorithms: A Two-Way Quantum Computing Approach.txt": [
         "postselection",
         "Two-Way Quantum Computing",
         "postparation",
@@ -1979,7 +1979,7 @@
         "computational efficiency",
         "quantum error correction"
     ],
-    "Parallax\uf03a A Compiler for Neutral Atom Quantum Computers under Hardware Constraints.txt": [
+    "Parallax: A Compiler for Neutral Atom Quantum Computers under Hardware Constraints.txt": [
         "neutral atom quantum computing",
         "PARALLAX",
         "zero-SWAP compilation",
@@ -2051,7 +2051,7 @@
         "Pauli decomposition",
         "variational quantum algorithms"
     ],
-    "Pauli quantum computing\uf03a $I$ as $,0\uf05crangle$ and $X$ as $,1\uf05crangle$.txt": [
+    "Pauli quantum computing: $I$ as $,0rangle$ and $X$ as $,1rangle$.txt": [
         "Pauli quantum computing",
         "density matrix encoding",
         "Lindbladians",
@@ -2123,7 +2123,7 @@
         "single-photon sources",
         "fault tolerance"
     ],
-    "Piquasso\uf03a A Photonic Quantum Computer Simulation Software Platform.txt": [
+    "Piquasso A Photonic Quantum Computer Simulation Software Platform.txt": [
         "Piquasso",
         "photonic quantum computing",
         "quantum simulation",
@@ -2135,7 +2135,7 @@
         "error mitigation",
         "high-performance computing."
     ],
-    "Post-Quantum Cryptography for Internet of Things\uf03a A Survey on Performance and Optimization.txt": [
+    "Post-Quantum Cryptography for Internet of Things: A Survey on Performance and Optimization.txt": [
         "Post-Quantum Cryptography",
         "Quantum Computing",
         "Internet of Things",
@@ -2147,7 +2147,7 @@
         "Cryptographic Algorithms",
         "Standardization Efforts"
     ],
-    "Post-Quantum Cryptography\uf03a Securing Digital Communication in the Quantum Era.txt": [
+    "Post-Quantum Cryptography: Securing Digital Communication in the Quantum Era.txt": [
         "quantum computing",
         "post-quantum cryptography",
         "Shor's algorithm",
@@ -2207,7 +2207,7 @@
         "log-area law",
         "tensor network."
     ],
-    "QCEDA\uf03a Using Quantum Computers for EDA.txt": [
+    "QCEDA: Using Quantum Computers for EDA.txt": [
         "Quantum Computing",
         "Electronic Design Automation",
         "NP-hard Problems",
@@ -2219,7 +2219,7 @@
         "D-Wave Quantum Annealer",
         "Variational Quantum Algorithms"
     ],
-    "QCSHQD\uf03a Quantum computing as a service for Hybrid classical-quantum software development\uf03a A Vision.txt": [
+    "QCSHQD: Quantum computing as a service for Hybrid classical-quantum software development: A Vision.txt": [
         "Quantum Computing",
         "Quantum as a Service",
         "Hybrid Classical-Quantum",
@@ -2231,7 +2231,7 @@
         "Quantum Resource Accessibility",
         "Hybrid Systems"
     ],
-    "Qiskit Code Assistant\uf03a Training LLMs for generating Quantum Computing Code.txt": [
+    "Qiskit Code Assistant: Training LLMs for generating Quantum Computing Code.txt": [
         "Code LLMs",
         "Quantum Computing",
         "Qiskit",
@@ -2243,7 +2243,7 @@
         "Training Procedures",
         "Quantum Algorithms"
     ],
-    "Qompose\uf03a A Technique to Select Optimal Algorithm- Specific Layout for Neutral Atom Quantum Architectures.txt": [
+    "Qompose: A Technique to Select Optimal Algorithm- Specific Layout for Neutral Atom Quantum Architectures.txt": [
         "Qompose",
         "neutral atom quantum computing",
         "algorithm-specific topology",
@@ -2327,7 +2327,7 @@
         "hybrid algorithms",
         "quantum computing technologies"
     ],
-    "Quantum Artificial Intelligence\uf03a A Brief Survey.txt": [
+    "Quantum Artificial Intelligence: A Brief Survey.txt": [
         "Quantum Artificial Intelligence",
         "Quantum Computing",
         "Quantum Machine Learning",
@@ -2459,7 +2459,7 @@
         "stochastic thermodynamics",
         "quantum simulations"
     ],
-    "Quantum Computing and Atmospheric Dynamics\uf03a Exploring the Lorenz System.txt": [
+    "Quantum Computing and Atmospheric Dynamics: Exploring the Lorenz System.txt": [
         "Variational Quantum Eigensolver",
         "atmospheric dynamics",
         "Lorenz system",
@@ -2471,7 +2471,7 @@
         "eigenvalue analysis",
         "Singular Value Decomposition"
     ],
-    "Quantum Computing Education for Computer Science Students\uf03a Bridging the Gap with Layered Learning and Intuitive Analogies.txt": [
+    "Quantum Computing Education for Computer Science Students: Bridging the Gap with Layered Learning and Intuitive Analogies.txt": [
         "quantum computing",
         "layered learning",
         "analogies",
@@ -2483,7 +2483,7 @@
         "curriculum development",
         "quantum education"
     ],
-    "Quantum Computing Education in Latin America\uf03a Experiences and Strategies.txt": [
+    "Quantum Computing Education in Latin America: Experiences and Strategies.txt": [
         "Quantum Education",
         "Competence Framework",
         "Quantum Technologies",
@@ -2495,7 +2495,7 @@
         "Quantum Applications",
         "Curriculum Development"
     ],
-    "Quantum Computing for All\uf03a Online Courses Built Around Interactive Visual Quantum Circuit Simulator.txt": [
+    "Quantum Computing for All: Online Courses Built Around Interactive Visual Quantum Circuit Simulator.txt": [
         "quantum circuit simulator",
         "interactive learning",
         "educational platform",
@@ -2507,7 +2507,7 @@
         "quantum algorithms",
         "interdisciplinary education"
     ],
-    "Quantum Computing for Databases\uf03a Overview and Challenges.txt": [
+    "Quantum Computing for Databases: Overview and Challenges.txt": [
         "quantum computing",
         "quantum databases",
         "quantum algorithms",
@@ -2519,7 +2519,7 @@
         "Grover's algorithm",
         "NISQ regime"
     ],
-    "Quantum Computing for Discrete Optimization\uf03a A Highlight of Three Technologies.txt": [
+    "Quantum Computing for Discrete Optimization: A Highlight of Three Technologies.txt": [
         "quantum optimization",
         "discrete optimization",
         "quantum-powered methods",
@@ -2567,7 +2567,7 @@
         "variational quantum eigenvalue solvers",
         "quantum measurement"
     ],
-    "Quantum computing in civil engineering\uf03a Potentials and Limitations.txt": [
+    "Quantum computing in civil engineering: Potentials and Limitations.txt": [
         "quantum computing",
         "qubits",
         "quantum advantage",
@@ -2579,7 +2579,7 @@
         "fault-tolerant quantum computers",
         "quantum simulation"
     ],
-    "Quantum Computing in Intelligent Transportation Systems\uf03a A Survey.txt": [
+    "Quantum Computing in Intelligent Transportation Systems: A Survey.txt": [
         "quantum computing",
         "intelligent transportation systems",
         "quantum algorithms",
@@ -2603,7 +2603,7 @@
         "routing problems",
         "scheduling algorithms"
     ],
-    "Quantum computing inspired paintings\uf03a reinterpreting classical masterpieces.txt": [
+    "Quantum computing inspired paintings: reinterpreting classical masterpieces.txt": [
         "quantum computing",
         "quantum aesthetics",
         "Ising Hamiltonian",
@@ -2639,7 +2639,7 @@
         "entanglement spectral form factor",
         "Eigenstate Thermalization Hypothesis"
     ],
-    "Quantum Computing\uf03a Vision and Challenges.txt": [
+    "Quantum Computing: Vision and Challenges.txt": [
         "quantum computing",
         "qubits",
         "quantum algorithms",
@@ -2663,7 +2663,7 @@
         "quantum gravity applications",
         "Pauli-string representation."
     ],
-    "Quantum Data Management\uf03a From Theory to Opportunities.txt": [
+    "Quantum Data Management: From Theory to Opportunities.txt": [
         "quantum computing",
         "quantum internet",
         "data management",
@@ -2735,7 +2735,7 @@
         "layered quantum circuits",
         "polynomial factorization"
     ],
-    "Quantum Leak\uf03a Timing Side-Channel Attacks on Cloud-Based Quantum Services.txt": [
+    "Quantum Leak: Timing Side-Channel Attacks on Cloud-Based Quantum Services.txt": [
         "quantum computing",
         "side-channel attacks",
         "cloud-based quantum services",
@@ -2747,7 +2747,7 @@
         "quantum circuit execution",
         "statistical analysis"
     ],
-    "Quantum Machine Learning\uf03a An Interplay Between Quantum Computing and Machine Learning.txt": [
+    "Quantum Machine Learning: An Interplay Between Quantum Computing and Machine Learning.txt": [
         "quantum machine learning",
         "variational quantum circuits",
         "noisy intermediate-scale quantum",
@@ -2795,7 +2795,7 @@
         "Expectation Values",
         "Quantum Circuit Testing"
     ],
-    "Quantum simulation of single-server Markovian queues\uf03a A dynamic amplification approach.txt": [
+    "Quantum simulation of single-server Markovian queues: A dynamic amplification approach.txt": [
         "quantum simulation",
         "dynamic amplification",
         "Markovian queues",
@@ -2843,7 +2843,7 @@
         "quantum proposal distribution",
         "multiple sampling techniques."
     ],
-    "Quantum-machine-assisted Drug Discovery\uf03a Survey and Perspective.txt": [
+    "Quantum-machine-assisted Drug Discovery: Survey and Perspective.txt": [
         "quantum computing",
         "drug discovery",
         "quantum machine learning",
@@ -2867,7 +2867,7 @@
         "data privacy",
         "optimization techniques"
     ],
-    "QuantumLLMInstruct\uf03a A 500k LLM Instruction-Tuning Dataset with Problem-Solution Pairs for Quantum Computing.txt": [
+    "QuantumLLMInstruct: A 500k LLM Instruction-Tuning Dataset with Problem-Solution Pairs for Quantum Computing.txt": [
         "QuantumLLMInstruct",
         "instruction-tuning",
         "problem-solution pairs",
@@ -2879,7 +2879,7 @@
         "dataset enrichment",
         "quantum circuit optimization"
     ],
-    "Qubernetes\uf03a Towards a Unified Cloud-Native Execution Platform for Hybrid Classic-Quantum Computing.txt": [
+    "Qubernetes: Towards a Unified Cloud-Native Execution Platform for Hybrid Classic-Quantum Computing.txt": [
         "quantum computing",
         "hybrid classical-quantum",
         "Qubernetes",
@@ -2927,7 +2927,7 @@
         "readout error",
         "verification qubits"
     ],
-    "ReCon\uf03a Reconfiguring Analog Rydberg Atom Quantum Computers for Quantum Generative Adversarial Networks.txt": [
+    "ReCon: Reconfiguring Analog Rydberg Atom Quantum Computers for Quantum Generative Adversarial Networks.txt": [
         "Rydberg atoms",
         "quantum GANs",
         "analog quantum computing",
@@ -2936,7 +2936,7 @@
         "ensemble learning",
         "dimensionality reduction",
         "noise injection",
-        "Fr\u00e9chet Inception Distance",
+        "Frechet Inception Distance",
         "quantum image generation"
     ],
     "Representation of Classical Data on Quantum Computers.txt": [
@@ -3035,7 +3035,7 @@
         "quantum compilers",
         "quantum-centric supercomputing"
     ],
-    "Review on Quantum Walk Computing\uf03a Theory, Implementation, and Application.txt": [
+    "Review on Quantum Walk Computing Theory, Implementation, and Application.txt": [
         "quantum walks",
         "quantum computing",
         "NISQ era",
@@ -3047,7 +3047,7 @@
         "physical implementations",
         "quantum information processing"
     ],
-    "Revisiting the Mapping of Quantum Circuits\uf03a Entering the Multi-Core Era.txt": [
+    "Revisiting the Mapping of Quantum Circuits: Entering the Multi-Core Era.txt": [
         "quantum computing",
         "multi-core architecture",
         "quantum circuit mapping",
@@ -3064,7 +3064,7 @@
         "Gate quantum computer",
         "Quantum circuit",
         "Boolean influence",
-        "\u2113 feasibility test",
+        "l feasibility test",
         "Quantum robust fitting",
         "Hybrid quantum-classical algorithm",
         "Quantum annealing",
@@ -3083,7 +3083,7 @@
         "entangling gates",
         "thermalization"
     ],
-    "Route-Forcing\uf03a Scalable Quantum Circuit Mapping for Scalable Quantum Computing Architectures.txt": [
+    "Route-Forcing Scalable Quantum Circuit Mapping for Scalable Quantum Computing Architectures.txt": [
         "Route-Forcing",
         "quantum circuit mapping",
         "scalable architectures",
@@ -3107,7 +3107,7 @@
         "qubit connectivity",
         "quantum state teleportation"
     ],
-    "Scalability of quantum error mitigation techniques\uf03a from utility to advantage.txt": [
+    "Scalability of quantum error mitigation techniques: from utility to advantage.txt": [
         "quantum error mitigation",
         "scalability",
         "probabilistic error cancellation",
@@ -3155,7 +3155,7 @@
         "superconducting quantum computer",
         "quantum utility"
     ],
-    "Scaling up to Problem Sizes\uf03a An Environmental Life Cycle Assessment of Quantum Computing.txt": [
+    "Scaling up to Problem Sizes: An Environmental Life Cycle Assessment of Quantum Computing.txt": [
         "quantum computing",
         "error correction",
         "sustainable IT",
@@ -3275,7 +3275,7 @@
         "quantum advantages",
         "correlation and entropy"
     ],
-    "Simulation of Quantum Computers\uf03a Review and Acceleration Opportunities.txt": [
+    "Simulation of Quantum Computers: Review and Acceleration Opportunities.txt": [
         "quantum computing",
         "simulation",
         "hardware acceleration",
@@ -3335,7 +3335,7 @@
         "quantum optical states",
         "phase reference"
     ],
-    "Sustainable Quantum Computing\uf03a Opportunities and Challenges of Benchmarking Carbon in the Quantum Computing Lifecycle.txt": [
+    "Sustainable Quantum Computing: Opportunities and Challenges of Benchmarking Carbon in the Quantum Computing Lifecycle.txt": [
         "Quantum Computing",
         "Carbon-aware Quantum Computing",
         "Sustainability Benchmarking",
@@ -3359,7 +3359,7 @@
         "tailored quantum fault-tolerance",
         "solve-and-stitch algorithm"
     ],
-    "Technical Report\uf03a Toward Applying Quantum Computing to Network Verification.txt": [
+    "Technical Report: Toward Applying Quantum Computing to Network Verification.txt": [
         "quantum computing",
         "network verification",
         "unstructured search",
@@ -3407,7 +3407,7 @@
         "Quantum Processor",
         "Error Mitigation"
     ],
-    "Testing and Debugging Quantum Programs\uf03a The Road to 2030.txt": [
+    "Testing and Debugging Quantum Programs: The Road to 2030.txt": [
         "quantum computing",
         "testing techniques",
         "debugging strategies",
@@ -3439,7 +3439,7 @@
         "computational complexity class",
         "maximum independent set",
         "quantum algorithms",
-        "inde\ufb01nite inner product",
+        "indefinite inner product",
         "Lorentz transformations",
         "quantum computing with postselection"
     ],
@@ -3476,7 +3476,7 @@
         "quantum annealers",
         "error correction",
         "QUBO optimization",
-        "Eker\u00e5-H\u00e5stad scheme",
+        "Ekera-Hastad scheme",
         "custom embedding"
     ],
     "The Zeno effect in a quantum computer.txt": [
@@ -3683,7 +3683,7 @@
         "inverse-free Solovay-Kitaev algorithm",
         "quantum operations"
     ],
-    "Unlocking Quantum Optimization\uf03a A Use Case Study on NISQ Systems.txt": [
+    "Unlocking Quantum Optimization: A Use Case Study on NISQ Systems.txt": [
         "quantum computing",
         "optimization problems",
         "NISQ systems",
@@ -3695,7 +3695,7 @@
         "error mitigation",
         "circuit transpilation"
     ],
-    "Use of Electron Paramagnetic resonance (EPR) technique to build quantum computers\uf03a n-qubit (n=1,2,3,4) Toffoli Gates.txt": [
+    "Use of Electron Paramagnetic resonance (EPR) technique to build quantum computers n-qubit (n=1,2,3,4) Toffoli Gates.txt": [
         "EPR",
         "Electron Paramagnetic Resonance",
         "Toffoli Gates",
@@ -3707,7 +3707,7 @@
         "exchange interaction",
         "quantum algorithms"
     ],
-    "Using quantum computers in control\uf03a interval matrix properties.txt": [
+    "Using quantum computers in control: interval matrix properties.txt": [
         "quantum computing",
         "interval matrix properties",
         "QAOA",
@@ -3851,7 +3851,7 @@
         "non-linear measurements",
         "quantum circuit optimization"
     ],
-    "Vibrational ADAPT-VQE\uf03a Critical points leads to problematic convergence.txt": [
+    "Vibrational ADAPT-VQE: Critical points leads to problematic convergence.txt": [
         "vibrationalADAPT-VQE",
         "infinite product representation",
         "anti-Hermitian excitation operators",
@@ -3875,7 +3875,7 @@
         "interactive visualization",
         "quantum algorithms"
     ],
-    "What is Entanglement\uf03f.txt": [
+    "What is Entanglement.txt": [
         "Entanglement",
         "Hilbert space",
         "Schmidt decomposition",
@@ -3887,7 +3887,7 @@
         "coherent states",
         "Majorana representation"
     ],
-    "What is my quantum computer good for\uf03f Quantum capability learning with physics-aware neural networks.txt": [
+    "What is my quantum computer good for Quantum capability learning with physics-aware neural networks.txt": [
         "quantum capability learning",
         "quantum-physics-aware neural networks",
         "graph neural networks",

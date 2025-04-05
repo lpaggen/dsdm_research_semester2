@@ -77,10 +77,10 @@
         "anholonomic algorithms",
         "discrete adiabatic computation",
         "parameter-dependent Hamiltonians",
-        "Cheon\u2019s anholonomies",
+        "Cheon's anholonomies",
         "quantum circuits",
         "computational complexity",
-        "Grover\u2019s algorithm",
+        "Grover's algorithm",
         "parameterized quantum circuits"
     ],
     "An introduction to one-way quantum computing in distributed architectures.txt": [
@@ -167,7 +167,7 @@
         "robust quantum gates",
         "optimal control theory"
     ],
-    "Computation and Dynamics\uf03a Classical and Quantum.txt": [
+    "Computation and Dynamics, Classical and Quantum.txt": [
         "quantum computation",
         "Hamiltonian dynamics",
         "quantum superposition",
@@ -215,7 +215,7 @@
         "l2-MBQC",
         "quantum resources"
     ],
-    "Cove\uf03a A Practical Quantum Computer Programming Framework.txt": [
+    "Cove: A Practical Quantum Computer Programming Framework.txt": [
         "quantum entanglement",
         "quantum supremacy",
         "quantum error correction",
@@ -371,7 +371,7 @@
         "entanglement",
         "quantum information"
     ],
-    "Quantum Computers\uf03a Noise Propagation and Adversarial Noise Models.txt": [
+    "Quantum Computers Noise Propagation and Adversarial Noise Models.txt": [
         "adversarial noise models",
         "detrimental noise",
         "quantum error correction",
@@ -465,7 +465,7 @@
         "non-Abelian anyons",
         "Z2 topological order",
         "fault tolerance",
-        "e\ufb00ective pseudo-spin model"
+        "effective pseudo-spin model"
     ],
     "Realization of Universal Ion Trap Quantum Computation with Decoherence Free Qubits.txt": [
         "decoherence-free subspace",
@@ -623,7 +623,7 @@
         "observable",
         "density matrix"
     ],
-    "What is a quantum computer, and how do we build one\uf03f.txt": [
+    "What is a quantum computer, and how do we build one.txt": [
         "quantum computing",
         "DiVincenzo criteria",
         "quantum memory",

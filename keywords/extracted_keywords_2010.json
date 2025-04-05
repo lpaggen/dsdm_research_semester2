@@ -71,7 +71,7 @@
         "quantum dimensions",
         "Dehn twists"
     ],
-    "Are quantum walks the saviour of optical quantum computing\uf03f.txt": [
+    "Are quantum walks the saviour of optical quantum computing.txt": [
         "quantum walks",
         "optical quantum computing",
         "universal quantum computation",
@@ -98,7 +98,7 @@
     "Computational costs of data definition at the quantum - classical interface.txt": [
         "quantum computation",
         "classical-to-quantum interface",
-        "data de\ufb01nition",
+        "data definition",
         "quantum algorithms",
         "virtual machines",
         "semantic requirements",
@@ -259,7 +259,7 @@
         "controlled-Z gates",
         "multi-qubit rotations",
         "classical information processing",
-        "Grover\u2019s search algorithm",
+        "Grover's search algorithm",
         "information flow vector",
         "propagation matrices"
     ],
@@ -281,7 +281,7 @@
         "one-way quantum computation",
         "universal resources",
         "topological features",
-        "rami\ufb01cation",
+        "ramification",
         "connectivity",
         "criticality",
         "entanglement",
@@ -311,7 +311,7 @@
         "spin-1/2 systems",
         "cluster state"
     ],
-    "Noisy One-Way Quantum Computations\uf03a The Role of Correlations.txt": [
+    "Noisy One-Way Quantum Computations: The Role of Correlations.txt": [
         "noisy quantum computations",
         "one-way model",
         "entanglement",
@@ -417,7 +417,7 @@
         "quantum computational wire",
         "short-ranged variations",
         "logical gates",
-        "bu\ufb00ered measurements"
+        "buffered measurements"
     ],
     "Quantum computational tensor network on string-net condensate.txt": [
         "quantum computing",
@@ -545,7 +545,7 @@
         "quantum complexity theory",
         "NP-complete",
         "QMA-complete",
-        "quantum satis\ufb01ability",
+        "quantum satisfiability",
         "statistical mechanics",
         "optimization problems",
         "Hamiltonians",
@@ -626,7 +626,7 @@
     "Universal Quantum Computation Using Continuous Dynamical Decoupling.txt": [
         "continuous dynamical decoupling",
         "universal quantum computation",
-        "\u221aSWAP gate",
+        "SWAP gate",
         "Heisenberg exchange interaction",
         "qubit coherence",
         "quantum memory protection",
