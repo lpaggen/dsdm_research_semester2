@@ -1,0 +1,580 @@
+{
+    "Noisy Quantum Computation Modeled by Quantum Walk: Universality without Ancillas": [
+        "Israel"
+    ],
+    "Quantum computational advantage attested by nonlocal games with the cyclic cluster state": [],
+    "Quantum computing for lattice supersymmetry": [
+        "United Kingdom"
+    ],
+    "Scalable mitigation of measurement errors on quantum computers": [
+        "USA"
+    ],
+    "Remark on using quantum states prepared by the adiabatic quantum computation": [
+        "Japan"
+    ],
+    "A Quantum Generative Adversarial Network for distributions": [],
+    "Nonadiabatic geometric quantum computation with shortened path on superconducting circuits": [
+        "China"
+    ],
+    "Feature Selection for Recommender Systems with Quantum Computing": [
+        "Italy"
+    ],
+    "Quantum computing hardware in the cloud: Should a computational chemist care?": [
+        "United Kingdom"
+    ],
+    "Inclusive learning for quantum computing: supporting the aims of quantum literacy using the puzzle game Quantum Odyssey": [],
+    "Experimental implementation of universal holonomic quantum computation on solid-state spins with optimal control": [],
+    "A comparative study of universal quantum computing models: towards a physical unification": [],
+    "Tools for Quantum Computing Based on Decision Diagrams": [
+        "Austria"
+    ],
+    "Bugs in Quantum Computing Platforms: An Empirical Study": [
+        "Germany"
+    ],
+    "Optical vortex manipulation for topological quantum computation": [
+        "USA"
+    ],
+    "Training Quantum Embedding Kernels on Near-Term Quantum Computers": [
+        "Germany"
+    ],
+    "Resource-efficient encoding algorithm for variational bosonic quantum simulations": [
+        "Denmark"
+    ],
+    "Hardware-Efficient, Fault-Tolerant Quantum Computation with Rydberg Atoms": [
+        "USA"
+    ],
+    "A systematic variational approach to band theory in a quantum computer": [
+        "USA"
+    ],
+    "Formal Verification of Quantum Programs: Theory, Tools and Challenges": [
+        "UK"
+    ],
+    "Continuous Variable Quantum Advantages and Applications in Quantum Optics": [
+        "France"
+    ],
+    "Simulating thermal qubits through thermofield dynamics": [
+        "Brazil"
+    ],
+    "Benchmarks for quantum computers from Shor's algorithm": [
+        "South Africa"
+    ],
+    "Cache Blocking Technique to Large Scale Quantum Computing Simulation on Supercomputers": [
+        "Japan"
+    ],
+    "Nonadiabatic geometric quantum computation with cat qubits via invariant-based reverse engineering": [
+        "China"
+    ],
+    "Superconducting Circuit Architecture for Digital-Analog Quantum Computing": [],
+    "Quantum computation of nonlinear maps": [
+        "United States"
+    ],
+    "Divide-and-conquer verification method for noisy intermediate-scale quantum computation": [
+        "Japan"
+    ],
+    "Quantum Computer Music: Foundations and Initial Experiments": [
+        "UK"
+    ],
+    "Adiabatic Quantum Computing for Solving the Weapon-Target Assignment Problem": [
+        "Germany"
+    ],
+    "Cryogenic Memory Technologies": [
+        "USA"
+    ],
+    "Native multiqubit Toffoli gates on ion trap quantum computers": [
+        "India",
+        "USA"
+    ],
+    "Quantum computing 40 years later": [
+        "USA"
+    ],
+    "Realizing coherently convertible dual-type qubits with the same ion species": [
+        "China"
+    ],
+    "The role of cohomology in quantum computation with magic states": [
+        "Canada"
+    ],
+    "Playing with a Quantum Computer": [
+        "Germany"
+    ],
+    "Qubit Sensing: A New Attack Model for Multi-programming Quantum Computing": [
+        "USA"
+    ],
+    "Comment on the Quantum Supremacy Claim by Google": [
+        "South Africa",
+        "Mexico",
+        "Brazil"
+    ],
+    "Comparison of Cloud-Based Ion Trap and Superconducting Quantum Computer Architectures": [
+        "United States"
+    ],
+    "Building a large-scale quantum computer with continuous-variable optical technologies": [
+        "Japan"
+    ],
+    "A Quantum Computing View on Unitary Coupled Cluster Theory": [
+        "Canada"
+    ],
+    "Flow conditions for continuous variable measurement-based quantum computing": [
+        "France"
+    ],
+    "Robustness of Majorana zero-energy state": [
+        "China"
+    ],
+    "Realizations of Measurement Based Quantum Computing": [
+        "USA"
+    ],
+    "What the foundations of quantum computer science teach us about chemistry": [
+        "USA"
+    ],
+    "Quantum computational advantage implies contextuality": [
+        "United Kingdom"
+    ],
+    "An Introduction to Quantum Computing for Statisticians and Data Scientists": [],
+    "Quantum Computing: an undergraduate approach using Qiskit": [
+        "Brazil"
+    ],
+    "Shuttle-Exploiting Attacks and Their Defenses in Trapped-Ion Quantum Computers": [
+        "United States"
+    ],
+    "A practical guide for building superconducting quantum devices": [
+        "Singapore",
+        "Netherlands",
+        "United States"
+    ],
+    "Full-Dimensional Schr\u00f6dinger Wavefunction Calculations using Tensors and Quantum Computers: the Cartesian component-separated approach": [],
+    "Polaritonic Unitary Coupled Cluster for Quantum Computations": [
+        "USA"
+    ],
+    "Universal quantum computation and quantum error correction using discrete holonomies": [
+        "Sweden"
+    ],
+    "Step-by-Step HHL Algorithm Walkthrough to Enhance the Understanding of Critical Quantum Computing Concepts": [
+        "United States"
+    ],
+    "Modelling and Simulating the Noisy Behaviour of Near-term Quantum Computers": [
+        "United Kingdom"
+    ],
+    "Tensor Networks for Simulating Quantum Circuits on FPGAs": [],
+    "Experimental Quantum Computing to Solve Network DC Power Flow Problem": [],
+    "Quantum variational solving of the Wheeler-DeWitt equation": [
+        "Poland"
+    ],
+    "Quantum Power Flow": [],
+    "The Philosophy of Quantum Computing": [
+        "Germany"
+    ],
+    "Implementation of hybridly protected quantum gates": [
+        "Singapore"
+    ],
+    "QSOC: Quantum Service-Oriented Computing": [
+        "Netherlands"
+    ],
+    "Systems Theory of Classical and Quantum Fields and Applications to Quantum Computing and Control": [],
+    "Testing Quantum Contextuality of Binary Symplectic Polar Spaces on a Noisy Intermediate Scale Quantum Computer": [],
+    "Effective Matrix Model for Gauge Theories at Finite Temperature and Density using Quantum Computing": [
+        "United States"
+    ],
+    "Exploring Finite Temperature Properties of Materials with Quantum Computers": [
+        "USA"
+    ],
+    "On Information-Theoretic Classical Verification of Quantum Computers": [
+        "Israel"
+    ],
+    "Z3 gauge theory coupled to fermions and quantum computing": [
+        "United States"
+    ],
+    "Error mitigation in variational quantum eigensolvers using tailored probabilistic machine learning": [
+        "USA",
+        "USA",
+        "Denmark"
+    ],
+    "On the Role of Quantum Computing in Science and Cybersecurity": [
+        "United States"
+    ],
+    "Quantum computers to test fundamental physics or viceversa": [
+        "India",
+        "Italy"
+    ],
+    "Quantum computing is scalable on a planar array of qubits with fabrication defects": [
+        "United Kingdom"
+    ],
+    "Energy levels estimation on a quantum computer by evolution of a physical quantity": [
+        "Ukraine",
+        "USA"
+    ],
+    "Error-Tolerant Geometric Quantum Control for Logical Qubits with Minimal Resource": [
+        "China",
+        "Hong Kong"
+    ],
+    "Separation of gates in quantum parallel programming": [],
+    "A Survey and Tutorial on Security and Resilience of Quantum Computing": [
+        "United States"
+    ],
+    "3D Topological Quantum Computing": [
+        "Germany"
+    ],
+    "Quantum support vector regression for disability insurance": [],
+    "Emerging quantum computing algorithms for quantum chemistry": [
+        "USA"
+    ],
+    "A scheme for universal high-dimensional quantum computation with linear optics": [],
+    "Continuous Variable Quantum Algorithms: an Introduction": [
+        "Canada",
+        "Armenia"
+    ],
+    "Quantum Computers: Engines for Next Industrial Revolution": [],
+    "Toward dense QCD in quantum computers": [
+        "Japan"
+    ],
+    "Measurement-Based Quantum Computation": [
+        "USA"
+    ],
+    "Topological Quantum Computing and 3-Manifolds": [
+        "Germany"
+    ],
+    "Morse Potential on a Quantum Computer for Molecules and Supersymmetric Quantum Mechanics": [],
+    "From Digital Humanities to Quantum Humanities: Potentials and Applications": [
+        "Germany"
+    ],
+    "Quantum Computing by Cooling": [
+        "China"
+    ],
+    "Holomorphic representation of quantum computations": [
+        "USA"
+    ],
+    "Single-Qubit Cross Platform Comparison of Quantum Computing Hardware": [
+        "USA",
+        "France"
+    ],
+    "Re-examining the quantum volume test: Ideal distributions, compiler optimizations, confidence intervals, and scalable resource estimations": [
+        "USA"
+    ],
+    "Quantum spin systems for measurement-based quantum computation": [
+        "USA"
+    ],
+    "Universal quantum computation via quantum controlled classical operations": [
+        "Austria"
+    ],
+    "Quantum Computing Platforms: Assessing the Impact on Quality Attributes and SDLC Activities": [
+        "India"
+    ],
+    "A backend-agnostic, quantum-classical framework for simulations of chemistry in C++": [
+        "USA"
+    ],
+    "Quantum computational study of chloride ion attack on chloromethane for chemical accuracy and quantum noise effects with UCCSD and k-UpCCGSD ansatzes": [],
+    "A trapped ion quantum computer with robust entangling gates and quantum coherent feedback": [
+        "Israel"
+    ],
+    "Classical Computer, Quantum Computer, and the G\u00f6del's theorem": [
+        "China"
+    ],
+    "Noncyclic nonadiabatic holonomic quantum gates via shortcuts to adiabaticity": [
+        "China"
+    ],
+    "Detection of energy levels of a spin system on a quantum computer by probe spin evolution": [
+        "Ukraine"
+    ],
+    "Relaxation of a Stationary State on a Quantum Computer Yields Unique Spectroscopic Fingerprint of the Computer's Noise": [
+        "United States"
+    ],
+    "Degenerate Local-dimension-invariant Stabilizer Codes and an Alternative Bound for the Distance Preservation Condition": [
+        "Canada"
+    ],
+    "Efficient quantum programming using EASE gates on a trapped-ion quantum computer": [
+        "USA"
+    ],
+    "Multiple Query Optimization using a Hybrid Approach of Classical and Quantum Computing": [
+        "Switzerland",
+        "Italy"
+    ],
+    "Refrigeration with Indefinite Causal Orders on a Cloud Quantum Computer": [
+        "England",
+        "Singapore"
+    ],
+    "Polynomial scaling enhancement in ground-state preparation of Ising spin models via counter-diabatic driving": [
+        "Austria"
+    ],
+    "Effects of Quantum Computing in Security": [
+        "Qatar"
+    ],
+    "Superconducting quantum computer: a hint for building architectures": [
+        "Japan"
+    ],
+    "Quantum portfolio value forecasting": [
+        "Spain",
+        "Austria",
+        "Canada"
+    ],
+    "Detecting Qubit-coupling Faults in Ion-trap Quantum Computers": [],
+    "Quantum Computing for Artificial Intelligence Based Mobile Network Optimization": [
+        "Finland",
+        "Germany"
+    ],
+    "Algorithmic Strategies for seizing Quantum Computing": [],
+    "Measuring distance between quantum states on a quantum computer": [
+        "Ukraine"
+    ],
+    "Quantum machine learning of large datasets using randomized measurements": [
+        "UK"
+    ],
+    "A Quantum Computer Amenable Sparse Matrix Equation Solver": [
+        "Canada"
+    ],
+    "n-Qubit Operations on Sphere and Queueing Scaling Limits for Programmable Quantum Computer": [
+        "China"
+    ],
+    "Symmetry Protected Quantum Computation": [
+        "USA",
+        "Canada"
+    ],
+    "Noisy intermediate-scale quantum computing algorithm for solving an $n$-vertex MaxCut problem with log($n$) qubits": [
+        "France"
+    ],
+    "Quantum Simulation of Hawking Radiation Using VQE Algorithm on IBM Quantum Computer": [
+        "India"
+    ],
+    "A Leap among Quantum Computing and Quantum Neural Networks: A Survey": [
+        "Italy"
+    ],
+    "Supervised Learning by Chiral-Network-Based Photonic Quantum Computing": [
+        "China"
+    ],
+    "Low-overhead fault-tolerant quantum computing using long-range connectivity": [
+        "Australia"
+    ],
+    "Mapping Quantum Circuits to Ions in Storage Ring Quantum Computer Architectures": [],
+    "Quantum Computing with Two-dimensional Conformal Field Theories": [
+        "USA"
+    ],
+    "Variational secure cloud quantum computing": [
+        "Japan"
+    ],
+    "Period and intrinsic noises of permanent spin vortex system centered by small polaron": [
+        "Japan"
+    ],
+    "On nonlinear transformations in quantum computation": [
+        "USA"
+    ],
+    "On the application of matrix congruence to QUBO formulations for systems of linear equations": [
+        "USA",
+        "Republic of Korea"
+    ],
+    "A Serverless Cloud Integration For Quantum Computing": [
+        "Italy"
+    ],
+    "Fusion-based quantum computation": [
+        "United States"
+    ],
+    "Quantum Computational Complexity -- From Quantum Information to Black Holes and Back": [
+        "Israel",
+        "France"
+    ],
+    "Variational Quantum Simulation of Chemical Dynamics with Quantum Computers": [
+        "United States",
+        "China"
+    ],
+    "Distributed Quantum Computing and Network Control for Accelerated VQE": [
+        "UK",
+        "Germany"
+    ],
+    "Universal hybrid quantum computing in trapped ions": [
+        "USA",
+        "United Kingdom"
+    ],
+    "Consideration of the Need for Quantum Grid Computing": [
+        "United States"
+    ],
+    "Teaching quantum information technologies and a practical module for online and offline undergraduate students": [],
+    "Casimir energy with chiral fermions on a quantum computer": [
+        "United States"
+    ],
+    "Lattice Quantum Chromodynamics and Electrodynamics on a Universal Quantum Computer": [
+        "Canada",
+        "USA"
+    ],
+    "Translation of Quantum Circuits into Quantum Turing Machines for Deutsch and Deutsch-Jozsa Problems": [
+        "Italy"
+    ],
+    "Universal quantum computation with optical four-component cat qubits": [
+        "Canada",
+        "Germany"
+    ],
+    "Adiabatic Quantum Feature Selection for Sparse Linear Regression": [],
+    "Transferring quantum information between a quantum system with limited control and a quantum computer": [
+        "Japan"
+    ],
+    "Path-optimized nonadiabatic geometric quantum computation on superconducting qubits": [
+        "China"
+    ],
+    "A quantum walk control plane for distributed quantum computing in quantum networks": [
+        "United States"
+    ],
+    "Fast qubits of optical frequencies on the rare-earth ions in fluoride crystals and color centers in diamond": [
+        "Estonia",
+        "Russia"
+    ],
+    "Simulation of Lennard-Jones Potential on a Quantum Computer": [
+        "India"
+    ],
+    "A large millikelvin platform at Fermilab for quantum computing applications": [
+        "USA"
+    ],
+    "Implementation of a Multiple Target Tracking Filter on an Adiabatic Quantum Computer": [],
+    "DisQ: A Novel Quantum Output State Classification Method on IBM Quantum Computers using OpenPulse": [
+        "United States"
+    ],
+    "Solving hadron structures using the basis light-front quantization approach on quantum computers": [
+        "Spain",
+        "USA"
+    ],
+    "Cybersecurity for Quantum Computing": [
+        "Germany"
+    ],
+    "Modelling quantum photonics on a quantum computer": [
+        "Singapore",
+        "United Kingdom"
+    ],
+    "Simulation of multiple-quantum NMR dynamics of spin dimer on quantum computer": [
+        "Russia"
+    ],
+    "Hybrid Quantum-Classical Neural Network for Cloud-supported In-Vehicle Cyberattack Detection": [
+        "United States"
+    ],
+    "QUBO formulations for numerical quantum computing": [
+        "Republic of Korea"
+    ],
+    "State preparation and evolution in quantum computing: a perspective from Hamiltonian moments": [
+        "United States of America"
+    ],
+    "Quantum Walks, Feynman Propagators and Graph Topology on an IBM Quantum Computer": [
+        "United States",
+        "Italy"
+    ],
+    "Switch networks for photonic fusion-based quantum computing": [
+        "United States"
+    ],
+    "Detecting Entanglement Generating Circuits in Cloud-Based Quantum Computing": [
+        "Republic of Korea"
+    ],
+    "Playing quantum nonlocal games with six noisy qubits on the cloud": [
+        "Israel"
+    ],
+    "Interleaving: Modular architectures for fault-tolerant photonic quantum computing": [
+        "United States"
+    ],
+    "SU(2) hadrons on a quantum computer": [
+        "Canada"
+    ],
+    "Efficient, stabilized two-qubit gates on a trapped-ion quantum computer": [
+        "USA"
+    ],
+    "Measurement Crosstalk Errors in Cloud-Based Quantum Computing": [
+        "Republic of Korea"
+    ],
+    "Ethical Quantum Computing: A Roadmap": [],
+    "Dynamical-decoupling-protected nonadiabatic holonomic quantum computation": [
+        "China"
+    ],
+    "Distributed Quantum Computing with QMPI": [
+        "Switzerland",
+        "USA"
+    ],
+    "Quantum Computing for Inflationary, Dark Energy and Dark Matter Cosmology": [],
+    "Quantum Computing for Location Determination": [
+        "Egypt"
+    ],
+    "The resource cost of large scale quantum computing": [
+        "France"
+    ],
+    "On Lagrangian Formalism of Quantum Computation": [],
+    "Divide and Conquer for Combinatorial Optimization and Distributed Quantum Computation": [
+        "USA"
+    ],
+    "Categorical computation": [
+        "China"
+    ],
+    "Achieving fault tolerance against amplitude-damping noise": [
+        "India",
+        "Singapore"
+    ],
+    "Application-Oriented Performance Benchmarks for Quantum Computing": [],
+    "Exploring Airline Gate-Scheduling Optimization Using Quantum Computers": [
+        "United States"
+    ],
+    "A compact ion-trap quantum computing demonstrator": [],
+    "Hidden variable model for quantum computation with magic states on qudits of any dimension": [
+        "Canada"
+    ],
+    "Two-qubit gates in a trapped-ion quantum computer by engineering motional modes": [
+        "USA"
+    ],
+    "QuantumSkynet: A High-Dimensional Quantum Computing Simulator": [
+        "Colombia",
+        "USA"
+    ],
+    "Quantum Memristors with Quantum Computers": [
+        "China"
+    ],
+    "SpinQ Gemini: a desktop quantum computer for education and research": [
+        "China"
+    ],
+    "Quantum Computer Benchmarking via Quantum Algorithms": [
+        "United Kingdom"
+    ],
+    "Modular quantum computing and quantum-like devices": [
+        "Portugal"
+    ],
+    "A perspective on scaling up quantum computation with molecular spins": [
+        "Italy"
+    ],
+    "On the extremal points of the $\u039b$-polytopes and classical simulation of quantum computation with magic states": [
+        "Turkey",
+        "Canada"
+    ],
+    "Unconstrained Binary Models of the Travelling Salesman Problem Variants for Quantum Optimization": [
+        "Poland"
+    ],
+    "Mitigating noise in digital and digital-analog quantum computation": [
+        "Spain"
+    ],
+    "Anonymous multi-party quantum computation with a third party": [
+        "China"
+    ],
+    "Quantum Brain Networks: a Perspective": [
+        "United Kingdom",
+        "Spain"
+    ],
+    "Quantum Computation Using Action Variables": [
+        "P. R. China"
+    ],
+    "Digitized Adiabatic Quantum Factorization": [
+        "China"
+    ],
+    "Antenna Array Thinning Through Quantum Computing": [
+        "Italy"
+    ],
+    "Adiabatic Quantum Graph Matching with Permutation Matrix Constraints": [
+        "Germany"
+    ],
+    "Deterministic one-way logic gates on a cloud quantum computer": [],
+    "MISTIQS: An open-source software for performing quantum dynamics simulations on quantum computers": [
+        "USA"
+    ],
+    "Quantum Algorithms and Simulation for Parallel and Distributed Quantum Computing": [
+        "Germany"
+    ],
+    "Feasibility study of quantum computing using trapped electrons": [
+        "United States"
+    ],
+    "Formal Quantum Software Engineering: Introducing the Formal Methods of Software Engineering to Quantum Computing": [
+        "Italy"
+    ],
+    "Fully Device-Independent Model on Quantum Networks": [
+        "China"
+    ],
+    "Quantum Neural Networks: Concepts, Applications, and Challenges": [
+        "Republic of Korea"
+    ],
+    "Quantum computations (course of lectures)": [
+        "Russia"
+    ]
+}

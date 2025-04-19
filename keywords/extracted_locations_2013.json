@@ -1,0 +1,196 @@
+{
+    "Hybrid architecture for encoded measurement-based quantum computation": [
+        "Austria"
+    ],
+    "Solving systems of linear equations on a quantum computer": [
+        "Austria",
+        "United States"
+    ],
+    "Higher-order semantics for quantum programming languages with classical control": [
+        "United Kingdom"
+    ],
+    "Experimental Realization of Nonadiabatic Holonomic Quantum Computation": [
+        "China"
+    ],
+    "Commuting Local Hamiltonians on Expanders, Locally Testable Quantum codes, and the qPCP conjecture": [],
+    "Mini-maximizing two qubit quantum computations": [
+        "UAE"
+    ],
+    "Entangling Power in the Deterministic Quantum Computation with One Qubit": [
+        "China"
+    ],
+    "Measurement-Based Quantum Computation on Two-Body Interacting Qubits with Adiabatic Evolution": [
+        "Singapore",
+        "United Kingdom"
+    ],
+    "Experimental verification of quantum computations": [
+        "Austria",
+        "Singapore"
+    ],
+    "Ancilla Driven Quantum Computation with arbitrary entangling strength": [
+        "United Kingdom"
+    ],
+    "Compact Gaussian quantum computation by multi-pixel homodyne detection": [
+        "France"
+    ],
+    "Secure entanglement distillation for double-server blind quantum computation": [
+        "Japan",
+        "United Kingdom"
+    ],
+    "Minimum heat dissipation in measurement-based quantum computation": [
+        "Japan"
+    ],
+    "Tripartite Blind Quantum Computation": [
+        "China"
+    ],
+    "Q#, a quantum computation package for the .NET platform": [
+        "Egypt"
+    ],
+    "On the post-quantum security of encrypted key exchange protocols": [
+        "China"
+    ],
+    "Adiabatic graph-state quantum computation": [
+        "United Kingdom",
+        "France"
+    ],
+    "An analysis of the trade-off between spatial and temporal resources for measurement-based quantum computation": [
+        "Japan",
+        "Singapore"
+    ],
+    "An Introduction to Quantum Programming in Quipper": [
+        "Canada",
+        "U.S.A."
+    ],
+    "Quantum Computation with Magnetic Clusters": [
+        "USA"
+    ],
+    "Testing honesty of quantum server": [
+        "Japan"
+    ],
+    "A cold-atoms based processor for deterministic quantum computation with one qubit in intractably large Hilbert spaces": [
+        "United Kingdom"
+    ],
+    "Validity of rotating wave approximation in non-adiabatic holonomic quantum computation": [
+        "Sweden",
+        "Singapore"
+    ],
+    "Quantum computational algorithm for hidden symmetry subgroup problems on semi-direct product of cyclic groups": [
+        "Korea"
+    ],
+    "Universal quantum computation by the unitary control of ancilla qubits and using a fixed ancilla-register interaction": [
+        "United Kingdom"
+    ],
+    "Presheaf models of quantum computation: an outline": [
+        "Uruguay",
+        "Canada"
+    ],
+    "Quantum dissonance provide power to deterministic quantum computation with single qubit": [
+        "Germany",
+        "Pakistan"
+    ],
+    "Distillation protocols for Fourier states in quantum computing": [
+        "USA"
+    ],
+    "The computational power of matchgates and the XY interaction on arbitrary graphs": [
+        "Brazil",
+        "Canada"
+    ],
+    "Efficient universal blind computation": [
+        "Italy"
+    ],
+    "Fault tolerance for holonomic quantum computation": [
+        "Belgium",
+        "USA"
+    ],
+    "Geometry of Quantum Computation with Qutrits": [
+        "China"
+    ],
+    "Stability of topologically-protected quantum computing proposals as seen through spin glasses": [
+        "United States"
+    ],
+    "Optimal complexity correction of correlated errors in the surface code": [
+        "USA",
+        "Australia"
+    ],
+    "Measurement-based quantum computation with trapped ions": [
+        "Austria"
+    ],
+    "Optimal Blind Quantum Computation": [
+        "India",
+        "Singapore"
+    ],
+    "Critique of Fault-Tolerant Quantum Information Processing": [
+        "Poland"
+    ],
+    "Pretending to factor large numbers on a quantum computer": [
+        "USA"
+    ],
+    "Secure multiparty quantum computation based on bit commitment": [
+        "China"
+    ],
+    "A family of [[6k, 2k, 2]] codes for practical, scalable adiabatic quantum computation": [
+        "USA"
+    ],
+    "Hybrid valence-bond states for universal quantum computation": [
+        "USA"
+    ],
+    "Space-Time Topology in Teleportation-Based Quantum Computation": [
+        "China"
+    ],
+    "Hyper-parallel photonic quantum computation with coupled quantum dots": [
+        "China"
+    ],
+    "Categorical models of computation: partially traced categories and presheaf models of quantum computation": [
+        "Canada"
+    ],
+    "Gate count estimates for performing quantum chemistry on small quantum computers": [
+        "USA"
+    ],
+    "Conceptual aspects of geometric quantum computation": [],
+    "Measures of quantum computing speedup": [
+        "USA"
+    ],
+    "Error suppression and error correction in adiabatic quantum computation I: techniques and challenges": [
+        "United States"
+    ],
+    "Quantum Computing's Classical Problem, Classical Computing's Quantum Problem": [],
+    "Elementary Particles as Gates for Universal Quantum Computation": [],
+    "Quantum Computing: a Quantum Group Approach": [],
+    "Quantum Gravity on a Quantum Computer?": [
+        "Canada",
+        "Australia"
+    ],
+    "Composable security of measuring-Alice blind quantum computation": [
+        "Japan"
+    ],
+    "Knot Logic and Topological Quantum Computing with Majorana Fermions": [
+        "United States"
+    ],
+    "Geometrical perspective on quantum states and quantum computation": [
+        "China"
+    ],
+    "Logic Synthesis for Fault-Tolerant Quantum Computers": [
+        "United States"
+    ],
+    "Composable security of delegated quantum computation": [
+        "United Kingdom",
+        "Croatia"
+    ],
+    "Spin-free quantum computational simulations and symmetry adapted states": [
+        "Austria"
+    ],
+    "Comment on \"Towards universal quantum computation through relativistic motion\"": [
+        "Australia"
+    ],
+    "Diamond as a solid state quantum computer with a linear chain of nuclear spins system": [
+        "Mexico"
+    ],
+    "How Fast Can Quantum Annealers Count?": [
+        "USA"
+    ],
+    "Feedback-controlled adiabatic quantum computation": [
+        "UK",
+        "Japan",
+        "USA"
+    ]
+}

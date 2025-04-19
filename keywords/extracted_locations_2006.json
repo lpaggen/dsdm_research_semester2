@@ -1,0 +1,181 @@
+{
+    "How Quantum Computers Can Fail": [
+        "Israel",
+        "United States"
+    ],
+    "Fidelity of holonomic quantum computations in the case of random errors in the values of control parameters": [
+        "Belarus"
+    ],
+    "Physical implementation of holonomic quantum computation in decoherence-free subspaces with trapped ions": [
+        "China"
+    ],
+    "Quantum computing with magnetic atoms in optical lattices of reduced periodicity": [
+        "United States"
+    ],
+    "Decoherence induced by squeezing control errors in optical and ion trap holonomic quantum computations": [
+        "Belarus"
+    ],
+    "Quantum Computing Using Crossed Atomic Beams": [
+        "United Kingdom"
+    ],
+    "Classical simulation of limited-width cluster-state quantum computation": [
+        "UK"
+    ],
+    "Scalable solid-state quantum computation in decoherence-free subspaces with trapped ions": [
+        "China"
+    ],
+    "Error models for mode-mismatch in linear optics quantum computing": [
+        "Australia"
+    ],
+    "Schemes for robust quantum computation with polar molecules": [
+        "United States"
+    ],
+    "Notes on Geometric-Algebra Quantum-Like Algorithms": [
+        "Belgium",
+        "Poland"
+    ],
+    "Several natural BQP-Complete problems": [],
+    "A simple nearest-neighbor two-body Hamiltonian system for which the ground state is a universal resource for quantum computation": [
+        "Australia",
+        "United Kingdom"
+    ],
+    "Bounds for the adiabatic approximation with applications to quantum computation": [
+        "Germany",
+        "USA"
+    ],
+    "On the role of entanglement and correlations in mixed-state quantum computation": [
+        "USA",
+        "Australia"
+    ],
+    "Difficulties in the Implementation of Quantum Computers": [],
+    "New Limits on Fault-Tolerant Quantum Computation": [
+        "Netherlands",
+        "Canada",
+        "United Kingdom"
+    ],
+    "Convergence rates of random walk on irreducible representations of finite groups": [],
+    "Quantum computation with scattering matrices": [],
+    "Atom-Photon Interactions with Respect to Quantum Computation: Three-Level Atom in Two-Mode Field": [],
+    "Quantum Computation Using Vortices and Majorana Zero Modes of a $p_x$ + $ip_y$ Superfluid of Fermionic Cold Atoms": [
+        "United States"
+    ],
+    "Decoherence in a scalable adiabatic quantum computer": [
+        "Japan",
+        "USA"
+    ],
+    "Towards quantum computing with single atoms and optical cavities on atom chips": [
+        "United Kingdom"
+    ],
+    "Fault-tolerant quantum computation with high threshold in two dimensions": [
+        "Canada",
+        "USA"
+    ],
+    "Classical simulators of quantum computers and no-go theorems": [],
+    "Fault-tolerant Quantum Computation with Highly Verified Logical Cluster States": [
+        "Japan"
+    ],
+    "In praise of measurement": [
+        "United States"
+    ],
+    "Gate-level simulation of logical state preparation": [
+        "Australia"
+    ],
+    "Measurement-based quantum computation with superconducting charge qubits": [
+        "Japan"
+    ],
+    "Information-theoretic temporal Bell inequality and quantum computation": [
+        "Japan"
+    ],
+    "Robustness of optimal working points for non-adiabatic holonomic quantum computation": [
+        "Italy"
+    ],
+    "The sum-over-histories formulation of quantum computing": [],
+    "A multiplexed single electron transistor for application in scalable solid-state quantum computing": [
+        "Australia"
+    ],
+    "Single electron spin and its coherence in Si quantum computer architecture": [
+        "United States",
+        "Brazil"
+    ],
+    "Quantum computing with superconductors I: Architectures": [
+        "USA"
+    ],
+    "Creation of entanglement in a scalable spin quantum computer with long-range dipole-dipole interaction between qubits": [
+        "United States"
+    ],
+    "Methods for scalable optical quantum computation": [
+        "Israel",
+        "UK"
+    ],
+    "Quantum Memory Hierarchies: Efficient Designs to Match Available Parallelism in Quantum Computing": [
+        "United States"
+    ],
+    "Quantum computing with spins in solids": [
+        "Switzerland"
+    ],
+    "Artificial Decoherence and its Suppression in NMR Quantum Computer": [
+        "Japan"
+    ],
+    "Cartoon Computation: Quantum-like computing without quantum mechanics": [
+        "Belgium",
+        "Poland"
+    ],
+    "Basic Logic and Quantum Entanglement": [
+        "Italy"
+    ],
+    "Deutsch and Jozsa's Algorithm Revisited": [
+        "United States"
+    ],
+    "Interconnection Networks for Scalable Quantum Computers": [
+        "United States"
+    ],
+    "Studies on Entanglement in Nuclear and Electron Spin Systems for Quantum Computing": [
+        "Japan"
+    ],
+    "Quantum Computation as Geometry": [
+        "Australia"
+    ],
+    "Is Fault-Tolerant Quantum Computation Really Possible?": [
+        "France"
+    ],
+    "Universal Quantum Computation in a Neutral Atom Decoherence Free Subspace": [
+        "Denmark"
+    ],
+    "Experimental Realization of Deutsch's Algorithm in a One-way Quantum Computer": [
+        "United Kingdom",
+        "Austria"
+    ],
+    "Fault-tolerant linear optics quantum computation by error-detecting quantum state transfer": [
+        "Korea"
+    ],
+    "KLM quantum computation with bosonic atoms": [
+        "United Kingdom"
+    ],
+    "Fuzzy Propositional Logic Associated with Quantum Computational Gates": [],
+    "KLM quantum computation as a measurement based computation": [
+        "UK"
+    ],
+    "Quantum Computing with Global One-and Two-Qubit Gates": [],
+    "Effective fault-tolerant quantum computation with slow measurements": [
+        "United States"
+    ],
+    "Topologization of electron liquids with Chern-Simons theory and quantum computation": [
+        "China"
+    ],
+    "The Dynamics of Entanglement in the Adiabatic Search and Deutsch Algorithms": [
+        "Canada"
+    ],
+    "Decoherence induced by squeezing control errors in optical and ion trap holonomic quantum computations II": [
+        "Belarus"
+    ],
+    "Simple proof of equivalence between adiabatic quantum computation and the circuit model": [
+        "United States"
+    ],
+    "Implementation of controlled SWAP gates for quantum fingerprinting and photonic quantum computation": [
+        "United States"
+    ],
+    "On measurement-based quantum computation with the toric code states": [
+        "USA",
+        "Canada"
+    ]
+}

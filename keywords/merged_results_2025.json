@@ -1,0 +1,558 @@
+{
+    "Adaptive Genetic Algorithms for Pulse-Level Quantum Error Mitigation": {
+        "keywords": [
+            "adaptive genetic algorithms",
+            "pulse-level quantum error mitigation",
+            "noise resilience",
+            "fidelity optimization",
+            "NISQ computing",
+            "quantum error correction",
+            "dynamic noise adaptation",
+            "evolutionary strategies",
+            "quantum circuit performance",
+            "hardware-software integration"
+        ],
+        "locations": [
+            "Costa Rica",
+            "USA"
+        ]
+    },
+    "Analyzing the Evolution and Maintenance of Quantum Computing Repositories": {
+        "keywords": [
+            "quantum computing",
+            "software repositories",
+            "Qiskit",
+            "Cirq",
+            "quantum algorithms",
+            "commit patterns",
+            "maintenance practices",
+            "programming languages",
+            "specialized tools",
+            "community engagement"
+        ],
+        "locations": [
+            "United States"
+        ]
+    },
+    "Blockchain Security Risk Assessment in Quantum Era, Migration Strategies and Proactive Defense": {
+        "keywords": [
+            "Quantum Computing",
+            "Blockchain Security",
+            "Quantum-Resistant Cryptography",
+            "Post-Quantum Algorithms",
+            "Hybrid Blockchain",
+            "Risk Assessment",
+            "Smart Contracts",
+            "Quantum Threats",
+            "Consensus Mechanisms",
+            "Quantum-Safe Key Exchange"
+        ],
+        "locations": []
+    },
+    "Certified Random Number Generation using Quantum Computers": {
+        "keywords": [
+            "Certified Random Number Generation",
+            "Quantum Mechanics",
+            "Leggett-Garg Inequality",
+            "No-Signaling in Time",
+            "Temporal Correlations",
+            "Single-Qubit Gates",
+            "Low-Depth Circuits",
+            "Quantum Security",
+            "Device-Independent Randomness",
+            "NISQ Quantum Computers"
+        ],
+        "locations": [
+            "India",
+            "Canada"
+        ]
+    },
+    "Chemically-Accurate Prediction of the Ionisation Potential of Helium Using a Quantum Processor": {
+        "keywords": [
+            "ionisation potential",
+            "quantum processor",
+            "electronic structure calculations",
+            "noisy quantum computers",
+            "variational quantum eigensolver (VQE)",
+            "qubit-efficient encoding",
+            "quantum computed moments (QCM)",
+            "hardware-adapted quantum circuits",
+            "error mitigation techniques",
+            "chemical accuracy"
+        ],
+        "locations": []
+    },
+    "Digital quantum simulation of bosonic systems and quantum complementarity": {
+        "keywords": [
+            "Digital quantum simulation",
+            "bosonic systems",
+            "Pauli operators",
+            "Gray code",
+            "quantum complementarity",
+            "Afshar's experiment",
+            "Unruh's experiment",
+            "wave-particle duality",
+            "nested Mach-Zehnder interferometers",
+            "quantum coherence."
+        ],
+        "locations": [
+            "Brazil"
+        ]
+    },
+    "Elucidating the Physical and Mathematical Properties of the Prouhet-Thue-Morse Sequence in Quantum Computing": {
+        "keywords": [
+            "Prouhet-Thue-Morse sequence",
+            "quantum error correction",
+            "noise-resistant quantum memories",
+            "quantum chaos",
+            "Ising systems",
+            "fractal nature",
+            "mathematical structure",
+            "quantum dynamics",
+            "Walsh-Hadamard transform",
+            "Riemann zeta function."
+        ],
+        "locations": [
+            "France"
+        ]
+    },
+    "Estimating quantum relative entropies on quantum computers": {
+        "keywords": [
+            "quantum relative entropy",
+            "Petz Renyi divergence",
+            "variational quantum algorithm",
+            "quadrature approximation",
+            "Hermitian polynomial operators",
+            "quantum f-divergences",
+            "distributed quantum computing",
+            "parameterization techniques",
+            "numerical simulations",
+            "cross-platform quantum device verification"
+        ],
+        "locations": [
+            "China",
+            "Switzerland"
+        ]
+    },
+    "Estimating the Power of a Quantum Computer": {
+        "keywords": [
+            "quantum volumetric metrics",
+            "effective error rate",
+            "quantum error correction",
+            "qubit connectivity",
+            "benchmarking metrics",
+            "quantum computing performance",
+            "fault-tolerant quantum computation",
+            "magic state distillation",
+            "quantum algorithm scalability",
+            "quantum hardware advancements"
+        ],
+        "locations": [
+            "USA"
+        ]
+    },
+    "Harnessing CUDA-Q's MPS for Tensor Network Simulations of Large-Scale Quantum Circuits": {
+        "keywords": [
+            "quantum simulation",
+            "tensor network",
+            "CUDA-Q",
+            "matrix product state",
+            "GPU acceleration",
+            "entanglement",
+            "high-qubit circuits",
+            "SVD iterations",
+            "approximation methods",
+            "quantum frameworks"
+        ],
+        "locations": [
+            "Sweden"
+        ]
+    },
+    "How to Design a Classically Difficult Random Quantum Circuit for Quantum Computational Advantage Experiments": {
+        "keywords": [
+            "quantum computational advantage",
+            "random quantum circuits",
+            "classical simulation cost",
+            "automated protocol design",
+            "noisy intermediate-scale quantum",
+            "two-qubit gate patterns",
+            "entanglement growth",
+            "benchmarking primitive",
+            "hardware imperfections",
+            "tensor network contraction"
+        ],
+        "locations": [
+            "China"
+        ]
+    },
+    "Implementation of phase gates using single photons": {
+        "keywords": [
+            "phase gates",
+            "single photons",
+            "quantum Fourier transform",
+            "dressed states",
+            "optical qubits",
+            "phase shift gate",
+            "impurity centers",
+            "rare earth ions",
+            "qubit states",
+            "quantum computing algorithms"
+        ],
+        "locations": [
+            "Estonia"
+        ]
+    },
+    "Implementing Finite Impulse Response Filters on Quantum Computers": {
+        "keywords": [
+            "quantum signal processing",
+            "finite impulse response filters",
+            "unitary operators",
+            "filter cascading",
+            "quantum algorithms",
+            "classical to quantum conversion",
+            "mixed analog-digital systems",
+            "quantum Fourier transform",
+            "quantum error correction",
+            "quantum state measurement"
+        ],
+        "locations": [
+            "United States"
+        ]
+    },
+    "Improving Student Self-Efficacy in Quantum Computing with the Qubit Touchdown Board Game": {
+        "keywords": [
+            "Qubit Touchdown",
+            "quantum computing",
+            "self-efficacy",
+            "quantum information science",
+            "educational outreach",
+            "quantum games",
+            "Bloch sphere",
+            "quantum gates",
+            "K-12 education",
+            "algorithmic innovations"
+        ],
+        "locations": [
+            "United States"
+        ]
+    },
+    "Left-Deep Join Order Selection with Higher-Order Unconstrained Binary Optimization on Quantum Computers": {
+        "keywords": [
+            "higher-order binary optimization",
+            "quantum annealing",
+            "quantum approximate optimization algorithm",
+            "variational quantum eigensolver",
+            "join order optimization",
+            "database optimization",
+            "theoretical bounds",
+            "quantum algorithms",
+            "quantum-inspired hardware",
+            "scalability"
+        ],
+        "locations": [
+            "Finland"
+        ]
+    },
+    "Masking Countermeasures Against Side-Channel Attacks on Quantum Computers": {
+        "keywords": [
+            "quantum computing",
+            "side-channel attacks",
+            "virtual gate masking",
+            "quantum algorithm transpilation",
+            "information-theoretic security",
+            "NISQ devices",
+            "circuit reconstruction",
+            "masking techniques",
+            "quantum circuit model",
+            "hardware architecture"
+        ],
+        "locations": [
+            "USA"
+        ]
+    },
+    "On the Transfer of Knowledge in Quantum Algorithms": {
+        "keywords": [
+            "Quantum Computing",
+            "Transfer Learning",
+            "Transfer Optimization",
+            "Quantum Annealing",
+            "Variational Quantum Algorithms",
+            "Hybrid Solvers",
+            "Knowledge Transfer",
+            "Quantum Gates",
+            "Quantum Algorithms",
+            "Computational Efficiency"
+        ],
+        "locations": [
+            "Spain"
+        ]
+    },
+    "Pre-stack and post-stack seismic inversion using quantum computing": {
+        "keywords": [
+            "quantum computing",
+            "quantum annealing",
+            "seismic inversion",
+            "P-wave impedance",
+            "S-wave impedance",
+            "optimization problems",
+            "hybrid quantum-classical solver",
+            "D-Wave Leap",
+            "computational speed",
+            "geophysical applications"
+        ],
+        "locations": [
+            "USA"
+        ]
+    },
+    "Programming tools for Analogue Quantum Computing in the High-Performance Computing Context -- A Review": {
+        "keywords": [
+            "Analogue Quantum Computing",
+            "Quantum Hamiltonian Simulation",
+            "Quantum Annealing",
+            "High-Performance Computing Integration",
+            "Quantum Error Correction",
+            "Pulse-Level Control",
+            "Hybrid Quantum-Classical Systems",
+            "Software Tools for Quantum Programming",
+            "NISQ Devices",
+            "Quantum Programming Models"
+        ],
+        "locations": [
+            "United Kingdom"
+        ]
+    },
+    "QSteed: Quantum Software of Compilation for Supporting Real Quantum Device": {
+        "keywords": [
+            "QSteed",
+            "quantum compilation",
+            "resource virtualization",
+            "quantum processor management",
+            "hardware-aware compilation",
+            "modular compiler design",
+            "VQPU selection",
+            "noise-aware optimization",
+            "circuit transpilation",
+            "quantum task scheduling"
+        ],
+        "locations": [
+            "China"
+        ]
+    },
+    "Quantum Advantage in Trading: A Game-Theoretic Approach": {
+        "keywords": [
+            "quantum games",
+            "quantum advantage",
+            "ion-trap quantum computer",
+            "Nash equilibria",
+            "game-theoretic models",
+            "quantum trading",
+            "quantum entanglement",
+            "mixed strategies",
+            "quantum referee",
+            "financial strategies"
+        ],
+        "locations": []
+    },
+    "Quantum computational advantage of noisy boson sampling with partially distinguishable photons": {
+        "keywords": [
+            "noisy boson sampling",
+            "quantum computational advantage",
+            "partial distinguishability",
+            "complexity theory",
+            "classical intractability",
+            "photon loss",
+            "algorithmic innovation",
+            "theoretical framework",
+            "experimental demonstration",
+            "quantum information science"
+        ],
+        "locations": [
+            "Republic of Korea"
+        ]
+    },
+    "Quantum Computing Enhanced Sensing": {
+        "keywords": [
+            "quantum computing",
+            "quantum sensing",
+            "Grover-Heisenberg limit",
+            "quantum search sensing",
+            "metrological gain",
+            "quantum Fisher information",
+            "finite-lifetime quantum memory",
+            "classical signal processing",
+            "entangled sensors",
+            "quantum error correction"
+        ],
+        "locations": [
+            "USA"
+        ]
+    },
+    "Quantum Measurement for Quantum Chemistry on a Quantum Computer": {
+        "keywords": [
+            "quantum measurement",
+            "quantum chemistry",
+            "Variational Quantum Eigensolver (VQE)",
+            "Quantum Phase Estimation (QPE)",
+            "error mitigation",
+            "measurement operators",
+            "classical shadow tomography",
+            "Hamiltonian partitioning",
+            "fault-tolerant quantum computing",
+            "qubit representation"
+        ],
+        "locations": [
+            "Canada"
+        ]
+    },
+    "Quantum-Assisted Space Logistics Mission Planning": {
+        "keywords": [
+            "quantum computing",
+            "entropy quantum computing",
+            "Hamiltonian-based optimization",
+            "multicommodity network flow",
+            "quantum-assisted logistics",
+            "adiabatic quantum optimization",
+            "quantum bits (qubits)",
+            "hybrid quantum-classical algorithms",
+            "space logistics",
+            "interplanetary mission planning"
+        ],
+        "locations": [
+            "United States"
+        ]
+    },
+    "Randomized Benchmarking with Leakage Errors": {
+        "keywords": [
+            "leakage errors",
+            "randomized benchmarking",
+            "fidelity estimation",
+            "quantum error correction",
+            "two-qubit gates",
+            "computational subspace",
+            "leakage population",
+            "error regimes",
+            "fidelity measurement methods",
+            "quantum information science"
+        ],
+        "locations": [
+            "USA"
+        ]
+    },
+    "Research on quantum compilation of neutral atom quantum computing platform": {
+        "keywords": [
+            "quantum compilation",
+            "neutral atom quantum computing",
+            "matrix decomposition",
+            "quantum gates",
+            "universal quantum gate set",
+            "QRD algorithm",
+            "QSD algorithm",
+            "entanglement gates",
+            "quantum circuit synthesis",
+            "quaternion method"
+        ],
+        "locations": [
+            "China"
+        ]
+    },
+    "Robot localization aided by quantum algorithms": {
+        "keywords": [
+            "Quantum Computing",
+            "Grover's Algorithm",
+            "Robot Localization",
+            "Quantum Robotics",
+            "Quantum Algorithms",
+            "Costmap",
+            "Probabilistic Localization",
+            "Quantum Search",
+            "Autonomous Systems",
+            "Map Encoding"
+        ],
+        "locations": [
+            "Spain"
+        ]
+    },
+    "Symmetric quantum computation": {
+        "keywords": [
+            "symmetric quantum circuits",
+            "quantum speedups",
+            "amplitude amplification",
+            "phase estimation",
+            "linear combination of unitaries",
+            "symmetric state preparation",
+            "geometric deep learning",
+            "quantum advantage",
+            "polynomial phase states",
+            "equivariant quantum neural networks"
+        ],
+        "locations": []
+    },
+    "The Economics of an Open-Source Quantum Computer": {
+        "keywords": [
+            "open-source quantum computing",
+            "fault tolerance",
+            "hardware agnostic technology",
+            "benchmarking",
+            "quantum stack",
+            "qubit architecture",
+            "error correction",
+            "market frictions",
+            "labor supply",
+            "dimensionality curse"
+        ],
+        "locations": [
+            "Canada"
+        ]
+    },
+    "The Qudit Cirq Library: An Extension of Google's Cirq Library for Qudits": {
+        "keywords": [
+            "Qudit Cirq Library",
+            "qudits",
+            "quantum gates",
+            "quantum circuits",
+            "simulation",
+            "Pauli-X Gate",
+            "Hadamard Gate",
+            "Controlled-NOT Gate",
+            "quantum computation",
+            "high-dimensional quantum systems"
+        ],
+        "locations": [
+            "Australia"
+        ]
+    },
+    "Toward Human-Quantum Computer Interaction: Interface Techniques for Usable Quantum Computing": {
+        "keywords": [
+            "quantum computing",
+            "human-quantum interaction",
+            "circuit composition",
+            "usability standards",
+            "optimization techniques",
+            "conceptual mapping",
+            "interface design",
+            "error adjustment",
+            "machine selection",
+            "quantum algorithms"
+        ],
+        "locations": [
+            "U.S.A."
+        ]
+    },
+    "W3ID: A Quantum Computing-Secure Digital Identity System Redefining Standards for Web3 and Digital Twins": {
+        "keywords": [
+            "quantum computing",
+            "W3ID",
+            "digital identity",
+            "Web 3.0",
+            "cryptographic hashing",
+            "decentralized networks",
+            "Digital Object Identifiers",
+            "SHA-256",
+            "authentication",
+            "digital twins"
+        ],
+        "locations": [
+            "USA"
+        ]
+    }
+}

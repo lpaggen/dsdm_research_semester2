@@ -1,0 +1,312 @@
+{
+    "Quantum speedup in stoquastic adiabatic quantum computation": [
+        "Japan"
+    ],
+    "Nonadiabatic holonomic quantum computation on coupled transmons with ancillaries": [
+        "China"
+    ],
+    "Circuit optimization for IBM processors: A way to get higher fidelity and higher values of nonclassicality witnesses": [
+        "India"
+    ],
+    "Linear Response on a Quantum Computer": [
+        "USA"
+    ],
+    "Quantum Neural Network and Soft Quantum Computing": [
+        "China"
+    ],
+    "Quantum Computing Circuits and Devices": [
+        "USA"
+    ],
+    "The Mathematics of Quantum-Enabled Applications on the D-Wave Quantum Computer": [
+        "Canada"
+    ],
+    "Network Community Detection On Small Quantum Computers": [
+        "USA"
+    ],
+    "Rent's rule and extensibility in quantum computing": [
+        "The Netherlands",
+        "United States"
+    ],
+    "Spin networks on adiabatic quantum computer": [
+        "Poland"
+    ],
+    "Tracking Quantum Error Correction": [
+        "Japan"
+    ],
+    "Experimental quantum mechanics in the class room: Testing basic ideas of quantum mechanics and quantum computing using IBM quantum computer": [
+        "India"
+    ],
+    "Proof of efficient, parallelized, universal adiabatic quantum computation": [
+        "USA"
+    ],
+    "Q#: Enabling scalable quantum computing and development with a high-level domain-specific language": [],
+    "Universal Uncertainty Principle in Different Quantum Theories": [
+        "USA",
+        "China"
+    ],
+    "The Travelling Salesman Problem and Adiabatic Quantum Computation: An Algorithm": [
+        "Australia"
+    ],
+    "Universal fault-tolerant measurement-based quantum computation": [
+        "Australia"
+    ],
+    "On quantum illumination, quantum reading, and the capacity of quantum computation": [
+        "UK",
+        "USA"
+    ],
+    "Quantum algorithms for systems of linear equations inspired by adiabatic quantum computing": [
+        "United States",
+        "Austria"
+    ],
+    "A Universal Quantum Computing Virtual Machine": [
+        "China"
+    ],
+    "Integrated Analysis of Performance and Resource of Large-Scale Quantum Computing": [
+        "South Korea"
+    ],
+    "Computational speedups using small quantum devices": [
+        "Germany",
+        "The Netherlands"
+    ],
+    "On the depth overhead incurred when running quantum algorithms on near-term quantum computers with limited qubit connectivity": [
+        "UK"
+    ],
+    "Variational Consistent Histories as a Hybrid Algorithm for Quantum Foundations": [
+        "USA"
+    ],
+    "Spin Foam Vertex Amplitudes on Quantum Computer -- Preliminary Results": [
+        "France",
+        "Poland"
+    ],
+    "Wafer-scale fabrication and room-temperature experiments on graphene-based gates for quantum computation": [],
+    "Graph Cut Segmentation Methods Revisited with a Quantum Algorithm": [
+        "UK",
+        "USA"
+    ],
+    "Quantum computation via Floquet topological edge modes": [
+        "Singapore"
+    ],
+    "A very brief introduction to quantum computing and quantum information theory for mathematicians": [],
+    "Scalable arrays of micro-Penning traps for quantum computing and simulation": [
+        "Switzerland"
+    ],
+    "Experimental Cryptographic Verification for Near-Term Quantum Cloud Computing": [],
+    "Quantum computing methods for electronic states of the water molecule": [
+        "USA"
+    ],
+    "Nonlinear regression based on a hybrid quantum computer": [
+        "China"
+    ],
+    "Universal quantum computing with superconducting charge qubits": [
+        "China",
+        "United Kingdom"
+    ],
+    "Client-friendly continuous-variable blind and verifiable quantum computing": [
+        "Singapore"
+    ],
+    "Majorana Superconducting Qubit": [
+        "United States"
+    ],
+    "Boson Sampling with Gaussian input states: toward efficient scaling and certification": [
+        "USA",
+        "Australia"
+    ],
+    "Logical structures underlying quantum computing": [
+        "Argentina"
+    ],
+    "Single electron transport and possible quantum computing in 2D materials": [
+        "China"
+    ],
+    "Community Detection Across Emerging Quantum Architectures": [],
+    "Digital-Analog Quantum Computation": [
+        "Spain",
+        "United States"
+    ],
+    "Validating quantum computers using randomized model circuits": [
+        "United States"
+    ],
+    "Duality Quantum Computing with Subwave Projections": [
+        "China"
+    ],
+    "Self-consistent tomography of temporally correlated errors": [
+        "China"
+    ],
+    "Hamiltonian engineering for adiabatic quantum computation: Lessons from shortcuts to adiabaticity": [
+        "Japan"
+    ],
+    "PDQP~qpoly = ALL": [],
+    "Quantum computational universality of hypergraph states with Pauli-X and Z basis measurements": [
+        "Japan"
+    ],
+    "A Factorisation Algorithm in Adiabatic Quantum Computation": [
+        "Australia"
+    ],
+    "Quantum Computing in the NISQ era and beyond": [
+        "USA"
+    ],
+    "Classical Verification of Quantum Computations": [],
+    "Finding the ground state of the Hubbard model by variational methods on a quantum computer with gate errors": [
+        "Germany"
+    ],
+    "Black Holes and Complexity Classes": [
+        "USA"
+    ],
+    "Measurement-based adaptation protocol with quantum reinforcement learning in a Rigetti quantum computer": [
+        "Spain"
+    ],
+    "Topological Quantum Computation from the 3-dimensional Bordism 2-Category": [
+        "Colombia"
+    ],
+    "Expected Optimal Time for the NMR Implementation of Shor's Algorithm for Factorising 15": [
+        "United Kingdom"
+    ],
+    "Level-rank duality for a Universal Topological Quantum Computer": [
+        "United States"
+    ],
+    "Interactive Proofs with Polynomial-Time Quantum Prover for Computing the Order of Solvable Groups": [
+        "Japan"
+    ],
+    "A Case for Variability-Aware Policies for NISQ-Era Quantum Computers": [
+        "United States"
+    ],
+    "Blind quantum computing can always be made verifiable": [
+        "Japan"
+    ],
+    "Quantum computing from a mathematical perspective: a description of the quantum circuit model": [
+        "Spain"
+    ],
+    "A simple protocol for fault tolerant verification of quantum computation": [
+        "UK"
+    ],
+    "Universal quantum computation using fractal symmetry-protected cluster phases": [
+        "USA"
+    ],
+    "Quantum Circuit Design for Objective Function Maximization in Gate-Model Quantum Computers": [],
+    "Markov Process Simulation with Quantum Computer": [
+        "Bulgaria"
+    ],
+    "Algorithmic simulation of far-from-equilibrium dynamics using quantum computer": [],
+    "Challenges Implementing non-Abelian SU(2) Quantum Chromodynamics Gauge Links On a Universal Quantum Computer": [
+        "United States"
+    ],
+    "Scalable star-shape architecture for universal spin-based nonadiabatic holonomic quantum computation": [
+        "Iran"
+    ],
+    "Accuracy and Resource Estimations for Quantum Chemistry on a Near-term Quantum Computer": [
+        "Germany"
+    ],
+    "Quantum Computational Supremacy": [],
+    "Towards a Multi Target Quantum Computational Logic": [],
+    "Overview and Comparison of Gate Level Quantum Software Platforms": [
+        "United States"
+    ],
+    "Quantum computation from fermionic anyons on a 1D lattice": [
+        "Brazil"
+    ],
+    "Open source software in quantum computing": [
+        "Canada",
+        "South Africa"
+    ],
+    "Quantum Algorithm Implementations for Beginners": [],
+    "Demonstration of a general fault-tolerant quantum error detection code for (2n+1)-qubit entangled state on IBM 16-qubit quantum computer": [
+        "India"
+    ],
+    "Quantum Computation Based on Quantum Adiabatic Bifurcations of Kerr-Nonlinear Parametric Oscillators": [
+        "Japan"
+    ],
+    "Simulating 0+1 Dimensional Quantum Gravity on Quantum Computers: Mini-Superspace Quantum Cosmology and the World Line Approach in Quantum Field Theory": [],
+    "2D quantum computation with 3D topological codes": [
+        "United States"
+    ],
+    "Exterior calculus and fermionic quantum computation": [
+        "UK"
+    ],
+    "Quantum computation by teleportation and symmetry": [
+        "Canada"
+    ],
+    "Preparing tunable Bell-diagonal states on a quantum computer": [
+        "Brazil"
+    ],
+    "Composable secure multi-client delegated quantum computation": [
+        "Singapore"
+    ],
+    "Symmetry defects and their application to topological quantum computing": [],
+    "Quantum computation with universal error mitigation on superconducting quantum processor": [
+        "China"
+    ],
+    "Parallel Entangling Operations on a Universal Ion Trap Quantum Computer": [
+        "USA"
+    ],
+    "On the possibility of classical client blind quantum computing": [
+        "UK",
+        "France"
+    ],
+    "Quantum Chemistry in the Age of Quantum Computing": [],
+    "Massively parallel quantum computer simulator, eleven years later": [
+        "The Netherlands"
+    ],
+    "Quantum Gravity on a Quantum Chip": [
+        "France",
+        "Poland"
+    ],
+    "Implementing quantum stochastic differential equations on a quantum computer": [
+        "The Netherlands"
+    ],
+    "Simulation of Nonequilibrium Dynamics on a Quantum Computer": [
+        "USA"
+    ],
+    "Measurement-based universal blind quantum computation with minor resources": [
+        "China"
+    ],
+    "On Clifford groups in quantum computing": [
+        "Czech Republic"
+    ],
+    "Nonadiabatic holonomic quantum computation with Rydberg superatoms": [
+        "China"
+    ],
+    "Probabilistic Fault-Tolerant Universal Quantum Computation and Sampling Problems in Continuous Variables": [
+        "United Kingdom",
+        "France"
+    ],
+    "Leveraging Adiabatic Quantum Computation for Election Forecasting": [],
+    "Quantum computational chemistry": [
+        "United Kingdom",
+        "Canada"
+    ],
+    "Efficient classical simulation of noisy quantum computation": [
+        "China"
+    ],
+    "Introduction to topological quantum computation with non-Abelian anyons": [
+        "Australia"
+    ],
+    "Self-error-corrected hyperparallel photonic quantum computation working with both the polarization and the spatial-mode degrees of freedom": [
+        "China"
+    ],
+    "Rational proofs for quantum computing": [
+        "Japan"
+    ],
+    "Certifying the building blocks of quantum computers from Bell's theorem": [
+        "Switzerland",
+        "Austria"
+    ],
+    "Hierarchical System Mapping for Large-Scale Fault-Tolerant Quantum Computing": [],
+    "Interaction of light and semiconductor can generate quantum states required for solid state quantum computing: Entangled, steered and other nonclassical states": [
+        "India"
+    ],
+    "Quantum Computation as Gravity": [
+        "Japan",
+        "Argentina"
+    ],
+    "Exact search algorithm to factorize large biprimes and a triprime on IBM quantum computer": [
+        "India"
+    ],
+    "Convex resource theory of non-Gaussianity": [
+        "USA"
+    ],
+    "Three-dimensional surface codes: Transversal gates and fault-tolerant architectures": [
+        "United Kingdom"
+    ],
+    "Quantum Simulation of Klein Gordon Equation and Observation of Klein Paradox in IBM Quantum Computer": [
+        "India"
+    ]
+}

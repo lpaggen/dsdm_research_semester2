@@ -1,0 +1,1913 @@
+{
+    "2D quantum computation with 3D topological codes": {
+        "keywords": [
+            "fault-tolerant quantum computing",
+            "2D architectures",
+            "topological stabilizer codes",
+            "measurement-based quantum computation",
+            "3D color codes",
+            "magic state distillation",
+            "photonic qubits",
+            "transversal gates",
+            "single-shot error correction",
+            "colorful quantum computation"
+        ],
+        "locations": [
+            "United States"
+        ]
+    },
+    "A Case for Variability-Aware Policies for NISQ-Era Quantum Computers": {
+        "keywords": [
+            "NISQ",
+            "qubit allocation",
+            "qubit movement",
+            "variation-aware policies",
+            "error rates",
+            "quantum error correction",
+            "system reliability",
+            "coherence time",
+            "entanglement",
+            "quantum algorithms"
+        ],
+        "locations": [
+            "United States"
+        ]
+    },
+    "A Classical Algorithm for Quantum: Schur Sampling": {
+        "keywords": [
+            "Quantum SU(2)",
+            "Schur Transform",
+            "classical sampling",
+            "polynomial time",
+            "computational advantage",
+            "Permutational Quantum Computing",
+            "angular momentum",
+            "quantum circuits",
+            "sparse distributions",
+            "classical simulation"
+        ],
+        "locations": []
+    },
+    "A Factorisation Algorithm in Adiabatic Quantum Computation": {
+        "keywords": [
+            "factorisation",
+            "adiabatic quantum computation",
+            "optimisation problem",
+            "Diophantine polynomials",
+            "quantum annealing",
+            "Hamiltonians",
+            "energy-time uncertainty",
+            "non-convexity",
+            "quantum optics",
+            "numerical simulations"
+        ],
+        "locations": [
+            "Australia"
+        ]
+    },
+    "A Hybrid and Universal Blind Quantum Computation": {
+        "keywords": [
+            "blind quantum computation",
+            "hybrid universal BQC protocol",
+            "entangled states",
+            "measurement-based model",
+            "circuit-based model",
+            "single-qubit gates",
+            "entangled gates",
+            "correctness and blindness",
+            "quantum Fourier transform",
+            "multi-qubit entangled states"
+        ],
+        "locations": []
+    },
+    "A simple protocol for fault tolerant verification of quantum computation": {
+        "keywords": [
+            "fault tolerance",
+            "quantum verification",
+            "interactive proofs",
+            "post hoc verification",
+            "error correction codes",
+            "Steane code",
+            "qubit repetition code",
+            "noise resilience",
+            "quantum computation delegation",
+            "Hamiltonian ground state"
+        ],
+        "locations": [
+            "UK"
+        ]
+    },
+    "A Universal Quantum Computing Virtual Machine": {
+        "keywords": [
+            "quantum virtual machine",
+            "QtVM",
+            "universal quantum computation",
+            "quantum assembly language",
+            "single-shot measurement",
+            "dynamical quantum phase transition",
+            "Shor algorithm",
+            "quantum simulation",
+            "controlled NOT gates",
+            "quantum logic gates"
+        ],
+        "locations": [
+            "China"
+        ]
+    },
+    "A very brief introduction to quantum computing and quantum information theory for mathematicians": {
+        "keywords": [
+            "quantum computing",
+            "quantum information theory",
+            "entanglement",
+            "super dense coding",
+            "teleportation",
+            "density operators",
+            "von Neumann entropy",
+            "quantum algorithms",
+            "representation theory",
+            "quantum marginal problem"
+        ],
+        "locations": []
+    },
+    "Accuracy and Resource Estimations for Quantum Chemistry on a Near-term Quantum Computer": {
+        "keywords": [
+            "UCCSD-VQE",
+            "quantum chemistry",
+            "error-tolerant quantum computing",
+            "variational quantum eigensolver",
+            "electronic structure problem",
+            "hybrid quantum-classical algorithms",
+            "molecular systems",
+            "quantum hardware resources",
+            "decoherence",
+            "quantum error correction"
+        ],
+        "locations": [
+            "Germany"
+        ]
+    },
+    "Algorithmic simulation of far-from-equilibrium dynamics using quantum computer": {
+        "keywords": [
+            "superconducting quantum computers",
+            "far-from-equilibrium dynamics",
+            "spin models",
+            "nonadiabatic phenomena",
+            "excitation blockade",
+            "Trotter decomposition",
+            "quantum gate errors",
+            "programmable quantum computers",
+            "thermalization",
+            "quantum interference"
+        ],
+        "locations": []
+    },
+    "Black Holes and Complexity Classes": {
+        "keywords": [
+            "quantum complexity",
+            "black holes",
+            "PSPACE-complete",
+            "quantum circuits",
+            "AdS/CFT",
+            "complexity classes",
+            "ERB growth",
+            "quantum state complexity",
+            "computational universality",
+            "quantum recurrence"
+        ],
+        "locations": [
+            "USA"
+        ]
+    },
+    "Blind quantum computing can always be made verifiable": {
+        "keywords": [
+            "blind quantum computing",
+            "verifibility",
+            "Feynman-Kitaev history states",
+            "measurement-based quantum computing",
+            "trap technique",
+            "stabilizer test",
+            "local Hamiltonians",
+            "quantum error correction",
+            "post hoc verification",
+            "universal blind quantum computing"
+        ],
+        "locations": [
+            "Japan"
+        ]
+    },
+    "Boson Sampling with Gaussian input states: toward efficient scaling and certification": {
+        "keywords": [
+            "Boson Sampling",
+            "Gaussian input states",
+            "continuous-variable quantum information",
+            "temporal encoding",
+            "dual-homodyne detection",
+            "computational hardness",
+            "scattershot-based Boson Sampling",
+            "quantum computational advantage",
+            "certification methods",
+            "quantum metrology."
+        ],
+        "locations": [
+            "USA",
+            "Australia"
+        ]
+    },
+    "Certifying the building blocks of quantum computers from Bell's theorem": {
+        "keywords": [
+            "device-independent certification",
+            "Bell's theorem",
+            "quantum channels",
+            "coherent operations",
+            "quantum information processing",
+            "robustness to imperfections",
+            "entangled states",
+            "quantum logical gates",
+            "scalable quantum computation",
+            "universal quantum computer"
+        ],
+        "locations": [
+            "Switzerland",
+            "Austria"
+        ]
+    },
+    "Challenges Implementing non-Abelian SU(2) Quantum Chromodynamics Gauge Links On a Universal Quantum Computer": {
+        "keywords": [
+            "Quantum Link Model",
+            "SU(2) non-Abelian links",
+            "Quantum Chromodynamics",
+            "gauge invariant formulation",
+            "rishons",
+            "lattice gauge theory",
+            "quantum computing architectures",
+            "Hamiltonian formulation",
+            "fermionic operators",
+            "dimensional reduction techniques"
+        ],
+        "locations": [
+            "United States"
+        ]
+    },
+    "Circuit optimization for IBM processors: A way to get higher fidelity and higher values of nonclassicality witnesses": {
+        "keywords": [
+            "quantum circuits",
+            "circuit optimization",
+            "IBM quantum computers",
+            "Clifford+T gates",
+            "quantum supremacy",
+            "Mermin inequalities",
+            "gate fidelity",
+            "quantum process tomography",
+            "reversible circuits",
+            "nonclassicality"
+        ],
+        "locations": [
+            "India"
+        ]
+    },
+    "Classical Verification of Quantum Computations": {
+        "keywords": [
+            "quantum computation",
+            "classical verification",
+            "measurement protocol",
+            "quantum prover",
+            "classical verifier",
+            "Learning with Errors",
+            "trapdoor claw-free functions",
+            "Hadamard basis measurement",
+            "interactive proof systems",
+            "computational indistinguishability"
+        ],
+        "locations": []
+    },
+    "Client-friendly continuous-variable blind and verifiable quantum computing": {
+        "keywords": [
+            "continuous-variable quantum computing",
+            "blind quantum computing",
+            "non-Gaussian state",
+            "Gaussian operations",
+            "verification protocol",
+            "fidelity witness",
+            "cloud quantum computing",
+            "quantum resource states",
+            "experimental constraints",
+            "computational universality"
+        ],
+        "locations": [
+            "Singapore"
+        ]
+    },
+    "Community Detection Across Emerging Quantum Architectures": {
+        "keywords": [
+            "quantum computing",
+            "community detection",
+            "hybrid quantum-classical frameworks",
+            "quantum annealing",
+            "gate-based quantum computation",
+            "NISQ technology",
+            "quantum speedup",
+            "QAOA",
+            "architecture-agnostic",
+            "modularity clustering"
+        ],
+        "locations": []
+    },
+    "Composable secure multi-client delegated quantum computation": {
+        "keywords": [
+            "delegated quantum computation",
+            "multi-client",
+            "composable security",
+            "quantum authentication codes",
+            "blind quantum computation",
+            "verification",
+            "distributed computing",
+            "quantum capabilities",
+            "measurement-based quantum computation",
+            "secure multi-party computation"
+        ],
+        "locations": [
+            "Singapore"
+        ]
+    },
+    "Computational speedups using small quantum devices": {
+        "keywords": [
+            "quantum computing",
+            "hybrid algorithm",
+            "3SAT",
+            "quantum-classical algorithm",
+            "computational speedup",
+            "threshold effect",
+            "PromiseBall",
+            "quantum-enhanced",
+            "qubits",
+            "algorithmic innovation"
+        ],
+        "locations": [
+            "Germany",
+            "The Netherlands"
+        ]
+    },
+    "Convex resource theory of non-Gaussianity": {
+        "keywords": [
+            "continuous-variable systems",
+            "non-Gaussianity",
+            "Gaussian operations",
+            "resource theory",
+            "logarithmic negativity",
+            "cubic phase states",
+            "distillation protocol",
+            "universal quantum computation",
+            "feed-forward operations",
+            "quantum optics"
+        ],
+        "locations": [
+            "USA"
+        ]
+    },
+    "Demonstration of a general fault-tolerant quantum error detection code for (2n+1)-qubit entangled state on IBM 16-qubit quantum computer": {
+        "keywords": [
+            "fault-tolerant quantum error detection",
+            "(2n + 1)-qubit entangled state",
+            "syndrome qubits",
+            "IBM quantum computer",
+            "quantum error correction protocols",
+            "complementarity property",
+            "bit-flip error detection",
+            "phase-flip error detection",
+            "quantum circuit simulation",
+            "quantum algorithm manipulation"
+        ],
+        "locations": [
+            "India"
+        ]
+    },
+    "Digital-Analog Quantum Computation": {
+        "keywords": [
+            "Digital-Analog Quantum Computing",
+            "NISQ",
+            "Ising Hamiltonian",
+            "multi-qubit entangling",
+            "single-qubit rotations",
+            "banged DAQC",
+            "stepwise DAQC",
+            "quantum error correction",
+            "Hamiltonian dynamics",
+            "quantum supremacy."
+        ],
+        "locations": [
+            "Spain",
+            "United States"
+        ]
+    },
+    "Duality Quantum Computing with Subwave Projections": {
+        "keywords": [
+            "Duality Quantum Computing",
+            "Subwave Projections",
+            "Linear Combination of Unitaries",
+            "Quantum Wave Divider",
+            "Quantum Wave Combiner",
+            "Non-Unitary Operations",
+            "Ground State Preparation",
+            "Time Complexity Acceleration",
+            "Quantum Algorithms",
+            "Generalized Quantum Gates"
+        ],
+        "locations": [
+            "China"
+        ]
+    },
+    "Efficient classical simulation of noisy quantum computation": {
+        "keywords": [
+            "tensor network",
+            "noisy quantum circuits",
+            "classical simulation",
+            "quantum supremacy",
+            "Fourier spectrum",
+            "depolarization noise",
+            "fault-tolerant quantum computation",
+            "anti-concentration condition",
+            "quantum error correction",
+            "NISQ era"
+        ],
+        "locations": [
+            "China"
+        ]
+    },
+    "Exact search algorithm to factorize large biprimes and a triprime on IBM quantum computer": {
+        "keywords": [
+            "quantum factorization",
+            "IBM quantum computer",
+            "generalized Grover's algorithm",
+            "adiabatic quantum computation",
+            "quantum annealing",
+            "phase-matching property",
+            "optimization problem",
+            "tri-prime factorization",
+            "experimental implementation",
+            "quantum resources"
+        ],
+        "locations": [
+            "India"
+        ]
+    },
+    "Expected Optimal Time for the NMR Implementation of Shor's Algorithm for Factorising 15": {
+        "keywords": [
+            "quantum computing",
+            "Shor's algorithm",
+            "NMR implementation",
+            "quantum brachistochrone",
+            "Monte Carlo simulation",
+            "time optimization",
+            "qubit states",
+            "energy variance",
+            "quantum gates",
+            "time-efficacy"
+        ],
+        "locations": [
+            "United Kingdom"
+        ]
+    },
+    "Experimental Cryptographic Verification for Near-Term Quantum Cloud Computing": {
+        "keywords": [
+            "quantum cloud computing",
+            "cryptographic verification",
+            "IQP circuits",
+            "NMR quantum processor",
+            "probability bias",
+            "quantum supremacy",
+            "noise compensation",
+            "classical verification",
+            "quantum algorithms",
+            "quadratic residue code"
+        ],
+        "locations": []
+    },
+    "Experimental quantum mechanics in the class room: Testing basic ideas of quantum mechanics and quantum computing using IBM quantum computer": {
+        "keywords": [
+            "quantum computing",
+            "IBM quantum computer",
+            "quantum mechanics",
+            "quantum information processing",
+            "qubits",
+            "quantum gates",
+            "cloud computing",
+            "entanglement",
+            "probabilistic interpretation",
+            "quantum cryptography"
+        ],
+        "locations": [
+            "India"
+        ]
+    },
+    "Exterior calculus and fermionic quantum computation": {
+        "keywords": [
+            "fermionic quantum computation",
+            "exterior calculus",
+            "fermionic gates",
+            "Hodge star complement",
+            "Slater determinants",
+            "multi-qubit systems",
+            "fermionic logic",
+            "antisymmetry",
+            "Boolean gates",
+            "Grassmann formalism"
+        ],
+        "locations": [
+            "UK"
+        ]
+    },
+    "Finding the ground state of the Hubbard model by variational methods on a quantum computer with gate errors": {
+        "keywords": [
+            "variational Hamiltonian ansatz",
+            "quantum error correction",
+            "gate errors",
+            "Hubbard model",
+            "variational methods",
+            "quantum variational error suppression",
+            "adiabatic quantum evolution",
+            "quantum simulation",
+            "qubit fidelity",
+            "fermionic systems"
+        ],
+        "locations": [
+            "Germany"
+        ]
+    },
+    "Graph Cut Segmentation Methods Revisited with a Quantum Algorithm": {
+        "keywords": [
+            "quantum computing",
+            "image segmentation",
+            "graph cut",
+            "Quantum Approximate Optimization Algorithm (QAOA)",
+            "qubits",
+            "polynomial speed-up",
+            "noise resilience",
+            "deep learning",
+            "hardware advancements",
+            "algorithmic innovations"
+        ],
+        "locations": [
+            "UK",
+            "USA"
+        ]
+    },
+    "Hamiltonian engineering for adiabatic quantum computation: Lessons from shortcuts to adiabaticity": {
+        "keywords": [
+            "shortcuts to adiabaticity",
+            "adiabatic quantum computation",
+            "Grover's problem",
+            "counterdiabatic driving",
+            "Lewis-Riesenfeld invariant",
+            "Hamiltonian engineering",
+            "quantum adiabatic brachistochrone",
+            "optimization algorithms",
+            "nonadiabatic transitions",
+            "quantum control"
+        ],
+        "locations": [
+            "Japan"
+        ]
+    },
+    "Hierarchical System Mapping for Large-Scale Fault-Tolerant Quantum Computing": {
+        "keywords": [
+            "quantum system mapping",
+            "modular QASM",
+            "hierarchical assembly code",
+            "fault-tolerant quantum computing",
+            "quantum algorithm optimization",
+            "qubit communication bus",
+            "circuit depth analysis",
+            "quantum error correction",
+            "large-scale quantum architecture",
+            "Shor's algorithm"
+        ],
+        "locations": []
+    },
+    "Implementing quantum stochastic differential equations on a quantum computer": {
+        "keywords": [
+            "quantum stochastic differential equations",
+            "QSDE",
+            "laser-driven two-level atom",
+            "electromagnetic field",
+            "quantum filtering equations",
+            "repeated unitary interaction",
+            "non-Markovian networks",
+            "coherent simulation",
+            "quantum optics",
+            "quantum circuit"
+        ],
+        "locations": [
+            "The Netherlands"
+        ]
+    },
+    "Integrated Analysis of Performance and Resource of Large-Scale Quantum Computing": {
+        "keywords": [
+            "quantum computing",
+            "integrated analysis",
+            "fault-tolerant quantum computing",
+            "quantum resource estimation",
+            "quantum algorithm decomposition",
+            "error correction codes",
+            "quantum system architecture",
+            "Shor's algorithm",
+            "quantum assembly code",
+            "quantum framework"
+        ],
+        "locations": [
+            "South Korea"
+        ]
+    },
+    "Interaction of light and semiconductor can generate quantum states required for solid state quantum computing: Entangled, steered and other nonclassical states": {
+        "keywords": [
+            "nonclassical states",
+            "solid state quantum computing",
+            "light-semiconductor interaction",
+            "entanglement",
+            "squeezing",
+            "antibunching",
+            "exciton-exciton interaction",
+            "perturbative technique",
+            "EPR steering",
+            "quantum information processing"
+        ],
+        "locations": [
+            "India"
+        ]
+    },
+    "Interactive Proofs with Polynomial-Time Quantum Prover for Computing the Order of Solvable Groups": {
+        "keywords": [
+            "quantum computing",
+            "interactive proofs",
+            "polynomial-time quantum computation",
+            "solvable groups",
+            "group-theoretic problems",
+            "black-box groups",
+            "exponential speed-up",
+            "classical verification",
+            "quantum algorithms",
+            "computational complexity"
+        ],
+        "locations": [
+            "Japan"
+        ]
+    },
+    "Introduction to topological quantum computation with non-Abelian anyons": {
+        "keywords": [
+            "topological quantum computing",
+            "non-Abelian anyons",
+            "Fibonacci anyons",
+            "braiding operations",
+            "Jones polynomial",
+            "quantum dimension",
+            "error correction",
+            "quantum circuit",
+            "Hadamard test",
+            "AJL algorithm"
+        ],
+        "locations": [
+            "Australia"
+        ]
+    },
+    "Level-rank duality for a Universal Topological Quantum Computer": {
+        "keywords": [
+            "level-rank duality",
+            "topological quantum computer",
+            "Chern-Simons theory",
+            "SU(2)3",
+            "SU(3)2",
+            "entanglement",
+            "universal quantum computation",
+            "braid group",
+            "qutrits",
+            "topological field theories"
+        ],
+        "locations": [
+            "United States"
+        ]
+    },
+    "Leveraging Adiabatic Quantum Computation for Election Forecasting": {
+        "keywords": [
+            "adiabatic quantum computation",
+            "Boltzmann machines",
+            "quantum machine learning",
+            "election forecasting",
+            "quantum annealing",
+            "fully-connected graphs",
+            "sampling algorithms",
+            "deep quantum learning",
+            "model parameters",
+            "second order moments"
+        ],
+        "locations": []
+    },
+    "Linear Response on a Quantum Computer": {
+        "keywords": [
+            "dynamic linear response",
+            "quantum many-body systems",
+            "quantum interference",
+            "lattice methods",
+            "state preparation algorithm",
+            "Phase Estimation Algorithm",
+            "perturbative probe",
+            "final state characterization",
+            "controlled errors",
+            "quantum circuits"
+        ],
+        "locations": [
+            "USA"
+        ]
+    },
+    "Logical structures underlying quantum computing": {
+        "keywords": [
+            "quantum computational logics",
+            "non-Kolmogorovian probability",
+            "quantum algorithms",
+            "algebraic axiomatization",
+            "orthomodular lattices",
+            "contextuality",
+            "quantum gates",
+            "probabilistic truth values",
+            "quantum logic",
+            "non-classical computing"
+        ],
+        "locations": [
+            "Argentina"
+        ]
+    },
+    "Majorana Superconducting Qubit": {
+        "keywords": [
+            "Majorana Superconducting Qubit",
+            "Topological Superconductor",
+            "Majorana Bound States",
+            "Quantum Computation",
+            "Qubit Manipulation",
+            "Tunnel Couplings",
+            "Single-Qubit Gates",
+            "Two-Qubit Entangling Gates",
+            "Cooper Pair Splitting",
+            "Error Minimization"
+        ],
+        "locations": [
+            "United States"
+        ]
+    },
+    "Markov Process Simulation with Quantum Computer": {
+        "keywords": [
+            "Quantum Computing",
+            "Markov Process",
+            "Quantum Superposition",
+            "Entangled Qubit States",
+            "Quantum Logic Gates",
+            "Stochastic Processes",
+            "Quantum Register",
+            "Controlled Gates",
+            "Quantum Algorithms",
+            "Quantum Circuit"
+        ],
+        "locations": [
+            "Bulgaria"
+        ]
+    },
+    "Massively parallel quantum computer simulator, eleven years later": {
+        "keywords": [
+            "massively parallel quantum computing",
+            "adaptive encoding",
+            "JUQCS",
+            "quantum algorithms",
+            "weak-scaling behavior",
+            "quantum Monte Carlo simulations",
+            "error-correction schemes",
+            "auxiliary variable method",
+            "high-performance computing",
+            "Shor's algorithm"
+        ],
+        "locations": [
+            "The Netherlands"
+        ]
+    },
+    "Measurement-based adaptation protocol with quantum reinforcement learning in a Rigetti quantum computer": {
+        "keywords": [
+            "quantum reinforcement learning",
+            "measurement-based adaptation",
+            "Rigetti quantum computer",
+            "semiautonomous quantum agents",
+            "superconducting circuits",
+            "quantum artificial intelligence",
+            "quantum machine learning",
+            "cloud quantum computing",
+            "quantum state estimation",
+            "quantum algorithms"
+        ],
+        "locations": [
+            "Spain"
+        ]
+    },
+    "Measurement-based universal blind quantum computation with minor resources": {
+        "keywords": [
+            "blind quantum computation",
+            "measurement-based quantum computation",
+            "latticed state",
+            "entangled qubits",
+            "quantum privacy",
+            "trap technology",
+            "universal quantum computation",
+            "cluster states",
+            "verification protocols",
+            "algorithmic security"
+        ],
+        "locations": [
+            "China"
+        ]
+    },
+    "Network Community Detection On Small Quantum Computers": {
+        "keywords": [
+            "hybrid quantum local search",
+            "network community detection",
+            "NISQ devices",
+            "quantum approximate optimization algorithm",
+            "problem decomposition",
+            "quantum annealing",
+            "hardware-agnostic algorithms",
+            "combinatorial optimization",
+            "modularity maximization",
+            "quantum-classical integration"
+        ],
+        "locations": [
+            "USA"
+        ]
+    },
+    "Nonadiabatic holonomic quantum computation on coupled transmons with ancillaries": {
+        "keywords": [
+            "nonadiabatic holonomic quantum computation",
+            "superconducting transmon qubits",
+            "auxiliary qubits",
+            "high-fidelity gates",
+            "tunable interactions",
+            "geometric phases",
+            "quantum error correction",
+            "universal holonomic gates",
+            "capacitive coupling",
+            "scalability"
+        ],
+        "locations": [
+            "China"
+        ]
+    },
+    "Nonadiabatic holonomic quantum computation with Rydberg superatoms": {
+        "keywords": [
+            "nonadiabatic holonomic quantum computation",
+            "Rydberg superatoms",
+            "quantum gates",
+            "mesoscopic atomic ensembles",
+            "robustness",
+            "coherence time",
+            "microwave cavity",
+            "collective states",
+            "quantum information processing",
+            "geometric phases"
+        ],
+        "locations": [
+            "China"
+        ]
+    },
+    "Nonlinear regression based on a hybrid quantum computer": {
+        "keywords": [
+            "nonlinear regression",
+            "hybrid quantum computer",
+            "feature maps",
+            "quantum algorithms",
+            "kernel ridge regression",
+            "polynomial kernel",
+            "Gaussian kernel",
+            "quantum machine learning",
+            "quantum encoding schemes",
+            "quantum evolution"
+        ],
+        "locations": [
+            "China"
+        ]
+    },
+    "On Clifford groups in quantum computing": {
+        "keywords": [
+            "Clifford group",
+            "quantum error-correcting codes",
+            "Hadamard gate",
+            "Weyl-Heisenberg group",
+            "quantum kinematics",
+            "Pauli matrices",
+            "symmetries",
+            "Clifford quotient group",
+            "unitary operators",
+            "Ad-actions"
+        ],
+        "locations": [
+            "Czech Republic"
+        ]
+    },
+    "On quantum illumination, quantum reading, and the capacity of quantum computation": {
+        "keywords": [
+            "quantum illumination",
+            "quantum reading",
+            "quantum channel discrimination",
+            "entanglement",
+            "quantum resources",
+            "optical memory",
+            "communication capacity",
+            "bosonic Gaussian channels",
+            "quantum advantage",
+            "quantum computation"
+        ],
+        "locations": [
+            "UK",
+            "USA"
+        ]
+    },
+    "On the depth overhead incurred when running quantum algorithms on near-term quantum computers with limited qubit connectivity": {
+        "keywords": [
+            "depth overhead",
+            "quantum circuits",
+            "qubit connectivity",
+            "swap gates",
+            "qubit interaction graph",
+            "compilation algorithm",
+            "networked quantum computers",
+            "logarithmic depth",
+            "ancilla qubits",
+            "quantum circuit model"
+        ],
+        "locations": [
+            "UK"
+        ]
+    },
+    "On the possibility of classical client blind quantum computing": {
+        "keywords": [
+            "pseudo-secret random qubit generator",
+            "blind quantum computing",
+            "quantum-safe functions",
+            "trapdoor one-way functions",
+            "quantum communication protocols",
+            "delegated quantum computation",
+            "Learning-With-Errors problem",
+            "computational security",
+            "classical-client protocols",
+            "quantum-honest-but-curious adversaries"
+        ],
+        "locations": [
+            "UK",
+            "France"
+        ]
+    },
+    "Open source software in quantum computing": {
+        "keywords": [
+            "open source software",
+            "quantum algorithms",
+            "quantum toolchain",
+            "quantum compilers",
+            "quantum annealing",
+            "discrete-variable gate model",
+            "continuous-variable gate model",
+            "quantum simulators",
+            "quantum circuit optimization",
+            "community collaboration"
+        ],
+        "locations": [
+            "Canada",
+            "South Africa"
+        ]
+    },
+    "Overview and Comparison of Gate Level Quantum Software Platforms": {
+        "keywords": [
+            "quantum software platforms",
+            "pyQuil",
+            "Qiskit",
+            "ProjectQ",
+            "Quantum Development Kit",
+            "quantum programming languages",
+            "quantum assembly languages",
+            "quantum simulators",
+            "cloud quantum computing",
+            "quantum circuit compilation"
+        ],
+        "locations": [
+            "United States"
+        ]
+    },
+    "Parallel Entangling Operations on a Universal Ion Trap Quantum Computer": {
+        "keywords": [
+            "parallel entangling gates",
+            "quantum circuits",
+            "fault tolerance",
+            "trapped ion qubits",
+            "laser pulse shaping",
+            "optimization techniques",
+            "quantum full adder",
+            "cnot gates",
+            "quantum gate fidelity",
+            "modular scalability"
+        ],
+        "locations": [
+            "USA"
+        ]
+    },
+    "PDQP~qpoly = ALL": {
+        "keywords": [
+            "quantum advice",
+            "non-collapsing measurements",
+            "polynomial-time quantum algorithms",
+            "complexity class PDQP/qpoly",
+            "locally decodable codes",
+            "NP-complete problems",
+            "quantum oracle",
+            "statistical zero-knowledge",
+            "Grover's algorithm",
+            "theoretical breakthroughs"
+        ],
+        "locations": []
+    },
+    "Preparing tunable Bell-diagonal states on a quantum computer": {
+        "keywords": [
+            "tunable Bell-diagonal states",
+            "quantum circuit",
+            "IBM Q 5 Yorktown",
+            "quantum coherence",
+            "quantum discord",
+            "entanglement",
+            "non-locality",
+            "steering",
+            "Werner states",
+            "quantum resources"
+        ],
+        "locations": [
+            "Brazil"
+        ]
+    },
+    "Probabilistic Fault-Tolerant Universal Quantum Computation and Sampling Problems in Continuous Variables": {
+        "keywords": [
+            "Continuous-Variable",
+            "Quantum Computation",
+            "GKP States",
+            "Probabilistic Fault-Tolerance",
+            "Homodyne Detection",
+            "Non-Gaussian States",
+            "Quantum Advantage",
+            "Error Correction",
+            "Sampling Problems",
+            "Instantaneous Quantum Computing"
+        ],
+        "locations": [
+            "United Kingdom",
+            "France"
+        ]
+    },
+    "Proof of efficient, parallelized, universal adiabatic quantum computation": {
+        "keywords": [
+            "adiabatic quantum computation",
+            "parallelized computation",
+            "Hamiltonian",
+            "ground state quantum computation",
+            "universal quantum computation",
+            "qubit connectivity",
+            "gate model",
+            "decoherence robustness",
+            "circuit depth",
+            "quantum algorithm"
+        ],
+        "locations": [
+            "USA"
+        ]
+    },
+    "Q#: Enabling scalable quantum computing and development with a high-level domain-specific language": {
+        "keywords": [
+            "Q#",
+            "quantum programming",
+            "domain-specific language",
+            "quantum algorithms",
+            "amplitude amplification",
+            "quantum phase estimation",
+            "hybrid quantum-classical",
+            "type safety",
+            "symbolic computation",
+            "quantum control-flow"
+        ],
+        "locations": []
+    },
+    "Quantum Algorithm Implementations for Beginners": {
+        "keywords": [
+            "quantum computing",
+            "quantum algorithms",
+            "quantum programming",
+            "IBM quantum computer",
+            "Qiskit",
+            "quantum Fourier transform",
+            "Grover's algorithm",
+            "Shor's algorithm",
+            "quantum error correction",
+            "quantum state preparation"
+        ],
+        "locations": []
+    },
+    "Quantum algorithms for systems of linear equations inspired by adiabatic quantum computing": {
+        "keywords": [
+            "quantum algorithms",
+            "linear equations",
+            "adiabatic quantum computing",
+            "evolution randomization",
+            "Hamiltonians",
+            "quantum linear systems problem",
+            "spectral gap amplification",
+            "eigenpath traversal",
+            "gate-based implementation",
+            "quantum speedup"
+        ],
+        "locations": [
+            "United States",
+            "Austria"
+        ]
+    },
+    "Quantum Chemistry in the Age of Quantum Computing": {
+        "keywords": [
+            "quantum computing",
+            "quantum chemistry",
+            "Hamiltonian simulation",
+            "variational quantum eigensolver",
+            "quantum phase estimation",
+            "noisy intermediate-scale quantum (NISQ)",
+            "entanglement",
+            "quantum algorithms",
+            "quantum Monte Carlo",
+            "tensor network methods"
+        ],
+        "locations": []
+    },
+    "Quantum Circuit Design for Objective Function Maximization in Gate-Model Quantum Computers": {
+        "keywords": [
+            "Quantum Circuit Design",
+            "Gate-Model Quantum Computers",
+            "Quantum Triple Annealing Minimization",
+            "Objective Function Maximization",
+            "Quantum Circuit Optimization",
+            "Quantum Hardware Constraints",
+            "Quantum States",
+            "Quantum Wire Length Minimization",
+            "Quantum Circuit Area Minimization",
+            "Combinatorial Optimization"
+        ],
+        "locations": []
+    },
+    "Quantum Computation and Visualization of Hamiltonians using Discrete Quantum Mechanics and IBM QISKit": {
+        "keywords": [
+            "quantum computing",
+            "variational quantum eigensolver",
+            "Hamiltonians",
+            "discrete quantum mechanics",
+            "quantum chemistry",
+            "matrix formulation",
+            "position basis",
+            "Gaussian basis",
+            "quantum circuits",
+            "quantum logic gates"
+        ],
+        "locations": []
+    },
+    "Quantum Computation as Gravity": {
+        "keywords": [
+            "quantum complexity",
+            "geometric action",
+            "Virasoro group",
+            "conformal field theories",
+            "Nielsen's approach",
+            "optimal quantum computation",
+            "holography",
+            "complexity functional",
+            "Anti-de Sitter spacetime",
+            "coadjoint orbits"
+        ],
+        "locations": [
+            "Japan",
+            "Argentina"
+        ]
+    },
+    "Quantum Computation Based on Quantum Adiabatic Bifurcations of Kerr-Nonlinear Parametric Oscillators": {
+        "keywords": [
+            "Kerr-nonlinear parametric oscillators",
+            "quantum bifurcation machines",
+            "Schrodinger cat states",
+            "quantum adiabatic optimization",
+            "superconducting circuits",
+            "Josephson parametric oscillators",
+            "entangled coherent states",
+            "quantum adiabatic evolution",
+            "Ising problem",
+            "universal quantum computation"
+        ],
+        "locations": [
+            "Japan"
+        ]
+    },
+    "Quantum computation by teleportation and symmetry": {
+        "keywords": [
+            "quantum computation",
+            "measurement-based quantum computation",
+            "teleportation",
+            "symmetry",
+            "tensor-network states",
+            "topological phases",
+            "fault tolerance",
+            "symmetry-protected topological order",
+            "gate teleportation",
+            "fracton order"
+        ],
+        "locations": [
+            "Canada"
+        ]
+    },
+    "Quantum computation from fermionic anyons on a 1D lattice": {
+        "keywords": [
+            "fermionic anyons",
+            "quantum computation",
+            "anyonic linear optics",
+            "deformed commutation relations",
+            "fractional statistics",
+            "Aharonov-Bohm effect",
+            "quadratic Hamiltonians",
+            "topological quantum field theories",
+            "universal quantum computation",
+            "optical lattices"
+        ],
+        "locations": [
+            "Brazil"
+        ]
+    },
+    "Quantum computation via Floquet topological edge modes": {
+        "keywords": [
+            "Floquet topological matter",
+            "Majorana zero modes",
+            "holonomic quantum computation",
+            "symmetry protected topological phases",
+            "adiabatic lattice deformation",
+            "quantum gate operations",
+            "fault-tolerant quantum computation",
+            "quasienergy",
+            "topological edge modes",
+            "entangling gates."
+        ],
+        "locations": [
+            "Singapore"
+        ]
+    },
+    "Quantum computation with universal error mitigation on superconducting quantum processor": {
+        "keywords": [
+            "quantum error mitigation",
+            "gate set tomography",
+            "quasiprobability decomposition",
+            "superconducting quantum processor",
+            "computation errors",
+            "quantum circuits",
+            "error suppression",
+            "digital quantum computers",
+            "measurement-reset gates",
+            "Pauli twirling"
+        ],
+        "locations": [
+            "China"
+        ]
+    },
+    "Quantum computational chemistry": {
+        "keywords": [
+            "quantum computational chemistry",
+            "quantum algorithms",
+            "electronic structure problem",
+            "Hamiltonian simulation",
+            "variational algorithms",
+            "error mitigation",
+            "Jordan-Wigner encoding",
+            "Bravyi-Kitaev encoding",
+            "resource reduction",
+            "quantum phase estimation"
+        ],
+        "locations": [
+            "United Kingdom",
+            "Canada"
+        ]
+    },
+    "Quantum Computational Supremacy": {
+        "keywords": [
+            "quantum supremacy",
+            "quantum algorithms",
+            "boson sampling",
+            "IQP",
+            "low-depth circuits",
+            "quantum approximate optimization algorithm (QAOA)",
+            "analog simulation",
+            "computational complexity",
+            "post-selection",
+            "noise resilience"
+        ],
+        "locations": []
+    },
+    "Quantum computational universality of hypergraph states with Pauli-X and Z basis measurements": {
+        "keywords": [
+            "hypergraph states",
+            "measurement-based quantum computing",
+            "Pauli-X measurements",
+            "Pauli-Z measurements",
+            "universal resource states",
+            "blind quantum computing",
+            "verification protocols",
+            "quantum circuit simulation",
+            "adaptive measurements",
+            "polynomial-time verification"
+        ],
+        "locations": [
+            "Japan"
+        ]
+    },
+    "Quantum Computing Circuits and Devices": {
+        "keywords": [
+            "quantum computing",
+            "quantum gates",
+            "qubits",
+            "quantum circuits",
+            "error correction",
+            "superconducting qubits",
+            "trapped ion technology",
+            "silicon spin qubits",
+            "quantum algorithms",
+            "fault tolerance"
+        ],
+        "locations": [
+            "USA"
+        ]
+    },
+    "Quantum computing from a mathematical perspective: a description of the quantum circuit model": {
+        "keywords": [
+            "quantum computing",
+            "quantum circuit model",
+            "quantum Turing machines",
+            "quantum bits",
+            "quantum entanglement",
+            "quantum algorithms",
+            "Grover's algorithm",
+            "Shor's algorithm",
+            "quantum Fourier transform",
+            "adiabatic quantum computation"
+        ],
+        "locations": [
+            "Spain"
+        ]
+    },
+    "Quantum Computing in the NISQ era and beyond": {
+        "keywords": [
+            "NISQ",
+            "quantum error correction",
+            "quantum complexity",
+            "entanglement frontier",
+            "hybrid quantum-classical algorithms",
+            "quantum simulation",
+            "quantum annealing",
+            "quantum deep learning",
+            "quantum recommendation systems",
+            "quantum matrix inversion"
+        ],
+        "locations": [
+            "USA"
+        ]
+    },
+    "Quantum computing methods for electronic states of the water molecule": {
+        "keywords": [
+            "quantum computing",
+            "electronic states",
+            "phase estimation algorithm",
+            "Trotter decomposition",
+            "variational quantum eigensolver",
+            "Pairwise VQE",
+            "Hamiltonian implementation",
+            "gate complexity",
+            "quantum simulation",
+            "excited states"
+        ],
+        "locations": [
+            "USA"
+        ]
+    },
+    "Quantum Gravity on a Quantum Chip": {
+        "keywords": [
+            "quantum gravity",
+            "quantum computing",
+            "Planck scale",
+            "adiabatic quantum computers",
+            "Causal Dynamical Triangulations",
+            "Loop Quantum Gravity",
+            "superconducting qubits",
+            "quantum simulations",
+            "quantum entanglement",
+            "quantum annealing"
+        ],
+        "locations": [
+            "France",
+            "Poland"
+        ]
+    },
+    "Quantum Neural Network and Soft Quantum Computing": {
+        "keywords": [
+            "soft quantum computing",
+            "quantum neural network",
+            "controlled Kraus operations",
+            "quantum discord",
+            "decoherence",
+            "nonclassical computation",
+            "quantum artificial intelligence",
+            "noisy quantum operations",
+            "quantum cognition",
+            "mixed-state quantum computing"
+        ],
+        "locations": [
+            "China"
+        ]
+    },
+    "Quantum Simulation of Klein Gordon Equation and Observation of Klein Paradox in IBM Quantum Computer": {
+        "keywords": [
+            "Klein Gordon Equation",
+            "Quantum Simulation",
+            "IBM Quantum Computer",
+            "Klein Paradox",
+            "Quantum Tunneling",
+            "Digital Quantum Simulation",
+            "Quantum Field Theory",
+            "Quantum Circuits",
+            "Zitterbewegung",
+            "Quantum Mechanics"
+        ],
+        "locations": [
+            "India"
+        ]
+    },
+    "Quantum speedup in stoquastic adiabatic quantum computation": {
+        "keywords": [
+            "quantum speedup",
+            "stoquastic Hamiltonians",
+            "adiabatic quantum computation",
+            "stoqAQC",
+            "quantum annealing",
+            "computational supremacy",
+            "non-adaptive measurements",
+            "quantum error correction",
+            "Shor's algorithm",
+            "measurement-based quantum computation"
+        ],
+        "locations": [
+            "Japan"
+        ]
+    },
+    "Rational proofs for quantum computing": {
+        "keywords": [
+            "quantum computing",
+            "rational proofs",
+            "delegated quantum computing",
+            "classical client",
+            "quantum server",
+            "verification protocols",
+            "economic motivation",
+            "reward function",
+            "polynomial-time algorithms",
+            "zero-knowledge protocols"
+        ],
+        "locations": [
+            "Japan"
+        ]
+    },
+    "Rent's rule and extensibility in quantum computing": {
+        "keywords": [
+            "quantum extensibility",
+            "Rent's rule",
+            "quantum error correction",
+            "qubit systems",
+            "quantum volume",
+            "interconnect bottleneck",
+            "scaling exponents",
+            "fault-tolerant computation",
+            "shared control lines",
+            "quantum chip architecture"
+        ],
+        "locations": [
+            "The Netherlands",
+            "United States"
+        ]
+    },
+    "Scalable arrays of micro-Penning traps for quantum computing and simulation": {
+        "keywords": [
+            "Penning traps",
+            "quantum simulation",
+            "micro-fabricated ion traps",
+            "multi-ion invariance theorem",
+            "tunable-range interactions",
+            "fault-tolerant quantum computing",
+            "high-fidelity gates",
+            "Coulomb interaction",
+            "laser cooling",
+            "many-body physics"
+        ],
+        "locations": [
+            "Switzerland"
+        ]
+    },
+    "Scalable star-shape architecture for universal spin-based nonadiabatic holonomic quantum computation": {
+        "keywords": [
+            "scalable architecture",
+            "nonadiabatic holonomic quantum computation",
+            "spin qubits",
+            "universal quantum gates",
+            "fault-tolerant computation",
+            "geometric phases",
+            "entangling gates",
+            "auxiliary qubit",
+            "double structure",
+            "decoherence-free subspaces"
+        ],
+        "locations": [
+            "Iran"
+        ]
+    },
+    "Self-consistent tomography of temporally correlated errors": {
+        "keywords": [
+            "self-consistent tomography",
+            "temporally correlated errors",
+            "quantum error correction",
+            "error mitigation",
+            "noise characterization",
+            "linear operator tomography",
+            "low-frequency noise",
+            "context-dependent noise",
+            "quantum fault tolerance",
+            "NISQ devices"
+        ],
+        "locations": [
+            "China"
+        ]
+    },
+    "Self-error-corrected hyperparallel photonic quantum computation working with both the polarization and the spatial-mode degrees of freedom": {
+        "keywords": [
+            "self-error-corrected",
+            "hyperparallel quantum computation",
+            "photonic quantum CNOT gate",
+            "polarization",
+            "spatial-mode degrees of freedom",
+            "nonlinear interaction",
+            "quantum dot",
+            "microcavity system",
+            "hyperentangled states",
+            "robust fidelity"
+        ],
+        "locations": [
+            "China"
+        ]
+    },
+    "Simulating 0+1 Dimensional Quantum Gravity on Quantum Computers: Mini-Superspace Quantum Cosmology and the World Line Approach in Quantum Field Theory": {
+        "keywords": [
+            "quantum computing",
+            "quantum cosmology",
+            "Wheeler-DeWitt equation",
+            "path integral methods",
+            "variational quantum eigensolver",
+            "mini-superspace",
+            "Lorentzian space",
+            "quantum algorithms",
+            "fermions simulation",
+            "world line approach"
+        ],
+        "locations": []
+    },
+    "Simulation of Nonequilibrium Dynamics on a Quantum Computer": {
+        "keywords": [
+            "hybrid quantum-classical algorithm",
+            "nonequilibrium dynamics",
+            "density matrix",
+            "EOQ algorithm",
+            "thermal states",
+            "Heisenberg model",
+            "quantum Monte Carlo",
+            "time evolution",
+            "psips",
+            "quantum processor"
+        ],
+        "locations": [
+            "USA"
+        ]
+    },
+    "Single electron transport and possible quantum computing in 2D materials": {
+        "keywords": [
+            "single electron transport",
+            "quantum computing",
+            "2D materials",
+            "graphene",
+            "transition metal dichalcogenides",
+            "Majorana zero modes",
+            "Josephson junctions",
+            "quantum spin Hall effect",
+            "Coulomb blockade",
+            "topological insulators"
+        ],
+        "locations": [
+            "China"
+        ]
+    },
+    "Some Coxeter Groups in Reversible and Quantum Compuation": {
+        "keywords": [
+            "Coxeter groups",
+            "quantum computation",
+            "reversible computing",
+            "gate scheduling",
+            "circuit depth",
+            "error correction codes",
+            "stabilizer codes",
+            "Coxeter compiler",
+            "3-SAT",
+            "quantum gates"
+        ],
+        "locations": []
+    },
+    "Spin Foam Vertex Amplitudes on Quantum Computer -- Preliminary Results": {
+        "keywords": [
+            "vertex amplitudes",
+            "spin foam models",
+            "quantum algorithms",
+            "intertwiner qubits",
+            "quantum computers",
+            "pentagram spin-network",
+            "Loop Quantum Gravity",
+            "Group Field Theories",
+            "quantum entanglement",
+            "quantum simulations"
+        ],
+        "locations": [
+            "France",
+            "Poland"
+        ]
+    },
+    "Spin networks on adiabatic quantum computer": {
+        "keywords": [
+            "spin networks",
+            "adiabatic quantum computing",
+            "D-Wave machine",
+            "quantum annealing",
+            "Loop Quantum Gravity",
+            "Hamiltonian constraint",
+            "Chimera architecture",
+            "qubit states",
+            "Ising model",
+            "quantum simulations"
+        ],
+        "locations": [
+            "Poland"
+        ]
+    },
+    "Symmetry defects and their application to topological quantum computing": {
+        "keywords": [
+            "symmetry defects",
+            "topological quantum computing",
+            "G-crossed braided fusion categories",
+            "anyons",
+            "projective representations",
+            "non-abelian statistics",
+            "quantum gates",
+            "modular tensor categories",
+            "symmetry breaking",
+            "bilayer Ising model"
+        ],
+        "locations": []
+    },
+    "The Mathematics of Quantum-Enabled Applications on the D-Wave Quantum Computer": {
+        "keywords": [
+            "adiabatic quantum computing",
+            "quantum annealing",
+            "D-Wave quantum computer",
+            "QUBO",
+            "topological data analysis",
+            "reverse annealing",
+            "hybrid algorithms",
+            "persistent homology",
+            "Wasserstein distance",
+            "minor embedding"
+        ],
+        "locations": [
+            "Canada"
+        ]
+    },
+    "The resurgence of the linear optics quantum interferometer --- recent advances & applications": {
+        "keywords": [
+            "linear optics",
+            "quantum interferometer",
+            "time-bin encoding",
+            "integrated photonics",
+            "single-photon sources",
+            "universal quantum computation",
+            "photonic entanglement",
+            "quantum state engineering",
+            "boson sampling",
+            "quantum metrology"
+        ],
+        "locations": []
+    },
+    "The Travelling Salesman Problem and Adiabatic Quantum Computation: An Algorithm": {
+        "keywords": [
+            "adiabatic quantum computation",
+            "travelling salesman problem",
+            "Hamiltonian",
+            "quantum ground states",
+            "computational complexity",
+            "energy resources",
+            "time complexity",
+            "quantum algorithms",
+            "NP-hard problems",
+            "optimization techniques"
+        ],
+        "locations": [
+            "Australia"
+        ]
+    },
+    "Three-dimensional surface codes: Transversal gates and fault-tolerant architectures": {
+        "keywords": [
+            "three-dimensional surface codes",
+            "transversal gates",
+            "fault-tolerant architectures",
+            "magic state distillation",
+            "lattice surgery",
+            "quantum error-correcting codes",
+            "control-control-Z gate",
+            "rectified picture",
+            "code concatenation",
+            "hybrid architecture"
+        ],
+        "locations": [
+            "United Kingdom"
+        ]
+    },
+    "Topological Quantum Computation from the 3-dimensional Bordism 2-Category": {
+        "keywords": [
+            "Topological Quantum Computation",
+            "Anyonic Engineering",
+            "Sanyon Topological Quantum Computation",
+            "Non-Abelian String Anyons",
+            "Loop Braid Group",
+            "Open-Closed Cobordism Category",
+            "Frobenius Algebras",
+            "Automated Theorem Proving",
+            "Quantum Automated Theorem Provers",
+            "Khovanov Homology"
+        ],
+        "locations": [
+            "Colombia"
+        ]
+    },
+    "Towards a Multi Target Quantum Computational Logic": {
+        "keywords": [
+            "Multi Target Quantum Computational Logic",
+            "Quantum Computational Logic",
+            "Quantum Circuit",
+            "Control Qubits",
+            "Target Qubits",
+            "Quantum Gates",
+            "Reversible Computation",
+            "Quantum Information Theory",
+            "Quantum Algorithms",
+            "Quantum Architectures"
+        ],
+        "locations": []
+    },
+    "Tracking Quantum Error Correction": {
+        "keywords": [
+            "GKP qubit",
+            "tracking quantum error correction",
+            "analog quantum error correction",
+            "single-qubit level QEC",
+            "logical-qubit level QEC",
+            "fault-tolerant quantum computation",
+            "continuous variables",
+            "squeezed vacuum states",
+            "quantum teleportation",
+            "Knill's C4/C6 code"
+        ],
+        "locations": [
+            "Japan"
+        ]
+    },
+    "Universal fault-tolerant measurement-based quantum computation": {
+        "keywords": [
+            "universal quantum computation",
+            "measurement-based quantum computation",
+            "Majorana modes",
+            "fault-tolerant quantum computing",
+            "stabilizer codes",
+            "linear optics",
+            "topological cluster state",
+            "resource-efficient protocols",
+            "code deformations",
+            "photonic quantum computation"
+        ],
+        "locations": [
+            "Australia"
+        ]
+    },
+    "Universal quantum computation using fractal symmetry-protected cluster phases": {
+        "keywords": [
+            "fractal symmetry",
+            "symmetry-protected topological phases",
+            "measurement-based quantum computation",
+            "cluster states",
+            "computational universality",
+            "rigid subsystem symmetries",
+            "fracton topological order",
+            "cellular automaton",
+            "Sierpinski cluster model",
+            "Fibonacci cluster model"
+        ],
+        "locations": [
+            "USA"
+        ]
+    },
+    "Universal quantum computing with superconducting charge qubits": {
+        "keywords": [
+            "superconducting qubits",
+            "universal quantum computing",
+            "capacitive coupling",
+            "quantum bus",
+            "high-fidelity operations",
+            "multi-qubit entanglement",
+            "Hamiltonian design",
+            "microwave control",
+            "parallel gate operations",
+            "quantum entangled states"
+        ],
+        "locations": [
+            "China",
+            "United Kingdom"
+        ]
+    },
+    "Universal Uncertainty Principle in Different Quantum Theories": {
+        "keywords": [
+            "universal uncertainty principle",
+            "quantum theories",
+            "quantum mechanics",
+            "quantum communication",
+            "quantum control",
+            "physical quantities",
+            "mathematical inequalities",
+            "Hermite operators",
+            "statistical physics",
+            "atomic physics"
+        ],
+        "locations": [
+            "USA",
+            "China"
+        ]
+    },
+    "Validating quantum computers using randomized model circuits": {
+        "keywords": [
+            "quantum volume",
+            "randomized benchmarking",
+            "NISQ systems",
+            "gate error rates",
+            "circuit rewriting",
+            "heavy output generation",
+            "quantum algorithms",
+            "transmon devices",
+            "error-correction experiments",
+            "quantum advantage"
+        ],
+        "locations": [
+            "United States"
+        ]
+    },
+    "Variational Consistent Histories as a Hybrid Algorithm for Quantum Foundations": {
+        "keywords": [
+            "Variational Consistent Histories",
+            "hybrid quantum-classical algorithm",
+            "quantum foundations",
+            "decoherence functional",
+            "exponential speedup",
+            "Consistent Histories formalism",
+            "quantum-to-classical transition",
+            "variational hybrid quantum-classical algorithms",
+            "cloud quantum computer",
+            "scalable quantum computation"
+        ],
+        "locations": [
+            "USA"
+        ]
+    },
+    "Wafer-scale fabrication and room-temperature experiments on graphene-based gates for quantum computation": {
+        "keywords": [
+            "graphene",
+            "quantum gates",
+            "ballistic transport",
+            "room-temperature",
+            "Deutsch-Jozsa algorithm",
+            "wafer-scale fabrication",
+            "qubits",
+            "coherent transport",
+            "miniaturization",
+            "quantum computation"
+        ],
+        "locations": []
+    }
+}
